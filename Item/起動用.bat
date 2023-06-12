@@ -1,0 +1,1 @@
+java -Xms8G -Xmx16G -jar server.jar
