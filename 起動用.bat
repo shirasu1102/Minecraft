@@ -1,1 +1,0 @@
-java -Xmx8G -Xms8G -jar server-1.20.jar
