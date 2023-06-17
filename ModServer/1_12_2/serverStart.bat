@@ -1,0 +1,1 @@
+java -Xms8G -Xmx8G -jar forge-1.12.2.jar
