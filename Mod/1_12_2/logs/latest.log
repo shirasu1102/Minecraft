@@ -1,29 +1,29 @@
-[15:49:58] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[15:49:58] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[15:49:58] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[15:49:58] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2860 for Minecraft 1.12.2 loading
-[15:49:58] [main/INFO] [FML]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_321, running on Windows 10:amd64:10.0, installed at D:\Game\Minecraft\Server\Github\Mod\1_12_2\Java\jre1.8.0_321
-[15:49:58] [main/INFO] [FML]: Searching D:\Game\Minecraft\Server\Github\Mod\1_12_2\.\mods for mods
-[15:49:58] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in Bloodmoon-MC1.12.2-1.5.3.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
-[15:49:58] [main/WARN] [FML]: The coremod lumien.bloodmoon.asm.LoadingPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
-[15:49:58] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in OpenModsLib-1.12.2-0.12.2.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
-[15:49:58] [main/WARN] [FML]: The coremod openmods.core.OpenModsCorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
-[15:49:58] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[15:49:58] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
-[15:49:58] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[15:49:58] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[15:49:58] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[15:49:59] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
-[15:49:59] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[15:49:59] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[15:49:59] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
-[15:49:59] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[15:49:59] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
-[15:49:59] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
-[15:49:59] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
-[15:50:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting minecraft server version 1.12.2
-[15:50:02] [Server thread/INFO] [FML]: MinecraftForge v14.23.5.2860 Initialized
-[15:50:02] [Server console handler/ERROR] [net.minecraft.server.dedicated.DedicatedServer]: Exception handling console input
+[16:02:22] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[16:02:22] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[16:02:22] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[16:02:22] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2860 for Minecraft 1.12.2 loading
+[16:02:22] [main/INFO] [FML]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_321, running on Windows 10:amd64:10.0, installed at D:\Minecraft\1_20_1\Mod\1_12_2\Java\jre1.8.0_321
+[16:02:22] [main/INFO] [FML]: Searching D:\Minecraft\1_20_1\Mod\1_12_2\.\mods for mods
+[16:02:22] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in Bloodmoon-MC1.12.2-1.5.3.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[16:02:22] [main/WARN] [FML]: The coremod lumien.bloodmoon.asm.LoadingPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[16:02:22] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in OpenModsLib-1.12.2-0.12.2.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[16:02:22] [main/WARN] [FML]: The coremod openmods.core.OpenModsCorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[16:02:22] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[16:02:22] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[16:02:22] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[16:02:22] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[16:02:22] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[16:02:23] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
+[16:02:23] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[16:02:23] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[16:02:23] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[16:02:23] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[16:02:23] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[16:02:23] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[16:02:23] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
+[16:02:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting minecraft server version 1.12.2
+[16:02:26] [Server thread/INFO] [FML]: MinecraftForge v14.23.5.2860 Initialized
+[16:02:26] [Server console handler/ERROR] [net.minecraft.server.dedicated.DedicatedServer]: Exception handling console input
 java.io.IOException: ハンドルが無効です。
 	at java.io.FileInputStream.readBytes(Native Method) ~[?:1.8.0_321]
 	at java.io.FileInputStream.read(Unknown Source) ~[?:1.8.0_321]
@@ -37,91 +37,92 @@ java.io.IOException: ハンドルが無効です。
 	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_321]
 	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_321]
 	at net.minecraft.server.dedicated.DedicatedServer$2.run(DedicatedServer.java:105) [nz$2.class:?]
-[15:50:02] [Server thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
-[15:50:02] [Server thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
-[15:50:02] [Server thread/INFO] [FML]: Replaced 1227 ore ingredients
-[15:50:02] [Server thread/INFO] [FML]: Searching D:\Game\Minecraft\Server\Github\Mod\1_12_2\.\mods for mods
-[15:50:02] [Server thread/WARN] [FML]: Mod ironchest is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.12.2-7.0.67.844
-[15:50:03] [Server thread/INFO] [FML]: Forge Mod Loader has identified 24 mods to load
-[15:50:03] [Server thread/WARN] [FML]: Missing English translation for FML: assets/fml/lang/en_us.lang
-[15:50:03] [Server thread/WARN] [FML]: Missing English translation for net.minecraft.scalar.cutall.mod_cutallsmp: assets/net.minecraft.scalar.cutall.mod_cutallsmp/lang/en_us.lang
-[15:50:03] [Server thread/WARN] [FML]: Missing English translation for net.minecraft.scalar.digall.mod_digallsmp: assets/net.minecraft.scalar.digall.mod_digallsmp/lang/en_us.lang
-[15:50:03] [Server thread/WARN] [FML]: Missing English translation for net.minecraft.scalar.mineall.mod_mineallsmp: assets/net.minecraft.scalar.mineall.mod_mineallsmp/lang/en_us.lang
-[15:50:03] [Server thread/WARN] [FML]: Missing English translation for bettercombatmod: assets/bettercombatmod/lang/en_us.lang
-[15:50:03] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, openmodscore, net.minecraft.scalar.cutall.mod_cutallsmp, net.minecraft.scalar.digall.mod_digallsmp, net.minecraft.scalar.mineall.mod_mineallsmp, storagebox, bettercombatmod, bloodmoon, carryon, grimoireofgaia, infernalmobs, ironchest, jei, journeymap, openblocks, openmods, flammpfeil.slashblade, swordcraftonline, twilightforest, uteamcore, usefulbackpacks] at CLIENT
-[15:50:03] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, openmodscore, net.minecraft.scalar.cutall.mod_cutallsmp, net.minecraft.scalar.digall.mod_digallsmp, net.minecraft.scalar.mineall.mod_mineallsmp, storagebox, bettercombatmod, bloodmoon, carryon, grimoireofgaia, infernalmobs, ironchest, jei, journeymap, openblocks, openmods, flammpfeil.slashblade, swordcraftonline, twilightforest, uteamcore, usefulbackpacks] at SERVER
-[15:50:04] [Server thread/INFO] [FML]: Processing ObjectHolder annotations
-[15:50:05] [Server thread/INFO] [FML]: Found 1928 ObjectHolder annotations
-[15:50:05] [Server thread/INFO] [FML]: Identifying ItemStackHolder annotations
-[15:50:05] [Server thread/INFO] [FML]: Found 0 ItemStackHolder annotations
-[15:50:05] [Server thread/INFO] [FML]: Configured a dormant chunk cache size of 0
-[15:50:05] [Forge Version Check/INFO] [forge.VersionCheck]: [uteamcore] Starting version check at https://api.u-team.info/update/uteamcore.json
-[15:50:06] [Forge Version Check/INFO] [forge.VersionCheck]: [uteamcore] Found status: OUTDATED Target: 2.2.5.255
-[15:50:06] [Forge Version Check/INFO] [forge.VersionCheck]: [carryon] Starting version check at https://gist.githubusercontent.com/Tschipp/dccadee7c90d7a34e6e76a35d9d6fa2e/raw/
-[15:50:06] [Forge Version Check/INFO] [forge.VersionCheck]: [usefulbackpacks] Starting version check at https://api.u-team.info/update/usefulbackpacks.json
-[15:50:06] [Forge Version Check/INFO] [forge.VersionCheck]: [usefulbackpacks] Found status: UP_TO_DATE Target: null
-[15:50:06] [Forge Version Check/INFO] [forge.VersionCheck]: [openblocks] Starting version check at http://openmods.info/versions/openblocks.json
-[15:50:06] [Forge Version Check/INFO] [forge.VersionCheck]: [openblocks] Found status: AHEAD Target: null
-[15:50:06] [Forge Version Check/INFO] [forge.VersionCheck]: [twilightforest] Starting version check at https://raw.githubusercontent.com/TeamTwilight/twilightforest/1.12.x/update.json
-[15:50:07] [Forge Version Check/INFO] [forge.VersionCheck]: [twilightforest] Found status: AHEAD Target: null
-[15:50:07] [Forge Version Check/INFO] [forge.VersionCheck]: [openmods] Starting version check at http://openmods.info/versions/openmodslib.json
-[15:50:07] [Forge Version Check/INFO] [forge.VersionCheck]: [openmods] Found status: AHEAD Target: null
-[15:50:07] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
-[15:50:07] [Server thread/INFO] [twilightforest]: Skipped compatibility for mod Baubles.
-[15:50:07] [Server thread/INFO] [twilightforest]: Skipped compatibility for mod Chisel.
-[15:50:07] [Server thread/INFO] [twilightforest]: Skipped compatibility for mod Forestry.
-[15:50:07] [Server thread/INFO] [twilightforest]: Skipped compatibility for mod Immersive Engineering.
-[15:50:07] [Server thread/INFO] [twilightforest]: Loaded compatibility for mod Just Enough Items.
-[15:50:07] [Server thread/INFO] [twilightforest]: Skipped compatibility for mod Tinkers' Construct.
-[15:50:07] [Server thread/INFO] [twilightforest]: Skipped compatibility for mod Thaumcraft.
-[15:50:07] [Server thread/INFO] [grimoireofgaia]: Registering blocks...
-[15:50:07] [Server thread/INFO] [grimoireofgaia]: Block registration complete.
-[15:50:07] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.iron`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
-[15:50:07] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.gold`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
-[15:50:07] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.diamond`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
-[15:50:07] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.copper`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
-[15:50:07] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.silver`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
-[15:50:07] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.crystal`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
-[15:50:07] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.obsidian`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
-[15:50:07] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.dirtchest9000`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
-[15:50:07] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.iron`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
-[15:50:07] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.gold`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
-[15:50:07] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.diamond`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
-[15:50:07] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.copper`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
-[15:50:07] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.silver`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
-[15:50:07] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.crystal`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
-[15:50:07] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.obsidian`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
-[15:50:07] [Server thread/INFO] [FML]: Applying holder lookups
-[15:50:07] [Server thread/INFO] [FML]: Holder lookups applied
-[15:50:07] [Server thread/INFO] [grimoireofgaia]: Registering items...
-[15:50:07] [Server thread/INFO] [grimoireofgaia]: Item registration complete.
-[15:50:07] [Server thread/INFO] [grimoireofgaia]: Registering item blocks...
-[15:50:07] [Server thread/INFO] [grimoireofgaia]: Item block registration complete.
-[15:50:08] [Server thread/INFO] [FML]: Applying holder lookups
-[15:50:08] [Server thread/INFO] [FML]: Holder lookups applied
-[15:50:08] [Server thread/INFO] [grimoireofgaia]: Registering entities...
-[15:50:08] [Server thread/INFO] [grimoireofgaia]: Entity registration complete.
-[15:50:08] [Server thread/INFO] [grimoireofgaia]: Registering Sounds
-[15:50:08] [Server thread/INFO] [grimoireofgaia]: Sounds Finished
-[15:50:08] [Server thread/INFO] [FML]: Applying holder lookups
-[15:50:08] [Server thread/INFO] [FML]: Holder lookups applied
-[15:50:08] [Server thread/INFO] [FML]: Applying holder lookups
-[15:50:08] [Server thread/INFO] [FML]: Holder lookups applied
-[15:50:08] [Server thread/INFO] [FML]: Injecting itemstacks
-[15:50:08] [Server thread/INFO] [FML]: Itemstack injection complete
-[15:50:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Loading properties
-[15:50:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Default game type: SURVIVAL
-[15:50:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Generating keypair
-[15:50:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting Minecraft server on *:25565
-[15:50:08] [Server thread/INFO] [net.minecraft.network.NetworkSystem]: Using default channel type
-[15:50:09] [Server thread/INFO] [grimoireofgaia]: Registering recipes...
-[15:50:09] [Server thread/INFO] [grimoireofgaia]: Recipe registration complete.
-[15:50:09] [Server thread/INFO] [FML]: Applying holder lookups
-[15:50:09] [Server thread/INFO] [FML]: Holder lookups applied
-[15:50:09] [Server thread/INFO] [infernalmobs]: InfernalMobsCore load() completed! Modifiers ready: 27, config file at: D:\Game\Minecraft\Server\Github\Mod\1_12_2\config\infernalmobs.cfg
-[15:50:10] [Server thread/INFO] [FML]: Injecting itemstacks
-[15:50:10] [Server thread/INFO] [FML]: Itemstack injection complete
-[15:50:10] [Server thread/INFO] [FML]: [all meta blocks]
+[16:02:26] [Server thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
+[16:02:26] [Server thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
+[16:02:26] [Server thread/INFO] [FML]: Replaced 1227 ore ingredients
+[16:02:26] [Server thread/INFO] [FML]: Searching D:\Minecraft\1_20_1\Mod\1_12_2\.\mods for mods
+[16:02:26] [Server thread/WARN] [FML]: Mod ironchest is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.12.2-7.0.67.844
+[16:02:27] [Server thread/INFO] [FML]: Forge Mod Loader has identified 24 mods to load
+[16:02:27] [Server thread/WARN] [FML]: Missing English translation for FML: assets/fml/lang/en_us.lang
+[16:02:27] [Server thread/WARN] [FML]: Missing English translation for net.minecraft.scalar.cutall.mod_cutallsmp: assets/net.minecraft.scalar.cutall.mod_cutallsmp/lang/en_us.lang
+[16:02:27] [Server thread/WARN] [FML]: Missing English translation for net.minecraft.scalar.digall.mod_digallsmp: assets/net.minecraft.scalar.digall.mod_digallsmp/lang/en_us.lang
+[16:02:27] [Server thread/WARN] [FML]: Missing English translation for net.minecraft.scalar.mineall.mod_mineallsmp: assets/net.minecraft.scalar.mineall.mod_mineallsmp/lang/en_us.lang
+[16:02:27] [Server thread/WARN] [FML]: Missing English translation for bettercombatmod: assets/bettercombatmod/lang/en_us.lang
+[16:02:27] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, openmodscore, net.minecraft.scalar.cutall.mod_cutallsmp, net.minecraft.scalar.digall.mod_digallsmp, net.minecraft.scalar.mineall.mod_mineallsmp, storagebox, bettercombatmod, bloodmoon, carryon, grimoireofgaia, infernalmobs, ironchest, jei, journeymap, openblocks, openmods, flammpfeil.slashblade, swordcraftonline, twilightforest, uteamcore, usefulbackpacks] at CLIENT
+[16:02:27] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, openmodscore, net.minecraft.scalar.cutall.mod_cutallsmp, net.minecraft.scalar.digall.mod_digallsmp, net.minecraft.scalar.mineall.mod_mineallsmp, storagebox, bettercombatmod, bloodmoon, carryon, grimoireofgaia, infernalmobs, ironchest, jei, journeymap, openblocks, openmods, flammpfeil.slashblade, swordcraftonline, twilightforest, uteamcore, usefulbackpacks] at SERVER
+[16:02:28] [Server thread/INFO] [FML]: Processing ObjectHolder annotations
+[16:02:28] [Server thread/INFO] [FML]: Found 1928 ObjectHolder annotations
+[16:02:28] [Server thread/INFO] [FML]: Identifying ItemStackHolder annotations
+[16:02:28] [Server thread/INFO] [FML]: Found 0 ItemStackHolder annotations
+[16:02:28] [Server thread/INFO] [FML]: Configured a dormant chunk cache size of 0
+[16:02:28] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[16:02:31] [Server thread/INFO] [twilightforest]: Skipped compatibility for mod Baubles.
+[16:02:31] [Server thread/INFO] [twilightforest]: Skipped compatibility for mod Chisel.
+[16:02:31] [Server thread/INFO] [twilightforest]: Skipped compatibility for mod Forestry.
+[16:02:31] [Server thread/INFO] [twilightforest]: Skipped compatibility for mod Immersive Engineering.
+[16:02:31] [Server thread/INFO] [twilightforest]: Loaded compatibility for mod Just Enough Items.
+[16:02:31] [Server thread/INFO] [twilightforest]: Skipped compatibility for mod Tinkers' Construct.
+[16:02:31] [Server thread/INFO] [twilightforest]: Skipped compatibility for mod Thaumcraft.
+[16:02:31] [Server thread/INFO] [grimoireofgaia]: Registering blocks...
+[16:02:31] [Server thread/INFO] [grimoireofgaia]: Block registration complete.
+[16:02:31] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.iron`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[16:02:31] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.gold`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[16:02:31] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.diamond`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[16:02:31] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.copper`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[16:02:31] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.silver`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[16:02:31] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.crystal`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[16:02:31] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.obsidian`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[16:02:31] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.dirtchest9000`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[16:02:31] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.iron`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[16:02:31] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.gold`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[16:02:31] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.diamond`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[16:02:31] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.copper`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[16:02:31] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.silver`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[16:02:31] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.crystal`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[16:02:31] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.obsidian`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[16:02:32] [Server thread/INFO] [FML]: Applying holder lookups
+[16:02:32] [Server thread/INFO] [FML]: Holder lookups applied
+[16:02:32] [Server thread/INFO] [grimoireofgaia]: Registering items...
+[16:02:32] [Server thread/INFO] [grimoireofgaia]: Item registration complete.
+[16:02:32] [Server thread/INFO] [grimoireofgaia]: Registering item blocks...
+[16:02:32] [Server thread/INFO] [grimoireofgaia]: Item block registration complete.
+[16:02:32] [Server thread/INFO] [FML]: Applying holder lookups
+[16:02:32] [Server thread/INFO] [FML]: Holder lookups applied
+[16:02:32] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: AHEAD Target: null
+[16:02:32] [Forge Version Check/INFO] [forge.VersionCheck]: [openmods] Starting version check at http://openmods.info/versions/openmodslib.json
+[16:02:32] [Server thread/INFO] [grimoireofgaia]: Registering entities...
+[16:02:32] [Server thread/INFO] [grimoireofgaia]: Entity registration complete.
+[16:02:33] [Forge Version Check/INFO] [forge.VersionCheck]: [openmods] Found status: AHEAD Target: null
+[16:02:33] [Forge Version Check/INFO] [forge.VersionCheck]: [openblocks] Starting version check at http://openmods.info/versions/openblocks.json
+[16:02:33] [Server thread/INFO] [grimoireofgaia]: Registering Sounds
+[16:02:33] [Server thread/INFO] [grimoireofgaia]: Sounds Finished
+[16:02:33] [Server thread/INFO] [FML]: Applying holder lookups
+[16:02:33] [Server thread/INFO] [FML]: Holder lookups applied
+[16:02:33] [Server thread/INFO] [FML]: Applying holder lookups
+[16:02:33] [Server thread/INFO] [FML]: Holder lookups applied
+[16:02:33] [Server thread/INFO] [FML]: Injecting itemstacks
+[16:02:33] [Server thread/INFO] [FML]: Itemstack injection complete
+[16:02:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Loading properties
+[16:02:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Default game type: SURVIVAL
+[16:02:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Generating keypair
+[16:02:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting Minecraft server on *:25565
+[16:02:33] [Server thread/INFO] [net.minecraft.network.NetworkSystem]: Using default channel type
+[16:02:33] [Forge Version Check/INFO] [forge.VersionCheck]: [openblocks] Found status: AHEAD Target: null
+[16:02:33] [Forge Version Check/INFO] [forge.VersionCheck]: [twilightforest] Starting version check at https://raw.githubusercontent.com/TeamTwilight/twilightforest/1.12.x/update.json
+[16:02:33] [Forge Version Check/INFO] [forge.VersionCheck]: [twilightforest] Found status: AHEAD Target: null
+[16:02:33] [Forge Version Check/INFO] [forge.VersionCheck]: [uteamcore] Starting version check at https://api.u-team.info/update/uteamcore.json
+[16:02:34] [Forge Version Check/INFO] [forge.VersionCheck]: [uteamcore] Found status: OUTDATED Target: 2.2.5.255
+[16:02:34] [Forge Version Check/INFO] [forge.VersionCheck]: [usefulbackpacks] Starting version check at https://api.u-team.info/update/usefulbackpacks.json
+[16:02:34] [Forge Version Check/INFO] [forge.VersionCheck]: [usefulbackpacks] Found status: UP_TO_DATE Target: null
+[16:02:34] [Forge Version Check/INFO] [forge.VersionCheck]: [carryon] Starting version check at https://gist.githubusercontent.com/Tschipp/dccadee7c90d7a34e6e76a35d9d6fa2e/raw/
+[16:02:34] [Server thread/INFO] [grimoireofgaia]: Registering recipes...
+[16:02:34] [Server thread/INFO] [grimoireofgaia]: Recipe registration complete.
+[16:02:34] [Server thread/INFO] [FML]: Applying holder lookups
+[16:02:34] [Server thread/INFO] [FML]: Holder lookups applied
+[16:02:34] [Server thread/INFO] [infernalmobs]: InfernalMobsCore load() completed! Modifiers ready: 27, config file at: D:\Minecraft\1_20_1\Mod\1_12_2\config\infernalmobs.cfg
+[16:02:34] [Server thread/INFO] [FML]: Injecting itemstacks
+[16:02:34] [Server thread/INFO] [FML]: Itemstack injection complete
+[16:02:34] [Server thread/INFO] [FML]: [all meta blocks]
 minecraft:stone:variant=stone (metadata=0)
 minecraft:stone:variant=granite (metadata=1)
 minecraft:stone:variant=smooth_granite (metadata=2)
@@ -3369,40 +3370,219 @@ swordcraftonline:gigascedarleaves:check_decay=false,decayable=false (metadata=1)
 swordcraftonline:gigascedarleaves:check_decay=true,decayable=true (metadata=2)
 swordcraftonline:gigascedarleaves:check_decay=true,decayable=false (metadata=3)
 
-[15:50:10] [Server thread/INFO] [FML]: Forge Mod Loader has successfully loaded 24 mods
-[15:50:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Preparing level "world"
-[15:50:10] [Server thread/INFO] [FML]: Injecting existing registry data into this server instance
-[15:50:10] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: AHEAD Target: null
-[15:50:10] [Server thread/INFO] [FML]: Applying holder lookups
-[15:50:10] [Server thread/INFO] [FML]: Holder lookups applied
-[15:50:10] [Server thread/INFO] [FML]: Loading dimension 0 (world) (net.minecraft.server.dedicated.DedicatedServer@286a794d)
-[15:50:11] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 700 advancements
-[15:50:11] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@286a794d)
-[15:50:11] [Server thread/INFO] [FML]: Loading dimension 1 (world) (net.minecraft.server.dedicated.DedicatedServer@286a794d)
-[15:50:11] [Server thread/INFO] [FML]: Loading dimension 7 (world) (net.minecraft.server.dedicated.DedicatedServer@286a794d)
-[15:50:11] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for level 0
-[15:50:12] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[15:50:12] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[15:50:12] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[15:50:12] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[15:50:12] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[15:50:12] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 45%
-[15:50:13] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[15:50:13] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[15:50:13] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[15:50:13] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[15:50:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Done (2.923s)! For help, type "help" or "?"
-[15:50:13] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class gaia.entity.monster.EntityGaiaMinotaurus from class gaia.entity.monster.EntityGaiaOrc
-[15:50:14] [Server thread/INFO] [FML]: Unloading dimension -1
-[15:50:14] [Server thread/INFO] [FML]: Unloading dimension 1
-[15:50:14] [Server thread/INFO] [FML]: Unloading dimension 7
-[15:50:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Opped shirasu219
-[15:50:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Stopping the server
-[15:50:48] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
-[15:50:48] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
-[15:50:48] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
-[15:50:48] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/overworld
-[15:50:48] [Server thread/INFO] [FML]: Unloading dimension 0
-[15:50:48] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
-[15:50:48] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
-[15:50:48] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[16:02:35] [Server thread/INFO] [FML]: Forge Mod Loader has successfully loaded 24 mods
+[16:02:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Preparing level "world"
+[16:02:35] [Server thread/INFO] [FML]: Injecting existing registry data into this server instance
+[16:02:35] [Server thread/INFO] [FML]: Applying holder lookups
+[16:02:35] [Server thread/INFO] [FML]: Holder lookups applied
+[16:02:35] [Server thread/INFO] [FML]: Loading dimension 0 (world) (net.minecraft.server.dedicated.DedicatedServer@404986d)
+[16:02:36] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 700 advancements
+[16:02:36] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@404986d)
+[16:02:37] [Server thread/INFO] [FML]: Loading dimension 1 (world) (net.minecraft.server.dedicated.DedicatedServer@404986d)
+[16:02:37] [Server thread/INFO] [FML]: Loading dimension 7 (world) (net.minecraft.server.dedicated.DedicatedServer@404986d)
+[16:02:37] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for level 0
+[16:02:37] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
+[16:02:37] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
+[16:02:37] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
+[16:02:38] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
+[16:02:38] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
+[16:02:38] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 27%
+[16:02:38] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
+[16:02:38] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
+[16:02:38] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
+[16:02:38] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
+[16:02:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Done (3.469s)! For help, type "help" or "?"
+[16:02:39] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class gaia.entity.monster.EntityGaiaMinotaurus from class gaia.entity.monster.EntityGaiaOrc
+[16:02:39] [Server thread/INFO] [FML]: Unloading dimension -1
+[16:02:39] [Server thread/INFO] [FML]: Unloading dimension 1
+[16:02:39] [Server thread/INFO] [FML]: Unloading dimension 7
+[16:02:42] [User Authenticator #1/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player sil_min is 738ba517-8ec4-45ef-af36-6815af8e986e
+[16:02:43] [Netty Server IO #1/INFO] [FML]: Client protocol version 2
+[16:02:43] [Netty Server IO #1/INFO] [FML]: Client attempting to join with 24 mods : minecraft@1.12.2,usefulbackpacks@1.5.4.85,swordcraftonline@1.0.1,FML@8.0.99.99,uteamcore@2.2.5.147,bettercombatmod@1.5.6,openmodscore@0.12.2,grimoireofgaia@1.7.2,openmods@0.12.2,jei@4.15.0.291,net.minecraft.scalar.cutall.mod_cutallsmp@2.5.2,carryon@1.12.3,forge@14.23.5.2860,net.minecraft.scalar.digall.mod_digallsmp@2.3.2,net.minecraft.scalar.mineall.mod_mineallsmp@2.6.6,bloodmoon@1.5.3,storagebox@3.2.0,twilightforest@3.11.1021,flammpfeil.slashblade@mc1.12-r33,mcp@9.42,infernalmobs@1.7.6,ironchest@1.12.2-7.0.67.844,journeymap@1.12.2-5.7.1,openblocks@1.8.1
+[16:02:43] [Netty Server IO #1/INFO] [journeymap]: CLIENT
+[16:02:43] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[16:02:43] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: sil_min[/127.0.0.1:50863] logged in with entity id 765 at (73.31560774267727, 61.0, 202.57139117457717)
+[16:02:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: sil_min joined the game
+[16:03:42] [User Authenticator #2/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player shirasu219 is da24293b-daa7-4d87-825f-773108250484
+[16:03:43] [Netty Server IO #3/INFO] [FML]: Client protocol version 2
+[16:03:43] [Netty Server IO #3/INFO] [FML]: Client attempting to join with 29 mods : minecraft@1.12.2,flansmod@5.10.0,usefulbackpacks@1.5.4.85,openmodscore@0.12.2,openmods@0.12.2,jei@4.15.0.291,mekanism@1.12.2-9.8.3.390,bloodmoon@1.5.3,mcp@9.42,journeymap@1.12.2-5.7.1,swordcraftonline@1.0.1,FML@8.0.99.99,uteamcore@2.2.5.147,mekanismtools@1.12.2-9.8.3.390,bettercombatmod@1.5.6,grimoireofgaia@1.7.2,mekanismgenerators@1.12.2-9.8.3.390,net.minecraft.scalar.cutall.mod_cutallsmp@2.5.2,carryon@1.12.3,forge@14.23.5.2859,net.minecraft.scalar.digall.mod_digallsmp@2.3.2,net.minecraft.scalar.mineall.mod_mineallsmp@2.6.6,storagebox@3.2.0,twilightforest@3.11.1021,flammpfeil.slashblade@mc1.12-r33,torohealthmod@1.12.2-11,infernalmobs@1.7.6,ironchest@1.12.2-7.0.67.844,openblocks@1.8.1
+[16:03:43] [Netty Server IO #3/INFO] [journeymap]: CLIENT
+[16:03:43] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[16:03:43] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: shirasu219[/60.145.57.122:61189] logged in with entity id 8293 at (34.841550390997426, 64.0, 226.1372460655218)
+[16:03:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: shirasu219 joined the game
+[16:05:35] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
+[16:05:35] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
+[16:05:36] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: shirasu219 lost connection: Disconnected
+[16:05:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: shirasu219 left the game
+[16:05:38] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
+[16:06:29] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
+[16:06:41] [Server thread/INFO] [OpenMods]: openblocks.common.PlayerInventoryStore.onPlayerDeath(PlayerInventoryStore.java:304): Storing post-mortem inventory into D:\Minecraft\1_20_1\Mod\1_12_2\.\world\data\inventory-sil_min-2023-06-17_16.06.41-death-0.dat. It can be restored with command '/ob_inventory restore sil_min sil_min-2023-06-17_16.06.41-death-0'
+[16:06:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: sil_min was killed by magic
+[16:06:42] [Server thread/INFO] [OpenMods]: openblocks.common.PlayerDeathHandler$GraveCallable.tryPlaceGrave(PlayerDeathHandler.java:200): Grave for (738ba517-8ec4-45ef-af36-6815af8e986e,sil_min) was spawned at (BlockPos{x=81, y=63, z=190}) (player died at (BlockPos{x=81, y=63, z=190}))
+[16:06:43] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
+[16:06:43] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
+[16:06:55] [Server thread/INFO] [OpenMods]: openblocks.common.PlayerInventoryStore.onPlayerDeath(PlayerInventoryStore.java:304): Storing post-mortem inventory into D:\Minecraft\1_20_1\Mod\1_12_2\.\world\data\inventory-sil_min-2023-06-17_16.06.55-death-0.dat. It can be restored with command '/ob_inventory restore sil_min sil_min-2023-06-17_16.06.55-death-0'
+[16:06:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: sil_min was killed by magic
+[16:07:07] [Server thread/INFO] [OpenMods]: openblocks.common.PlayerInventoryStore.onPlayerDeath(PlayerInventoryStore.java:304): Storing post-mortem inventory into D:\Minecraft\1_20_1\Mod\1_12_2\.\world\data\inventory-sil_min-2023-06-17_16.07.07-death-0.dat. It can be restored with command '/ob_inventory restore sil_min sil_min-2023-06-17_16.07.07-death-0'
+[16:07:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: sil_min was shot by Skeleton
+[16:07:08] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
+[16:07:23] [Server thread/INFO] [OpenMods]: openblocks.common.PlayerInventoryStore.onPlayerDeath(PlayerInventoryStore.java:304): Storing post-mortem inventory into D:\Minecraft\1_20_1\Mod\1_12_2\.\world\data\inventory-sil_min-2023-06-17_16.07.23-death-0.dat. It can be restored with command '/ob_inventory restore sil_min sil_min-2023-06-17_16.07.23-death-0'
+[16:07:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: sil_min was blown up by Creeper
+[16:07:37] [Server thread/INFO] [OpenMods]: openblocks.common.PlayerInventoryStore.onPlayerDeath(PlayerInventoryStore.java:304): Storing post-mortem inventory into D:\Minecraft\1_20_1\Mod\1_12_2\.\world\data\inventory-sil_min-2023-06-17_16.07.37-death-0.dat. It can be restored with command '/ob_inventory restore sil_min sil_min-2023-06-17_16.07.37-death-0'
+[16:07:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: sil_min was killed by magic
+[16:07:57] [Server thread/INFO] [OpenMods]: openblocks.common.PlayerInventoryStore.onPlayerDeath(PlayerInventoryStore.java:304): Storing post-mortem inventory into D:\Minecraft\1_20_1\Mod\1_12_2\.\world\data\inventory-sil_min-2023-06-17_16.07.57-death-0.dat. It can be restored with command '/ob_inventory restore sil_min sil_min-2023-06-17_16.07.57-death-0'
+[16:07:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: sil_min was shot by Skeleton
+[16:08:37] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
+[16:08:37] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
+[16:08:37] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
+[16:08:42] [Server thread/INFO] [OpenMods]: openblocks.common.PlayerInventoryStore.onPlayerDeath(PlayerInventoryStore.java:304): Storing post-mortem inventory into D:\Minecraft\1_20_1\Mod\1_12_2\.\world\data\inventory-sil_min-2023-06-17_16.08.42-death-0.dat. It can be restored with command '/ob_inventory restore sil_min sil_min-2023-06-17_16.08.42-death-0'
+[16:08:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: sil_min fell from a high place
+[16:08:42] [Server thread/INFO] [OpenMods]: openblocks.common.PlayerDeathHandler$GraveCallable.tryPlaceGrave(PlayerDeathHandler.java:200): Grave for (738ba517-8ec4-45ef-af36-6815af8e986e,sil_min) was spawned at (BlockPos{x=77, y=39, z=200}) (player died at (BlockPos{x=77, y=39, z=200}))
+[16:08:46] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
+[16:08:46] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
+[16:08:46] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
+[16:09:04] [Server thread/INFO] [OpenMods]: openblocks.common.PlayerInventoryStore.onPlayerDeath(PlayerInventoryStore.java:304): Storing post-mortem inventory into D:\Minecraft\1_20_1\Mod\1_12_2\.\world\data\inventory-sil_min-2023-06-17_16.09.04-death-0.dat. It can be restored with command '/ob_inventory restore sil_min sil_min-2023-06-17_16.09.04-death-0'
+[16:09:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: sil_min fell from a high place
+[16:09:04] [Server thread/INFO] [OpenMods]: openblocks.common.PlayerDeathHandler$GraveCallable.tryPlaceGrave(PlayerDeathHandler.java:200): Grave for (738ba517-8ec4-45ef-af36-6815af8e986e,sil_min) was spawned at (BlockPos{x=77, y=24, z=197}) (player died at (BlockPos{x=77, y=24, z=197}))
+[16:09:09] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
+[16:09:09] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
+[16:09:09] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
+[16:09:15] [Server thread/INFO] [OpenMods]: openblocks.common.PlayerInventoryStore.onPlayerDeath(PlayerInventoryStore.java:304): Storing post-mortem inventory into D:\Minecraft\1_20_1\Mod\1_12_2\.\world\data\inventory-sil_min-2023-06-17_16.09.15-death-0.dat. It can be restored with command '/ob_inventory restore sil_min sil_min-2023-06-17_16.09.15-death-0'
+[16:09:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: sil_min fell from a high place
+[16:09:15] [Server thread/INFO] [OpenMods]: openblocks.common.PlayerDeathHandler$GraveCallable.tryPlaceGrave(PlayerDeathHandler.java:200): Grave for (738ba517-8ec4-45ef-af36-6815af8e986e,sil_min) was spawned at (BlockPos{x=78, y=40, z=203}) (player died at (BlockPos{x=78, y=40, z=203}))
+[16:09:47] [Server thread/INFO] [OpenMods]: openblocks.common.PlayerInventoryStore.onPlayerDeath(PlayerInventoryStore.java:304): Storing post-mortem inventory into D:\Minecraft\1_20_1\Mod\1_12_2\.\world\data\inventory-sil_min-2023-06-17_16.09.47-death-0.dat. It can be restored with command '/ob_inventory restore sil_min sil_min-2023-06-17_16.09.47-death-0'
+[16:09:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: sil_min drowned
+[16:09:54] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
+[16:09:54] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
+[16:09:54] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
+[16:10:10] [User Authenticator #3/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player shirasu219 is da24293b-daa7-4d87-825f-773108250484
+[16:10:10] [Netty Server IO #4/INFO] [FML]: Client protocol version 2
+[16:10:10] [Netty Server IO #4/INFO] [FML]: Client attempting to join with 29 mods : minecraft@1.12.2,flansmod@5.10.0,usefulbackpacks@1.5.4.85,openmodscore@0.12.2,openmods@0.12.2,jei@4.15.0.291,mekanism@1.12.2-9.8.3.390,bloodmoon@1.5.3,mcp@9.42,journeymap@1.12.2-5.7.1,swordcraftonline@1.0.1,FML@8.0.99.99,uteamcore@2.2.5.147,mekanismtools@1.12.2-9.8.3.390,bettercombatmod@1.5.6,grimoireofgaia@1.7.2,mekanismgenerators@1.12.2-9.8.3.390,net.minecraft.scalar.cutall.mod_cutallsmp@2.5.2,carryon@1.12.3,forge@14.23.5.2859,net.minecraft.scalar.digall.mod_digallsmp@2.3.2,net.minecraft.scalar.mineall.mod_mineallsmp@2.6.6,storagebox@3.2.0,twilightforest@3.11.1021,flammpfeil.slashblade@mc1.12-r33,torohealthmod@1.12.2-11,infernalmobs@1.7.6,ironchest@1.12.2-7.0.67.844,openblocks@1.8.1
+[16:10:10] [Netty Server IO #4/INFO] [journeymap]: CLIENT
+[16:10:10] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[16:10:10] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: shirasu219[/60.145.57.122:61771] logged in with entity id 71097 at (33.37842584595946, 64.0, 232.00187654748854)
+[16:10:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: shirasu219 joined the game
+[16:10:13] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
+[16:10:15] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
+[16:10:15] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
+[16:10:18] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
+[16:10:18] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
+[16:10:18] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: shirasu219 lost connection: Disconnected
+[16:10:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: shirasu219 left the game
+[16:10:56] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
+[16:10:56] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
+[16:11:24] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
+[16:11:24] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
+[16:11:24] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
+[16:11:47] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
+[16:11:47] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
+[16:11:59] [User Authenticator #4/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player shirasu219 is da24293b-daa7-4d87-825f-773108250484
+[16:11:59] [Netty Server IO #6/INFO] [FML]: Client protocol version 2
+[16:11:59] [Netty Server IO #6/INFO] [FML]: Client attempting to join with 29 mods : minecraft@1.12.2,flansmod@5.10.0,usefulbackpacks@1.5.4.85,openmodscore@0.12.2,openmods@0.12.2,jei@4.15.0.291,mekanism@1.12.2-9.8.3.390,bloodmoon@1.5.3,mcp@9.42,journeymap@1.12.2-5.7.1,swordcraftonline@1.0.1,FML@8.0.99.99,uteamcore@2.2.5.147,mekanismtools@1.12.2-9.8.3.390,bettercombatmod@1.5.6,grimoireofgaia@1.7.2,mekanismgenerators@1.12.2-9.8.3.390,net.minecraft.scalar.cutall.mod_cutallsmp@2.5.2,carryon@1.12.3,forge@14.23.5.2859,net.minecraft.scalar.digall.mod_digallsmp@2.3.2,net.minecraft.scalar.mineall.mod_mineallsmp@2.6.6,storagebox@3.2.0,twilightforest@3.11.1021,flammpfeil.slashblade@mc1.12-r33,torohealthmod@1.12.2-11,infernalmobs@1.7.6,ironchest@1.12.2-7.0.67.844,openblocks@1.8.1
+[16:11:59] [Netty Server IO #6/INFO] [journeymap]: CLIENT
+[16:12:00] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[16:12:00] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: shirasu219[/60.145.57.122:62150] logged in with entity id 75942 at (30.869672346311216, 64.0, 225.83892192646306)
+[16:12:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: shirasu219 joined the game
+[16:12:00] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
+[16:12:00] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
+[16:12:03] [Server thread/INFO] [OpenMods]: openblocks.common.PlayerInventoryStore.onPlayerDeath(PlayerInventoryStore.java:304): Storing post-mortem inventory into D:\Minecraft\1_20_1\Mod\1_12_2\.\world\data\inventory-shirasu219-2023-06-17_16.12.03-death-0.dat. It can be restored with command '/ob_inventory restore shirasu219 shirasu219-2023-06-17_16.12.03-death-0'
+[16:12:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: shirasu219 was slain by Werecat
+[16:12:03] [Server thread/INFO] [OpenMods]: openblocks.common.PlayerDeathHandler$GraveCallable.tryPlaceGrave(PlayerDeathHandler.java:200): Grave for (da24293b-daa7-4d87-825f-773108250484,shirasu219) was spawned at (BlockPos{x=30, y=64, z=227}) (player died at (BlockPos{x=30, y=64, z=227}))
+[16:12:10] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
+[16:12:28] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
+[16:12:28] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
+[16:12:33] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
+[16:12:51] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
+[16:12:51] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
+[16:13:13] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
+[16:13:13] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
+[16:13:13] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
+[16:13:55] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
+[16:13:56] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
+[16:13:56] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
+[16:14:04] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
+[16:14:04] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
+[16:14:04] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
+[16:14:07] [Server thread/INFO] [OpenMods]: openblocks.common.PlayerInventoryStore.onPlayerDeath(PlayerInventoryStore.java:304): Storing post-mortem inventory into D:\Minecraft\1_20_1\Mod\1_12_2\.\world\data\inventory-sil_min-2023-06-17_16.14.07-death-0.dat. It can be restored with command '/ob_inventory restore sil_min sil_min-2023-06-17_16.14.07-death-0'
+[16:14:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: sil_min was slain by Banshee
+[16:14:13] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
+[16:14:23] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
+[16:14:23] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
+[16:14:26] [Server thread/INFO] [OpenMods]: openblocks.common.PlayerInventoryStore.onPlayerDeath(PlayerInventoryStore.java:304): Storing post-mortem inventory into D:\Minecraft\1_20_1\Mod\1_12_2\.\world\data\inventory-sil_min-2023-06-17_16.14.26-death-0.dat. It can be restored with command '/ob_inventory restore sil_min sil_min-2023-06-17_16.14.26-death-0'
+[16:14:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: sil_min was slain by Spriggan
+[16:14:33] [Server thread/INFO] [OpenMods]: openblocks.common.PlayerInventoryStore.onPlayerDeath(PlayerInventoryStore.java:304): Storing post-mortem inventory into D:\Minecraft\1_20_1\Mod\1_12_2\.\world\data\inventory-sil_min-2023-06-17_16.14.33-death-0.dat. It can be restored with command '/ob_inventory restore sil_min sil_min-2023-06-17_16.14.33-death-0'
+[16:14:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: sil_min was killed by magic
+[16:16:34] [Server thread/INFO] [OpenMods]: openblocks.common.PlayerInventoryStore.onPlayerDeath(PlayerInventoryStore.java:304): Storing post-mortem inventory into D:\Minecraft\1_20_1\Mod\1_12_2\.\world\data\inventory-sil_min-2023-06-17_16.16.34-death-0.dat. It can be restored with command '/ob_inventory restore sil_min sil_min-2023-06-17_16.16.34-death-0'
+[16:16:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: sil_min was slain by Werecat
+[16:16:34] [Server thread/INFO] [OpenMods]: openblocks.common.PlayerDeathHandler$GraveCallable.tryPlaceGrave(PlayerDeathHandler.java:200): Grave for (738ba517-8ec4-45ef-af36-6815af8e986e,sil_min) was spawned at (BlockPos{x=60, y=63, z=237}) (player died at (BlockPos{x=60, y=63, z=235}))
+[16:16:34] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
+[16:16:34] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
+[16:16:34] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
+[16:16:38] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
+[16:16:38] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
+[16:16:38] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
+[16:16:47] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
+[16:16:47] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
+[16:17:01] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
+[16:17:01] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
+[16:17:13] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
+[16:17:13] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
+[16:17:13] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
+[16:17:17] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
+[16:17:45] [Server thread/INFO] [OpenMods]: openblocks.common.PlayerInventoryStore.onPlayerDeath(PlayerInventoryStore.java:304): Storing post-mortem inventory into D:\Minecraft\1_20_1\Mod\1_12_2\.\world\data\inventory-sil_min-2023-06-17_16.17.45-death-0.dat. It can be restored with command '/ob_inventory restore sil_min sil_min-2023-06-17_16.17.45-death-0'
+[16:17:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: sil_min fell from a high place
+[16:18:09] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
+[16:18:09] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
+[16:20:43] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
+[16:20:43] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
+[16:20:43] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
+[16:21:18] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
+[16:21:18] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
+[16:21:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Given [Bread] * 1 to shirasu219]
+[16:22:13] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
+[16:22:13] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
+[16:22:36] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
+[16:22:36] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
+[16:22:46] [Server thread/INFO] [OpenMods]: openblocks.common.PlayerInventoryStore.onPlayerDeath(PlayerInventoryStore.java:304): Storing post-mortem inventory into D:\Minecraft\1_20_1\Mod\1_12_2\.\world\data\inventory-shirasu219-2023-06-17_16.22.46-death-0.dat. It can be restored with command '/ob_inventory restore shirasu219 shirasu219-2023-06-17_16.22.46-death-0'
+[16:22:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: shirasu219 was fireballed by Nine Tails
+[16:23:19] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
+[16:23:19] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
+[16:24:03] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
+[16:24:13] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
+[16:24:13] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
+[16:24:13] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
+[16:24:24] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
+[16:24:30] [Netty Server IO #6/ERROR] [FML]: NetworkDispatcher exception
+java.io.IOException: 確立された接続がホスト コンピューターのソウトウェアによって中止されました。
+	at sun.nio.ch.SocketDispatcher.read0(Native Method) ~[?:1.8.0_321]
+	at sun.nio.ch.SocketDispatcher.read(Unknown Source) ~[?:1.8.0_321]
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(Unknown Source) ~[?:1.8.0_321]
+	at sun.nio.ch.IOUtil.read(Unknown Source) ~[?:1.8.0_321]
+	at sun.nio.ch.SocketChannelImpl.read(Unknown Source) ~[?:1.8.0_321]
+	at io.netty.buffer.PooledUnsafeDirectByteBuf.setBytes(PooledUnsafeDirectByteBuf.java:288) ~[PooledUnsafeDirectByteBuf.class:?]
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1100) ~[AbstractByteBuf.class:?]
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:372) ~[NioSocketChannel.class:?]
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:123) [AbstractNioByteChannel$NioByteUnsafe.class:?]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:624) [NioEventLoop.class:?]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:559) [NioEventLoop.class:?]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:476) [NioEventLoop.class:?]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:438) [NioEventLoop.class:?]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:858) [SingleThreadEventExecutor$5.class:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_321]
+[16:24:30] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: shirasu219 lost connection: Internal Exception: java.io.IOException: 確立された接続がホスト コンピューターのソウトウェアによって中止されました。
+[16:24:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: shirasu219 left the game
+[16:24:30] [Server thread/WARN] [twilightforest]: Dropping inventory items previously held in reserve for player shirasu219
+[16:24:35] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
+[16:24:35] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
+[16:24:35] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
+[16:24:45] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: sil_min lost connection: Disconnected
+[16:24:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: sil_min left the game
+[16:25:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Stopping the server
+[16:25:03] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[16:25:03] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[16:25:03] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[16:25:03] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/overworld
+[16:25:03] [Server thread/INFO] [FML]: Unloading dimension 0
+[16:25:03] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[16:25:03] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[16:25:03] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
