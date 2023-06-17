@@ -1,0 +1,1 @@
+Java\jre1.8.0_321\bin\javaw -Xms8G -Xmx8G -jar forge-1.12.2.jar
