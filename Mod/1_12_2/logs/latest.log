@@ -1,37 +1,37 @@
-[16:55:38] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[16:55:38] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[16:55:38] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[16:55:38] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2860 for Minecraft 1.12.2 loading
-[16:55:38] [main/INFO] [FML]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_321, running on Windows 10:amd64:10.0, installed at D:\Game\Minecraft\Server\Github\Mod\1_12_2\Java\jre1.8.0_321
-[16:55:38] [main/INFO] [FML]: Searching D:\Game\Minecraft\Server\Github\Mod\1_12_2\.\mods for mods
-[16:55:38] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in Bloodmoon-MC1.12.2-1.5.3.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
-[16:55:38] [main/WARN] [FML]: The coremod lumien.bloodmoon.asm.LoadingPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
-[16:55:38] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in Forgelin-1.8.3.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
-[16:55:38] [main/WARN] [FML]: The coremod net.shadowfacts.forgelin.preloader.ForgelinPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
-[16:55:38] [main/WARN] [FML]: The coremod ForgelinPlugin (net.shadowfacts.forgelin.preloader.ForgelinPlugin) is not signed!
-[16:55:38] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in Mekanism-1.12.2-9.8.3.390.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
-[16:55:38] [main/WARN] [FML]: The coremod mekanism.coremod.MekanismCoremod does not have a MCVersion annotation, it may cause issues with this version of Minecraft
-[16:55:38] [main/WARN] [FML]: The coremod MekanismCoremod (mekanism.coremod.MekanismCoremod) is not signed!
-[16:55:38] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in OpenModsLib-1.12.2-0.12.2.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
-[16:55:38] [main/WARN] [FML]: The coremod openmods.core.OpenModsCorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
-[16:55:38] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[16:55:38] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
-[16:55:38] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[16:55:38] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[16:55:38] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[16:55:39] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
-[16:55:39] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[16:55:39] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[16:55:39] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[16:55:39] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
-[16:55:39] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[16:55:39] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[16:55:39] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
-[16:55:39] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
-[16:55:40] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
-[16:55:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting minecraft server version 1.12.2
-[16:55:42] [Server thread/INFO] [FML]: MinecraftForge v14.23.5.2860 Initialized
-[16:55:42] [Server console handler/ERROR] [net.minecraft.server.dedicated.DedicatedServer]: Exception handling console input
+[17:18:06] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[17:18:06] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[17:18:06] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[17:18:06] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2860 for Minecraft 1.12.2 loading
+[17:18:06] [main/INFO] [FML]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_321, running on Windows 10:amd64:10.0, installed at D:\Minecraft\1_20_1\Mod\1_12_2\Java\jre1.8.0_321
+[17:18:07] [main/INFO] [FML]: Searching D:\Minecraft\1_20_1\Mod\1_12_2\.\mods for mods
+[17:18:07] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in Bloodmoon-MC1.12.2-1.5.3.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[17:18:07] [main/WARN] [FML]: The coremod lumien.bloodmoon.asm.LoadingPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[17:18:07] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in Forgelin-1.8.3.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[17:18:07] [main/WARN] [FML]: The coremod net.shadowfacts.forgelin.preloader.ForgelinPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[17:18:07] [main/WARN] [FML]: The coremod ForgelinPlugin (net.shadowfacts.forgelin.preloader.ForgelinPlugin) is not signed!
+[17:18:07] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in Mekanism-1.12.2-9.8.3.390.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[17:18:07] [main/WARN] [FML]: The coremod mekanism.coremod.MekanismCoremod does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[17:18:07] [main/WARN] [FML]: The coremod MekanismCoremod (mekanism.coremod.MekanismCoremod) is not signed!
+[17:18:07] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in OpenModsLib-1.12.2-0.12.2.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[17:18:07] [main/WARN] [FML]: The coremod openmods.core.OpenModsCorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[17:18:07] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[17:18:07] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[17:18:07] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[17:18:07] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[17:18:07] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[17:18:08] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
+[17:18:08] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[17:18:08] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[17:18:08] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[17:18:08] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[17:18:08] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[17:18:08] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[17:18:08] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[17:18:08] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[17:18:08] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
+[17:18:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting minecraft server version 1.12.2
+[17:18:11] [Server thread/INFO] [FML]: MinecraftForge v14.23.5.2860 Initialized
+[17:18:11] [Server console handler/ERROR] [net.minecraft.server.dedicated.DedicatedServer]: Exception handling console input
 java.io.IOException: ハンドルが無効です。
 	at java.io.FileInputStream.readBytes(Native Method) ~[?:1.8.0_321]
 	at java.io.FileInputStream.read(Unknown Source) ~[?:1.8.0_321]
@@ -45,143 +45,253 @@ java.io.IOException: ハンドルが無効です。
 	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_321]
 	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_321]
 	at net.minecraft.server.dedicated.DedicatedServer$2.run(DedicatedServer.java:105) [nz$2.class:?]
-[16:55:42] [Server thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
-[16:55:42] [Server thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
-[16:55:42] [Server thread/INFO] [FML]: Replaced 1227 ore ingredients
-[16:55:42] [Server thread/INFO] [FML]: Searching D:\Game\Minecraft\Server\Github\Mod\1_12_2\.\mods for mods
-[16:55:43] [Server thread/WARN] [FML]: Mod ironchest is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.12.2-7.0.67.844
-[16:55:43] [Server thread/WARN] [FML]: Mod mekanismgenerators is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.12.2-9.8.3.390
-[16:55:43] [Server thread/WARN] [FML]: Mod mekanismtools is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.12.2-9.8.3.390
-[16:55:44] [Server thread/INFO] [FML]: Disabling mod torohealthmod it is client side only.
-[16:55:44] [Server thread/INFO] [FML]: Forge Mod Loader has identified 34 mods to load
-[16:55:44] [Server thread/WARN] [FML]: Missing English translation for FML: assets/fml/lang/en_us.lang
-[16:55:44] [Server thread/WARN] [FML]: Missing English translation for net.minecraft.scalar.cutall.mod_cutallsmp: assets/net.minecraft.scalar.cutall.mod_cutallsmp/lang/en_us.lang
-[16:55:44] [Server thread/WARN] [FML]: Missing English translation for net.minecraft.scalar.digall.mod_digallsmp: assets/net.minecraft.scalar.digall.mod_digallsmp/lang/en_us.lang
-[16:55:44] [Server thread/WARN] [FML]: Missing English translation for net.minecraft.scalar.mineall.mod_mineallsmp: assets/net.minecraft.scalar.mineall.mod_mineallsmp/lang/en_us.lang
-[16:55:44] [Server thread/WARN] [FML]: Missing English translation for bettercombatmod: assets/bettercombatmod/lang/en_us.lang
-[16:55:44] [Server thread/WARN] [FML]: Missing English translation for forgelin: assets/forgelin/lang/en_us.lang
-[16:55:44] [Server thread/WARN] [FML]: Missing English translation for gunpowderlib: assets/gunpowderlib/lang/en_us.lang
-[16:55:44] [Server thread/WARN] [FML]: Missing English translation for mekanismgenerators: assets/mekanismgenerators/lang/en_us.lang
-[16:55:44] [Server thread/WARN] [FML]: Missing English translation for mekanismtools: assets/mekanismtools/lang/en_us.lang
-[16:55:44] [Server thread/WARN] [FML]: Missing English translation for teslacorelib_registries: assets/teslacorelib_registries/lang/en_us.lang
-[16:55:44] [Server thread/INFO] [FML]: FML has found a non-mod file torohealth-1.12.2-11.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
-[16:55:44] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, openmodscore, net.minecraft.scalar.cutall.mod_cutallsmp, net.minecraft.scalar.digall.mod_digallsmp, net.minecraft.scalar.mineall.mod_mineallsmp, storagebox, bettercombatmod, bloodmoon, carryon, flansmod, forgelin, grimoireofgaia, gunpowderlib, industrialforegoing, industrialmeat, integrationforegoing, ironchest, jei, journeymap, mekanism, mekanismgenerators, mekanismtools, openblocks, openmods, flammpfeil.slashblade, swordcraftonline, teslacorelib, teslacorelib_registries, twilightforest, uteamcore, usefulbackpacks] at CLIENT
-[16:55:44] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, openmodscore, net.minecraft.scalar.cutall.mod_cutallsmp, net.minecraft.scalar.digall.mod_digallsmp, net.minecraft.scalar.mineall.mod_mineallsmp, storagebox, bettercombatmod, bloodmoon, carryon, flansmod, forgelin, grimoireofgaia, gunpowderlib, industrialforegoing, industrialmeat, integrationforegoing, ironchest, jei, journeymap, mekanism, mekanismgenerators, mekanismtools, openblocks, openmods, flammpfeil.slashblade, swordcraftonline, teslacorelib, teslacorelib_registries, twilightforest, uteamcore, usefulbackpacks] at SERVER
-[16:55:46] [Server thread/WARN] [teslacorelib]: Annotated class 'net.ndrei.teslacorelib.blocks.multipart.MultiPartBlockEvents' not found!
-[16:55:47] [Server thread/INFO] [FML]: Processing ObjectHolder annotations
-[16:55:47] [Server thread/INFO] [FML]: Found 1986 ObjectHolder annotations
-[16:55:47] [Server thread/INFO] [FML]: Identifying ItemStackHolder annotations
-[16:55:47] [Server thread/INFO] [FML]: Found 0 ItemStackHolder annotations
-[16:55:47] [Server thread/INFO] [FML]: Configured a dormant chunk cache size of 0
-[16:55:47] [Forge Version Check/INFO] [forge.VersionCheck]: [openmods] Starting version check at http://openmods.info/versions/openmodslib.json
-[16:55:47] [Server thread/INFO] [flansmod]: Loaded content pack from Flan folder : Simple+Parts-Content+Pack-1.12.2-5.7.2.jar
-[16:55:47] [Server thread/INFO] [flansmod]: Loaded content pack from Flan folder : WW2-ContentPack-1.12.2-5.7.2.jar
-[16:55:47] [Server thread/INFO] [flansmod]: Loaded content pack list from Flan folder
-[16:55:47] [Server thread/INFO] [flansmod]: Registered Flan folder model redirect from simple to com.flansmod.simple.client.model
-[16:55:47] [Server thread/INFO] [flansmod]: Registered Flan folder model redirect from ww2 to com.flansmod.ww2.client.model
-[16:55:47] [Server thread/INFO] [flansmod]: Loaded part.
-[16:55:47] [Server thread/INFO] [flansmod]: Loaded bullet.
-[16:55:48] [Server thread/INFO] [flansmod]: Loaded attachment.
-[16:55:48] [Server thread/INFO] [flansmod]: Loaded grenade.
-[16:55:48] [Server thread/INFO] [flansmod]: Loaded gun.
-[16:55:48] [Server thread/INFO] [flansmod]: Loaded aa.
-[16:55:48] [Server thread/INFO] [flansmod]: Loaded vehicle.
-[16:55:48] [Server thread/INFO] [flansmod]: Loaded plane.
-[16:55:48] [Server thread/INFO] [flansmod]: Loaded mechaItem.
-[16:55:48] [Server thread/INFO] [flansmod]: Loaded mecha.
-[16:55:48] [Server thread/INFO] [flansmod]: Loaded tool.
-[16:55:48] [Server thread/INFO] [flansmod]: Loaded armour.
-[16:55:48] [Server thread/INFO] [flansmod]: Loaded armourBox.
-[16:55:48] [Server thread/INFO] [flansmod]: Loaded box.
-[16:55:48] [Server thread/INFO] [flansmod]: Loaded playerClass.
-[16:55:48] [Server thread/INFO] [flansmod]: Loaded team.
-[16:55:48] [Server thread/INFO] [flansmod]: Loaded itemHolder.
-[16:55:48] [Server thread/INFO] [flansmod]: Loaded rewardBox.
-[16:55:48] [Server thread/INFO] [flansmod]: Loaded loadout.
-[16:55:48] [Server thread/INFO] [flansmod]: Loaded glove.
-[16:55:48] [Forge Version Check/INFO] [forge.VersionCheck]: [openmods] Found status: AHEAD Target: null
-[16:55:48] [Forge Version Check/INFO] [forge.VersionCheck]: [usefulbackpacks] Starting version check at https://api.u-team.info/update/usefulbackpacks.json
-[16:55:48] [Server thread/INFO] [Mekanism]: Didn't detect MCMP, ignoring compatibility package
-[16:55:49] [Forge Version Check/INFO] [forge.VersionCheck]: [usefulbackpacks] Found status: UP_TO_DATE Target: null
-[16:55:49] [Forge Version Check/INFO] [forge.VersionCheck]: [twilightforest] Starting version check at https://raw.githubusercontent.com/TeamTwilight/twilightforest/1.12.x/update.json
-[16:55:49] [Forge Version Check/INFO] [forge.VersionCheck]: [twilightforest] Found status: AHEAD Target: null
-[16:55:49] [Forge Version Check/INFO] [forge.VersionCheck]: [openblocks] Starting version check at http://openmods.info/versions/openblocks.json
-[16:55:49] [Forge Version Check/INFO] [forge.VersionCheck]: [openblocks] Found status: AHEAD Target: null
-[16:55:49] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
-[16:55:52] [Server thread/INFO] [twilightforest]: Skipped compatibility for mod Baubles.
-[16:55:52] [Server thread/INFO] [twilightforest]: Skipped compatibility for mod Chisel.
-[16:55:52] [Server thread/INFO] [twilightforest]: Skipped compatibility for mod Forestry.
-[16:55:52] [Server thread/INFO] [twilightforest]: Skipped compatibility for mod Immersive Engineering.
-[16:55:52] [Server thread/INFO] [twilightforest]: Loaded compatibility for mod Just Enough Items.
-[16:55:52] [Server thread/INFO] [twilightforest]: Skipped compatibility for mod Tinkers' Construct.
-[16:55:52] [Server thread/INFO] [twilightforest]: Skipped compatibility for mod Thaumcraft.
-[16:55:52] [Server thread/INFO] [grimoireofgaia]: Registering blocks...
-[16:55:52] [Server thread/INFO] [grimoireofgaia]: Block registration complete.
-[16:55:52] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: AHEAD Target: null
-[16:55:52] [Forge Version Check/INFO] [forge.VersionCheck]: [carryon] Starting version check at https://gist.githubusercontent.com/Tschipp/dccadee7c90d7a34e6e76a35d9d6fa2e/raw/
-[16:55:52] [Forge Version Check/INFO] [forge.VersionCheck]: [uteamcore] Starting version check at https://api.u-team.info/update/uteamcore.json
-[16:55:52] [Forge Version Check/INFO] [forge.VersionCheck]: [uteamcore] Found status: OUTDATED Target: 2.2.5.255
-[16:55:52] [Forge Version Check/INFO] [forge.VersionCheck]: [industrialforegoing] Starting version check at https://raw.githubusercontent.com/Buuz135/Industrial-Foregoing/master/update.json
-[16:55:53] [Forge Version Check/INFO] [forge.VersionCheck]: [industrialforegoing] Found status: BETA Target: null
-[16:55:55] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `portal`, expected `mekanism`. This could be a intended override, but in most cases indicates a broken mod.
-[16:55:55] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.iron`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
-[16:55:55] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.gold`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
-[16:55:55] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.diamond`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
-[16:55:55] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.copper`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
-[16:55:55] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.silver`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
-[16:55:55] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.crystal`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
-[16:55:55] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.obsidian`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
-[16:55:55] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.dirtchest9000`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
-[16:55:55] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.iron`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
-[16:55:55] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.gold`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
-[16:55:55] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.diamond`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
-[16:55:55] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.copper`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
-[16:55:55] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.silver`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
-[16:55:55] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.crystal`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
-[16:55:55] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.obsidian`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
-[16:55:56] [Server thread/INFO] [flansmod]: Registering Blocks
-[16:55:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `conveyor_tile`, expected `industrialforegoing`. This could be a intended override, but in most cases indicates a broken mod.
-[16:55:56] [Server thread/INFO] [FML]: Applying holder lookups
-[16:55:56] [Server thread/INFO] [FML]: Holder lookups applied
-[16:55:56] [Server thread/INFO] [grimoireofgaia]: Registering items...
-[16:55:56] [Server thread/INFO] [grimoireofgaia]: Item registration complete.
-[16:55:56] [Server thread/INFO] [grimoireofgaia]: Registering item blocks...
-[16:55:56] [Server thread/INFO] [grimoireofgaia]: Item block registration complete.
-[16:55:56] [Server thread/INFO] [flansmod]: Registering Items
-[16:55:56] [Server thread/INFO] [FML]: Applying holder lookups
-[16:55:56] [Server thread/INFO] [FML]: Holder lookups applied
-[16:55:56] [Server thread/INFO] [grimoireofgaia]: Registering entities...
-[16:55:56] [Server thread/INFO] [grimoireofgaia]: Entity registration complete.
-[16:55:56] [Server thread/INFO] [flansmod]: Registering Entities
-[16:55:56] [Server thread/INFO] [grimoireofgaia]: Registering Sounds
-[16:55:56] [Server thread/INFO] [grimoireofgaia]: Sounds Finished
-[16:55:57] [Server thread/INFO] [FML]: Applying holder lookups
-[16:55:57] [Server thread/INFO] [FML]: Holder lookups applied
-[16:55:57] [Server thread/INFO] [FML]: Applying holder lookups
-[16:55:57] [Server thread/INFO] [FML]: Holder lookups applied
-[16:55:57] [Server thread/INFO] [FML]: Injecting itemstacks
-[16:55:57] [Server thread/INFO] [FML]: Itemstack injection complete
-[16:55:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Loading properties
-[16:55:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Default game type: SURVIVAL
-[16:55:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Generating keypair
-[16:55:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting Minecraft server on *:25565
-[16:55:57] [Server thread/INFO] [net.minecraft.network.NetworkSystem]: Using default channel type
-[16:55:58] [Server thread/INFO] [grimoireofgaia]: Registering recipes...
-[16:55:58] [Server thread/INFO] [grimoireofgaia]: Recipe registration complete.
-[16:55:58] [Server thread/INFO] [flansmod]: Registering Recipes.
-[16:55:58] [Server thread/INFO] [FML]: Applying holder lookups
-[16:55:58] [Server thread/INFO] [FML]: Holder lookups applied
-[16:55:58] [Server thread/INFO] [flansmod]: Initialising Flan's Mod.
-[16:55:58] [Server thread/INFO] [flansmod]: Loading complete.
-[16:55:58] [Server thread/INFO] [Mekanism]: Version 9.8.3 initializing...
-[16:55:58] [Server thread/INFO] [Mekanism]: Loading complete.
-[16:55:58] [Server thread/INFO] [Mekanism]: Mod loaded.
-[16:55:59] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tile_meatpacker`, expected `industrialmeat`. This could be a intended override, but in most cases indicates a broken mod.
-[16:55:59] [Server thread/INFO] [Mekanism]: Loaded MekanismGenerators module.
-[16:55:59] [Server thread/INFO] [Mekanism]: Loaded 'Mekanism: Tools' module.
-[16:55:59] [Server thread/INFO] [FML]: Injecting itemstacks
-[16:55:59] [Server thread/INFO] [FML]: Itemstack injection complete
-[16:55:59] [Server thread/INFO] [FML]: [all meta blocks]
+[17:18:11] [Server thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
+[17:18:11] [Server thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
+[17:18:11] [Server thread/INFO] [FML]: Replaced 1227 ore ingredients
+[17:18:11] [Server thread/INFO] [FML]: Searching D:\Minecraft\1_20_1\Mod\1_12_2\.\mods for mods
+[17:18:12] [Server thread/WARN] [FML]: Mod ironchest is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.12.2-7.0.67.844
+[17:18:12] [Server thread/WARN] [FML]: Mod mekanismgenerators is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.12.2-9.8.3.390
+[17:18:12] [Server thread/WARN] [FML]: Mod mekanismtools is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.12.2-9.8.3.390
+[17:18:12] [Server thread/INFO] [FML]: Disabling mod torohealthmod it is client side only.
+[17:18:13] [Server thread/INFO] [FML]: Forge Mod Loader has identified 34 mods to load
+[17:18:13] [Server thread/WARN] [FML]: Missing English translation for FML: assets/fml/lang/en_us.lang
+[17:18:13] [Server thread/WARN] [FML]: Missing English translation for net.minecraft.scalar.cutall.mod_cutallsmp: assets/net.minecraft.scalar.cutall.mod_cutallsmp/lang/en_us.lang
+[17:18:13] [Server thread/WARN] [FML]: Missing English translation for net.minecraft.scalar.digall.mod_digallsmp: assets/net.minecraft.scalar.digall.mod_digallsmp/lang/en_us.lang
+[17:18:13] [Server thread/WARN] [FML]: Missing English translation for net.minecraft.scalar.mineall.mod_mineallsmp: assets/net.minecraft.scalar.mineall.mod_mineallsmp/lang/en_us.lang
+[17:18:13] [Server thread/WARN] [FML]: Missing English translation for bettercombatmod: assets/bettercombatmod/lang/en_us.lang
+[17:18:13] [Server thread/WARN] [FML]: Missing English translation for forgelin: assets/forgelin/lang/en_us.lang
+[17:18:13] [Server thread/WARN] [FML]: Missing English translation for gunpowderlib: assets/gunpowderlib/lang/en_us.lang
+[17:18:13] [Server thread/WARN] [FML]: Missing English translation for mekanismgenerators: assets/mekanismgenerators/lang/en_us.lang
+[17:18:13] [Server thread/WARN] [FML]: Missing English translation for mekanismtools: assets/mekanismtools/lang/en_us.lang
+[17:18:13] [Server thread/WARN] [FML]: Missing English translation for teslacorelib_registries: assets/teslacorelib_registries/lang/en_us.lang
+[17:18:13] [Server thread/INFO] [FML]: FML has found a non-mod file torohealth-1.12.2-11.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[17:18:13] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, openmodscore, net.minecraft.scalar.cutall.mod_cutallsmp, net.minecraft.scalar.digall.mod_digallsmp, net.minecraft.scalar.mineall.mod_mineallsmp, storagebox, bettercombatmod, bloodmoon, carryon, flansmod, forgelin, grimoireofgaia, gunpowderlib, industrialforegoing, industrialmeat, integrationforegoing, ironchest, jei, journeymap, mekanism, mekanismgenerators, mekanismtools, openblocks, openmods, flammpfeil.slashblade, swordcraftonline, teslacorelib, teslacorelib_registries, twilightforest, uteamcore, usefulbackpacks] at CLIENT
+[17:18:13] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, openmodscore, net.minecraft.scalar.cutall.mod_cutallsmp, net.minecraft.scalar.digall.mod_digallsmp, net.minecraft.scalar.mineall.mod_mineallsmp, storagebox, bettercombatmod, bloodmoon, carryon, flansmod, forgelin, grimoireofgaia, gunpowderlib, industrialforegoing, industrialmeat, integrationforegoing, ironchest, jei, journeymap, mekanism, mekanismgenerators, mekanismtools, openblocks, openmods, flammpfeil.slashblade, swordcraftonline, teslacorelib, teslacorelib_registries, twilightforest, uteamcore, usefulbackpacks] at SERVER
+[17:18:15] [Server thread/WARN] [teslacorelib]: Annotated class 'net.ndrei.teslacorelib.blocks.multipart.MultiPartBlockEvents' not found!
+[17:18:16] [Server thread/INFO] [FML]: Processing ObjectHolder annotations
+[17:18:17] [Server thread/INFO] [FML]: Found 1986 ObjectHolder annotations
+[17:18:17] [Server thread/INFO] [FML]: Identifying ItemStackHolder annotations
+[17:18:17] [Server thread/INFO] [FML]: Found 0 ItemStackHolder annotations
+[17:18:17] [Server thread/INFO] [FML]: Configured a dormant chunk cache size of 0
+[17:18:17] [Forge Version Check/INFO] [forge.VersionCheck]: [carryon] Starting version check at https://gist.githubusercontent.com/Tschipp/dccadee7c90d7a34e6e76a35d9d6fa2e/raw/
+[17:18:17] [Server thread/INFO] [flansmod]: Loaded content pack from Flan folder : Apocalypse-Content Pack-1.12.2-5.5.2.jar
+[17:18:17] [Server thread/INFO] [flansmod]: Loaded content pack from Flan folder : Mecha Parts-Content Pack-1.12.2-5.5.2.jar
+[17:18:17] [Server thread/INFO] [flansmod]: Loaded content pack from Flan folder : Modern Warfare-Content Pack-1.12.2-5.5.2.jar
+[17:18:17] [Server thread/INFO] [flansmod]: Loaded content pack from Flan folder : Nerf-Content Pack-1.12.2-5.5.2.jar
+[17:18:17] [Server thread/INFO] [flansmod]: Loaded content pack from Flan folder : Simple Parts-Content Pack-1.12.2-5.5.2.jar
+[17:18:17] [Server thread/INFO] [flansmod]: Loaded content pack from Flan folder : Simple+Parts-Content+Pack-1.12.2-5.7.2.jar
+[17:18:17] [Server thread/INFO] [flansmod]: Loaded content pack from Flan folder : Titan-Content Pack-1.12.2-5.5.2.jar
+[17:18:17] [Server thread/INFO] [flansmod]: Loaded content pack from Flan folder : WW2-Content Pack-1.12.2-5.5.2.jar
+[17:18:17] [Server thread/INFO] [flansmod]: Loaded content pack from Flan folder : WW2-ContentPack-1.12.2-5.7.2.jar
+[17:18:17] [Server thread/INFO] [flansmod]: Loaded content pack from Flan folder : Ye Olde-Content Pack-1.12.2-5.5.2.jar
+[17:18:17] [Server thread/INFO] [flansmod]: Loaded content pack from Flan folder : Zombie-Content Pack-1.12.2-5.5.2.jar
+[17:18:17] [Server thread/INFO] [flansmod]: Loaded content pack list from Flan folder
+[17:18:17] [Server thread/INFO] [flansmod]: Registered Flan folder model redirect from simple to com.flansmod.simple.client.model
+[17:18:17] [Server thread/INFO] [flansmod]: Registered Flan folder model redirect from ww2 to com.flansmod.ww2.client.model
+[17:18:17] [Forge Version Check/INFO] [forge.VersionCheck]: [openmods] Starting version check at http://openmods.info/versions/openmodslib.json
+[17:18:17] [Server thread/INFO] [flansmod]: Loaded part.
+[17:18:17] [Server thread/INFO] [flansmod]: Loaded bullet.
+[17:18:17] [Server thread/WARN] [flansmod]: Duplicate info type name ZF4Scope
+[17:18:17] [Server thread/INFO] [flansmod]: Loaded attachment.
+[17:18:17] [Server thread/INFO] [flansmod]: Loaded grenade.
+[17:18:17] [Server thread/WARN] [flansmod]: Duplicate info type name 2Pdr
+[17:18:17] [Server thread/WARN] [flansmod]: Duplicate info type name 50Cal
+[17:18:17] [Server thread/WARN] [flansmod]: Duplicate info type name BAR
+[17:18:17] [Server thread/WARN] [flansmod]: Duplicate info type name bazooka
+[17:18:17] [Server thread/WARN] [flansmod]: Duplicate info type name ww2Binoculars
+[17:18:17] [Server thread/WARN] [flansmod]: Duplicate info type name bren
+[17:18:17] [Server thread/WARN] [flansmod]: Duplicate info type name browning
+[17:18:17] [Server thread/WARN] [flansmod]: Duplicate info type name colt
+[17:18:17] [Server thread/WARN] [flansmod]: Duplicate info type name dp28
+[17:18:17] [Server thread/WARN] [flansmod]: Duplicate info type name fg42
+[17:18:17] [Server thread/WARN] [flansmod]: Duplicate info type name Flak38
+[17:18:17] [Server thread/WARN] [flansmod]: Duplicate info type name Flak42
+[17:18:17] [Server thread/WARN] [flansmod]: Duplicate info type name flamethrower
+[17:18:17] [Server thread/WARN] [flansmod]: Duplicate info type name G43
+[17:18:17] [Server thread/WARN] [flansmod]: Duplicate info type name M3A1
+[17:18:17] [Server thread/WARN] [flansmod]: Duplicate info type name kar98k
+[17:18:17] [Server thread/WARN] [flansmod]: Duplicate info type name kar98kSniper
+[17:18:17] [Server thread/WARN] [flansmod]: Duplicate info type name ww2Knife
+[17:18:17] [Server thread/WARN] [flansmod]: Duplicate info type name leeEnfield
+[17:18:17] [Server thread/WARN] [flansmod]: Duplicate info type name leeEnfieldSniper
+[17:18:17] [Server thread/WARN] [flansmod]: Duplicate info type name luger
+[17:18:17] [Server thread/WARN] [flansmod]: Duplicate info type name m1Carbine
+[17:18:17] [Server thread/WARN] [flansmod]: Duplicate info type name m1Garand
+[17:18:17] [Server thread/WARN] [flansmod]: Duplicate info type name MG151
+[17:18:17] [Server thread/WARN] [flansmod]: Duplicate info type name mg42
+[17:18:17] [Server thread/WARN] [flansmod]: Duplicate info type name nagant
+[17:18:17] [Server thread/WARN] [flansmod]: Duplicate info type name nagantSniper
+[17:18:17] [Server thread/WARN] [flansmod]: Duplicate info type name mp40
+[17:18:17] [Server thread/WARN] [flansmod]: Duplicate info type name panzerfaust
+[17:18:17] [Server thread/WARN] [flansmod]: Duplicate info type name panzerschreck
+[17:18:17] [Server thread/WARN] [flansmod]: Duplicate info type name PIAT
+[17:18:17] [Server thread/WARN] [flansmod]: Duplicate info type name ppsh
+[17:18:17] [Server thread/WARN] [flansmod]: Duplicate info type name springfield
+[17:18:17] [Server thread/WARN] [flansmod]: Duplicate info type name springfieldSniper
+[17:18:17] [Server thread/WARN] [flansmod]: Duplicate info type name sten
+[17:18:17] [Server thread/WARN] [flansmod]: Duplicate info type name mp44
+[17:18:17] [Server thread/WARN] [flansmod]: Duplicate info type name thompson
+[17:18:17] [Server thread/WARN] [flansmod]: Duplicate info type name trenchgun
+[17:18:17] [Server thread/WARN] [flansmod]: Duplicate info type name tt33
+[17:18:17] [Server thread/WARN] [flansmod]: Duplicate info type name type100
+[17:18:17] [Server thread/WARN] [flansmod]: Duplicate info type name type14
+[17:18:17] [Server thread/WARN] [flansmod]: Duplicate info type name type38
+[17:18:17] [Server thread/WARN] [flansmod]: Duplicate info type name type38Sniper
+[17:18:17] [Server thread/WARN] [flansmod]: Duplicate info type name type99
+[17:18:17] [Server thread/WARN] [flansmod]: Duplicate info type name vickersk
+[17:18:17] [Server thread/WARN] [flansmod]: Duplicate info type name vickerskGO
+[17:18:17] [Server thread/WARN] [flansmod]: Duplicate info type name webley
+[17:18:17] [Server thread/INFO] [flansmod]: Loaded gun.
+[17:18:17] [Server thread/INFO] [flansmod]: Loaded aa.
+[17:18:17] [Server thread/WARN] [flansmod]: Could not find mediumtankTurret in recipe
+[17:18:17] [Server thread/WARN] [flansmod]: Could not find mediumtankBody in recipe
+[17:18:17] [Server thread/WARN] [flansmod]: Could not find mediumtankTurret in recipe
+[17:18:17] [Server thread/WARN] [flansmod]: Could not find mediumtankBody in recipe
+[17:18:17] [Server thread/WARN] [flansmod]: Duplicate info type name B1
+[17:18:17] [Server thread/WARN] [flansmod]: Duplicate info type name BMWR75
+[17:18:17] [Server thread/WARN] [flansmod]: Duplicate info type name bofors
+[17:18:17] [Server thread/WARN] [flansmod]: Duplicate info type name Chaffee
+[17:18:17] [Server thread/WARN] [flansmod]: Duplicate info type name ChiHa
+[17:18:17] [Server thread/WARN] [flansmod]: Duplicate info type name ChiNu
+[17:18:17] [Server thread/WARN] [flansmod]: Duplicate info type name Churchill
+[17:18:17] [Server thread/WARN] [flansmod]: Duplicate info type name Cromwell
+[17:18:17] [Server thread/WARN] [flansmod]: Duplicate info type name Crusader
+[17:18:17] [Server thread/WARN] [flansmod]: Duplicate info type name Flak88
+[17:18:17] [Server thread/WARN] [flansmod]: Duplicate info type name flakvierling
+[17:18:17] [Server thread/WARN] [flansmod]: Duplicate info type name Fury
+[17:18:17] [Server thread/WARN] [flansmod]: Duplicate info type name Greyhound
+[17:18:17] [Server thread/WARN] [flansmod]: Duplicate info type name Hellcat
+[17:18:17] [Server thread/WARN] [flansmod]: Duplicate info type name IS2
+[17:18:17] [Server thread/WARN] [flansmod]: Duplicate info type name Jeep
+[17:18:17] [Server thread/WARN] [flansmod]: Duplicate info type name Kubel
+[17:18:17] [Server thread/WARN] [flansmod]: Duplicate info type name KV1
+[17:18:17] [Server thread/WARN] [flansmod]: Duplicate info type name PanzerIIL
+[17:18:17] [Server thread/WARN] [flansmod]: Duplicate info type name M10
+[17:18:17] [Server thread/WARN] [flansmod]: Duplicate info type name M157mm
+[17:18:17] [Server thread/WARN] [flansmod]: Duplicate info type name M3Halftrack
+[17:18:17] [Server thread/WARN] [flansmod]: Duplicate info type name M45Quad
+[17:18:17] [Server thread/WARN] [flansmod]: Duplicate info type name Pak40
+[17:18:17] [Server thread/WARN] [flansmod]: Duplicate info type name Panzer
+[17:18:17] [Server thread/WARN] [flansmod]: Duplicate info type name S100
+[17:18:17] [Server thread/WARN] [flansmod]: Duplicate info type name SASJeep
+[17:18:17] [Server thread/WARN] [flansmod]: Duplicate info type name SdkFz2
+[17:18:17] [Server thread/WARN] [flansmod]: Duplicate info type name SdkFz222
+[17:18:17] [Server thread/WARN] [flansmod]: Duplicate info type name SdkFz251
+[17:18:17] [Server thread/WARN] [flansmod]: Duplicate info type name Sherman
+[17:18:17] [Server thread/WARN] [flansmod]: Duplicate info type name StuG
+[17:18:17] [Server thread/WARN] [flansmod]: Duplicate info type name SU-1-12
+[17:18:17] [Server thread/WARN] [flansmod]: Duplicate info type name T34
+[17:18:17] [Server thread/WARN] [flansmod]: Duplicate info type name Tiger
+[17:18:17] [Server thread/WARN] [flansmod]: Duplicate info type name Tiger131
+[17:18:17] [Server thread/WARN] [flansmod]: Duplicate info type name TigerII
+[17:18:17] [Server thread/WARN] [flansmod]: Duplicate info type name Type4HoRo
+[17:18:17] [Server thread/WARN] [flansmod]: Duplicate info type name UC2Pdr
+[17:18:17] [Server thread/INFO] [flansmod]: Loaded vehicle.
+[17:18:18] [Forge Version Check/INFO] [forge.VersionCheck]: [openmods] Found status: AHEAD Target: null
+[17:18:18] [Forge Version Check/INFO] [forge.VersionCheck]: [industrialforegoing] Starting version check at https://raw.githubusercontent.com/Buuz135/Industrial-Foregoing/master/update.json
+[17:18:18] [Server thread/WARN] [flansmod]: Duplicate info type name BF109
+[17:18:18] [Server thread/WARN] [flansmod]: Duplicate info type name Camel
+[17:18:18] [Server thread/WARN] [flansmod]: Duplicate info type name Fokker
+[17:18:18] [Server thread/WARN] [flansmod]: Duplicate info type name Lancaster
+[17:18:18] [Server thread/WARN] [flansmod]: Duplicate info type name Mustang
+[17:18:18] [Server thread/WARN] [flansmod]: Duplicate info type name Spitfire
+[17:18:18] [Server thread/WARN] [flansmod]: Duplicate info type name yak9
+[17:18:18] [Server thread/WARN] [flansmod]: Duplicate info type name zero
+[17:18:18] [Server thread/INFO] [flansmod]: Loaded plane.
+[17:18:18] [Server thread/INFO] [flansmod]: Loaded mechaItem.
+[17:18:18] [Server thread/INFO] [flansmod]: Loaded mecha.
+[17:18:18] [Server thread/INFO] [flansmod]: Loaded tool.
+[17:18:18] [Server thread/INFO] [flansmod]: Loaded armour.
+[17:18:18] [Server thread/INFO] [flansmod]: Loaded armourBox.
+[17:18:18] [Forge Version Check/INFO] [forge.VersionCheck]: [industrialforegoing] Found status: BETA Target: null
+[17:18:18] [Forge Version Check/INFO] [forge.VersionCheck]: [openblocks] Starting version check at http://openmods.info/versions/openblocks.json
+[17:18:18] [Server thread/INFO] [flansmod]: Loaded box.
+[17:18:18] [Server thread/INFO] [flansmod]: Loaded playerClass.
+[17:18:18] [Server thread/INFO] [flansmod]: Loaded team.
+[17:18:18] [Server thread/INFO] [flansmod]: Loaded itemHolder.
+[17:18:18] [Server thread/INFO] [flansmod]: Loaded rewardBox.
+[17:18:18] [Server thread/WARN] [flansmod]: Invalid info type in loadout: mwMedicKit
+[17:18:18] [Server thread/WARN] [flansmod]: Invalid info type in loadout: mwMedicKit
+[17:18:18] [Server thread/INFO] [flansmod]: Loaded loadout.
+[17:18:18] [Server thread/INFO] [flansmod]: Loaded glove.
+[17:18:18] [Server thread/INFO] [Mekanism]: Didn't detect MCMP, ignoring compatibility package
+[17:18:18] [Forge Version Check/INFO] [forge.VersionCheck]: [openblocks] Found status: AHEAD Target: null
+[17:18:18] [Forge Version Check/INFO] [forge.VersionCheck]: [uteamcore] Starting version check at https://api.u-team.info/update/uteamcore.json
+[17:18:19] [Forge Version Check/INFO] [forge.VersionCheck]: [uteamcore] Found status: OUTDATED Target: 2.2.5.255
+[17:18:19] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[17:18:21] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: AHEAD Target: null
+[17:18:21] [Forge Version Check/INFO] [forge.VersionCheck]: [twilightforest] Starting version check at https://raw.githubusercontent.com/TeamTwilight/twilightforest/1.12.x/update.json
+[17:18:21] [Forge Version Check/INFO] [forge.VersionCheck]: [twilightforest] Found status: AHEAD Target: null
+[17:18:21] [Forge Version Check/INFO] [forge.VersionCheck]: [usefulbackpacks] Starting version check at https://api.u-team.info/update/usefulbackpacks.json
+[17:18:21] [Forge Version Check/INFO] [forge.VersionCheck]: [usefulbackpacks] Found status: UP_TO_DATE Target: null
+[17:18:22] [Server thread/INFO] [twilightforest]: Skipped compatibility for mod Baubles.
+[17:18:22] [Server thread/INFO] [twilightforest]: Skipped compatibility for mod Chisel.
+[17:18:22] [Server thread/INFO] [twilightforest]: Skipped compatibility for mod Forestry.
+[17:18:22] [Server thread/INFO] [twilightforest]: Skipped compatibility for mod Immersive Engineering.
+[17:18:22] [Server thread/INFO] [twilightforest]: Loaded compatibility for mod Just Enough Items.
+[17:18:22] [Server thread/INFO] [twilightforest]: Skipped compatibility for mod Tinkers' Construct.
+[17:18:22] [Server thread/INFO] [twilightforest]: Skipped compatibility for mod Thaumcraft.
+[17:18:22] [Server thread/INFO] [grimoireofgaia]: Registering blocks...
+[17:18:22] [Server thread/INFO] [grimoireofgaia]: Block registration complete.
+[17:18:25] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `portal`, expected `mekanism`. This could be a intended override, but in most cases indicates a broken mod.
+[17:18:25] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.iron`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[17:18:25] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.gold`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[17:18:25] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.diamond`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[17:18:25] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.copper`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[17:18:25] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.silver`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[17:18:25] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.crystal`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[17:18:25] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.obsidian`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[17:18:25] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.dirtchest9000`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[17:18:25] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.iron`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[17:18:25] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.gold`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[17:18:25] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.diamond`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[17:18:25] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.copper`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[17:18:25] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.silver`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[17:18:25] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.crystal`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[17:18:25] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.obsidian`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[17:18:25] [Server thread/INFO] [flansmod]: Registering Blocks
+[17:18:25] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `conveyor_tile`, expected `industrialforegoing`. This could be a intended override, but in most cases indicates a broken mod.
+[17:18:25] [Server thread/INFO] [FML]: Applying holder lookups
+[17:18:25] [Server thread/INFO] [FML]: Holder lookups applied
+[17:18:25] [Server thread/INFO] [grimoireofgaia]: Registering item blocks...
+[17:18:25] [Server thread/INFO] [grimoireofgaia]: Item block registration complete.
+[17:18:25] [Server thread/INFO] [grimoireofgaia]: Registering items...
+[17:18:26] [Server thread/INFO] [grimoireofgaia]: Item registration complete.
+[17:18:26] [Server thread/INFO] [flansmod]: Registering Items
+[17:18:26] [Server thread/INFO] [FML]: Applying holder lookups
+[17:18:26] [Server thread/INFO] [FML]: Holder lookups applied
+[17:18:26] [Server thread/INFO] [grimoireofgaia]: Registering entities...
+[17:18:26] [Server thread/INFO] [grimoireofgaia]: Entity registration complete.
+[17:18:26] [Server thread/INFO] [flansmod]: Registering Entities
+[17:18:26] [Server thread/INFO] [grimoireofgaia]: Registering Sounds
+[17:18:26] [Server thread/INFO] [grimoireofgaia]: Sounds Finished
+[17:18:27] [Server thread/INFO] [FML]: Applying holder lookups
+[17:18:27] [Server thread/INFO] [FML]: Holder lookups applied
+[17:18:27] [Server thread/INFO] [FML]: Applying holder lookups
+[17:18:27] [Server thread/INFO] [FML]: Holder lookups applied
+[17:18:27] [Server thread/INFO] [FML]: Injecting itemstacks
+[17:18:27] [Server thread/INFO] [FML]: Itemstack injection complete
+[17:18:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Loading properties
+[17:18:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Default game type: SURVIVAL
+[17:18:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Generating keypair
+[17:18:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting Minecraft server on *:25565
+[17:18:27] [Server thread/INFO] [net.minecraft.network.NetworkSystem]: Using default channel type
+[17:18:28] [Server thread/INFO] [grimoireofgaia]: Registering recipes...
+[17:18:28] [Server thread/INFO] [grimoireofgaia]: Recipe registration complete.
+[17:18:28] [Server thread/INFO] [flansmod]: Registering Recipes.
+[17:18:28] [Server thread/INFO] [FML]: Applying holder lookups
+[17:18:28] [Server thread/INFO] [FML]: Holder lookups applied
+[17:18:28] [Server thread/INFO] [flansmod]: Initialising Flan's Mod.
+[17:18:28] [Server thread/INFO] [flansmod]: Loading complete.
+[17:18:28] [Server thread/INFO] [Mekanism]: Version 9.8.3 initializing...
+[17:18:28] [Server thread/INFO] [Mekanism]: Loading complete.
+[17:18:28] [Server thread/INFO] [Mekanism]: Mod loaded.
+[17:18:28] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tile_meatpacker`, expected `industrialmeat`. This could be a intended override, but in most cases indicates a broken mod.
+[17:18:28] [Server thread/INFO] [Mekanism]: Loaded MekanismGenerators module.
+[17:18:28] [Server thread/INFO] [Mekanism]: Loaded 'Mekanism: Tools' module.
+[17:18:29] [Server thread/INFO] [FML]: Injecting itemstacks
+[17:18:29] [Server thread/INFO] [FML]: Itemstack injection complete
+[17:18:29] [Server thread/INFO] [FML]: [all meta blocks]
 minecraft:stone:variant=stone (metadata=0)
 minecraft:stone:variant=granite (metadata=1)
 minecraft:stone:variant=smooth_granite (metadata=2)
@@ -3620,6 +3730,18 @@ twilightforest:fiery_essence:level=12 (metadata=12)
 twilightforest:fiery_essence:level=13 (metadata=13)
 twilightforest:fiery_essence:level=14 (metadata=14)
 twilightforest:fiery_essence:level=15 (metadata=15)
+flansmod:flanskeleton2:facing=south (metadata=0)
+flansmod:flanskeleton2:facing=west (metadata=1)
+flansmod:flanskeleton2:facing=north (metadata=2)
+flansmod:flanskeleton2:facing=east (metadata=3)
+flansmod:flangunrack:facing=south (metadata=0)
+flansmod:flangunrack:facing=west (metadata=1)
+flansmod:flangunrack:facing=north (metadata=2)
+flansmod:flangunrack:facing=east (metadata=3)
+flansmod:flanskeleton:facing=south (metadata=0)
+flansmod:flanskeleton:facing=west (metadata=1)
+flansmod:flanskeleton:facing=north (metadata=2)
+flansmod:flanskeleton:facing=east (metadata=3)
 flansmod:flansworkbench:type=0 (metadata=0)
 flansmod:flansworkbench:type=1 (metadata=1)
 flansmod:flansworkbench:type=2 (metadata=2)
@@ -4011,55 +4133,28 @@ swordcraftonline:gigascedarleaves:check_decay=false,decayable=false (metadata=1)
 swordcraftonline:gigascedarleaves:check_decay=true,decayable=true (metadata=2)
 swordcraftonline:gigascedarleaves:check_decay=true,decayable=false (metadata=3)
 
-[16:55:59] [Server thread/INFO] [Mekanism]: Fake player readout: UUID = 46e82cd0-d480-3d48-800a-77431ede078e, name = [Mekanism]
-[16:55:59] [Server thread/INFO] [Mekanism]: Finished loading Cardboard Box blacklist (loaded 0 entries)
-[16:55:59] [Server thread/INFO] [Mekanism]: Hooking complete.
-[16:56:00] [Server thread/INFO] [FML]: Forge Mod Loader has successfully loaded 34 mods
-[16:56:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Preparing level "world"
-[16:56:00] [Server thread/INFO] [FML]: Injecting existing registry data into this server instance
-[16:56:00] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: industrialmeat:meat_packer Expected: 337 Got: 611
-[16:56:00] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: industrialmeat:cooked_meat_block Expected: 335 Got: 612
-[16:56:00] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: industrialmeat:raw_meat_block Expected: 336 Got: 613
-[16:56:00] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: industrialmeat:raw_meat_ingot Expected: 4374 Got: 5190
-[16:56:00] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: industrialmeat:cooked_meat_ingot Expected: 4375 Got: 5191
-[16:56:00] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: industrialmeat:meat_packer Expected: 4379 Got: 5192
-[16:56:00] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: industrialmeat:raw_meat_nugget Expected: 4376 Got: 5193
-[16:56:00] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: industrialmeat:cooked_meat_block Expected: 4377 Got: 5194
-[16:56:00] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: industrialmeat:raw_meat_block Expected: 4378 Got: 5195
-[16:56:00] [Server thread/INFO] [FML]: Applying holder lookups
-[16:56:00] [Server thread/INFO] [FML]: Holder lookups applied
-[16:56:00] [Server thread/INFO] [FML]: Loading dimension 0 (world) (net.minecraft.server.dedicated.DedicatedServer@4846742a)
-[16:56:02] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 700 advancements
-[16:56:02] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@4846742a)
-[16:56:02] [Server thread/INFO] [FML]: Loading dimension 1 (world) (net.minecraft.server.dedicated.DedicatedServer@4846742a)
-[16:56:02] [Server thread/INFO] [FML]: Loading dimension 7 (world) (net.minecraft.server.dedicated.DedicatedServer@4846742a)
-[16:56:02] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for level 0
-[16:56:03] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 5%
-[16:56:03] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[16:56:03] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[16:56:03] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[16:56:03] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[16:56:03] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[16:56:04] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 37%
-[16:56:04] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[16:56:04] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[16:56:04] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[16:56:04] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[16:56:04] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[16:56:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Done (4.164s)! For help, type "help" or "?"
-[16:56:04] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class gaia.entity.monster.EntityGaiaMinotaurus from class gaia.entity.monster.EntityGaiaOrc
-[16:56:04] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class com.flansmod.client.debug.EntityDebugVector from class com.flansmod.client.debug.EntityDebugColor
-[16:56:04] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class com.flansmod.client.debug.EntityDebugVector from class com.flansmod.client.debug.EntityDebugColor
-[16:56:04] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class com.flansmod.client.debug.EntityDebugVector from class com.flansmod.client.debug.EntityDebugColor
-[16:56:05] [Server thread/INFO] [FML]: Unloading dimension -1
-[16:56:05] [Server thread/INFO] [FML]: Unloading dimension 1
-[16:56:05] [Server thread/INFO] [FML]: Unloading dimension 7
-[16:56:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Stopping the server
-[16:56:05] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
-[16:56:05] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
-[16:56:05] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
-[16:56:05] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/overworld
-[16:56:05] [Server thread/INFO] [FML]: Unloading dimension 0
-[16:56:05] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
-[16:56:05] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
-[16:56:05] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[17:18:29] [Server thread/INFO] [Mekanism]: Fake player readout: UUID = 46e82cd0-d480-3d48-800a-77431ede078e, name = [Mekanism]
+[17:18:29] [Server thread/INFO] [Mekanism]: Finished loading Cardboard Box blacklist (loaded 0 entries)
+[17:18:29] [Server thread/INFO] [Mekanism]: Hooking complete.
+[17:18:30] [Server thread/WARN] [FML]: Registry Item: Override did not have an associated owner object. Name: flansmod:heavytankbody Value: com.flansmod.common.parts.ItemPart@71d603f0
+[17:18:30] [Server thread/WARN] [FML]: Registry Item: Override did not have an associated owner object. Name: flansmod:germanhelmet Value: com.flansmod.common.teams.ItemTeamArmour@77f34eba
+[17:18:30] [Server thread/WARN] [FML]: Registry Item: Override did not have an associated owner object. Name: flansmod:lighttankbody Value: com.flansmod.common.parts.ItemPart@8f97233
+[17:18:30] [Server thread/WARN] [FML]: Registry Item: Override did not have an associated owner object. Name: flansmod:lighttankturret Value: com.flansmod.common.parts.ItemPart@17bbd620
+[17:18:30] [Server thread/WARN] [FML]: Registry Item: Override did not have an associated owner object. Name: flansmod:heavytankturret Value: com.flansmod.common.parts.ItemPart@3dd3c27
+[17:18:30] [Server thread/ERROR] [net.minecraft.server.MinecraftServer]: Encountered an unexpected exception
+java.lang.RuntimeException: One of more entry values did not copy to the correct id. Check log for details!
+	at net.minecraftforge.registries.ForgeRegistry.sync(ForgeRegistry.java:549) ~[ForgeRegistry.class:?]
+	at net.minecraftforge.registries.GameData.loadRegistry(GameData.java:596) ~[GameData.class:?]
+	at net.minecraftforge.registries.GameData.freezeData(GameData.java:249) ~[GameData.class:?]
+	at net.minecraftforge.fml.common.Loader.initializeMods(Loader.java:758) ~[Loader.class:?]
+	at net.minecraftforge.fml.server.FMLServerHandler.finishServerLoading(FMLServerHandler.java:108) ~[FMLServerHandler.class:?]
+	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStarted(FMLCommonHandler.java:338) ~[FMLCommonHandler.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) ~[nz.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_321]
+[17:18:30] [Server thread/ERROR] [net.minecraft.server.MinecraftServer]: This crash report has been saved to: D:\Minecraft\1_20_1\Mod\1_12_2\.\crash-reports\crash-2023-06-17_17.18.30-server.txt
+[17:18:30] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[17:18:30] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[17:18:30] [Server thread/INFO] [FML]: The state engine was in incorrect state SERVER_ABOUT_TO_START and forced into state SERVER_STOPPED. Errors may have been discarded.
+[17:18:30] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[17:18:30] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds

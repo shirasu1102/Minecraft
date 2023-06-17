@@ -1,0 +1,91 @@
+---- Minecraft Crash Report ----
+
+WARNING: coremods are present:
+  ForgelinPlugin (Forgelin-1.8.3.jar)
+  MekanismCoremod (Mekanism-1.12.2-9.8.3.390.jar)
+  OpenModsCorePlugin (OpenModsLib-1.12.2-0.12.2.jar)
+  LoadingPlugin (Bloodmoon-MC1.12.2-1.5.3.jar)
+Contact their authors BEFORE contacting forge
+
+// Surprise! Haha. Well, this is awkward.
+
+Time: 23/06/17 17:18
+Description: Exception in server tick loop
+
+java.lang.RuntimeException: One of more entry values did not copy to the correct id. Check log for details!
+	at net.minecraftforge.registries.ForgeRegistry.sync(ForgeRegistry.java:549)
+	at net.minecraftforge.registries.GameData.loadRegistry(GameData.java:596)
+	at net.minecraftforge.registries.GameData.freezeData(GameData.java:249)
+	at net.minecraftforge.fml.common.Loader.initializeMods(Loader.java:758)
+	at net.minecraftforge.fml.server.FMLServerHandler.finishServerLoading(FMLServerHandler.java:108)
+	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStarted(FMLCommonHandler.java:338)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486)
+	at java.lang.Thread.run(Unknown Source)
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- System Details --
+Details:
+	Minecraft Version: 1.12.2
+	Operating System: Windows 10 (amd64) version 10.0
+	Java Version: 1.8.0_321, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+	Memory: 7938125800 bytes (7570 MB) / 8545894400 bytes (8150 MB) up to 8545894400 bytes (8150 MB)
+	JVM Flags: 2 total; -Xms8G -Xmx8G
+	IntCache: cache: 0, tcache: 0, allocated: 0, tallocated: 0
+	FML: MCP 9.42 Powered by Forge 14.23.5.2860 34 mods loaded, 34 mods active
+	States: 'U' = Unloaded 'L' = Loaded 'C' = Constructed 'H' = Pre-initialized 'I' = Initialized 'J' = Post-initialized 'A' = Available 'D' = Disabled 'E' = Errored
+
+	| State  | ID                                          | Version           | Source                                        | Signature                                |
+	|:------ |:------------------------------------------- |:----------------- |:--------------------------------------------- |:---------------------------------------- |
+	| LCHIJA | minecraft                                   | 1.12.2            | minecraft.jar                                 | None                                     |
+	| LCHIJA | mcp                                         | 9.42              | minecraft.jar                                 | None                                     |
+	| LCHIJA | FML                                         | 8.0.99.99         | forge-1.12.2.jar                              | e3c3d50c7c986df74c645c0ac54639741c90a557 |
+	| LCHIJA | forge                                       | 14.23.5.2860      | forge-1.12.2.jar                              | e3c3d50c7c986df74c645c0ac54639741c90a557 |
+	| LCHIJA | openmodscore                                | 0.12.2            | minecraft.jar                                 | None                                     |
+	| LCHIJA | net.minecraft.scalar.cutall.mod_cutallsmp   | 2.5.2             | [1.12][forge2413]mod_CutAllSMP_v2.5.2.jar     | None                                     |
+	| LCHIJA | net.minecraft.scalar.digall.mod_digallsmp   | 2.3.2             | [1.12][forge2413]mod_DigAllSMP_v2.3.2.jar     | None                                     |
+	| LCHIJA | net.minecraft.scalar.mineall.mod_mineallsmp | 2.6.6             | [1.12][forge2413]mod_MineAllSMP_v2.6.6.jar    | None                                     |
+	| LCHIJA | storagebox                                  | 3.2.0             | [1.12][forge2413]mod_StorageBox_v3.2.0.jar    | None                                     |
+	| LCHIJA | bettercombatmod                             | 1.5.6             | BetterCombat-1.12.2-1.5.6.jar                 | None                                     |
+	| LCHIJA | bloodmoon                                   | 1.5.3             | Bloodmoon-MC1.12.2-1.5.3.jar                  | d72e0dd57935b3e9476212aea0c0df352dd76291 |
+	| LCHIJA | carryon                                     | 1.12.3            | carryon-1.12.2-1.12.6.20.jar                  | fd21553434f4905f2f73ea7838147ac4ea07bd88 |
+	| LCHIJA | flansmod                                    | 5.10.0            | Flan's+Mod-1.12.2-5.10.0.jar                  | None                                     |
+	| LCHIJA | forgelin                                    | 1.8.3             | Forgelin-1.8.3.jar                            | None                                     |
+	| LCHIJA | grimoireofgaia                              | 1.7.2             | GrimoireOfGaia3-1.12.2-1.7.2.jar              | None                                     |
+	| LCHIJA | gunpowderlib                                | 1.12.2-1.1        | GunpowderLib-1.12.2-1.1.jar                   | 4ffa87db52cf086d00ecc4853a929367b1c39b5c |
+	| LCHIJA | jei                                         | 4.15.0.291        | jei_1.12.2-4.15.0.291.jar                     | None                                     |
+	| LCHIJA | mekanism                                    | 1.12.2-9.8.3.390  | Mekanism-1.12.2-9.8.3.390.jar                 | None                                     |
+	| LCHIJA | teslacorelib                                | 1.0.18            | tesla-core-lib-1.12.2-1.0.18.jar              | d476d1b22b218a10d845928d1665d45fce301b27 |
+	| LCHIJA | industrialforegoing                         | 1.12.2-1.12.2     | industrialforegoing-1.12.2-1.12.13-237.jar    | None                                     |
+	| LCHIJA | industrialmeat                              | 1.12-1.0.2        | industrialmeat-1.12-1.0.2.jar                 | None                                     |
+	| LCHIJA | integrationforegoing                        | 1.12.2-1.11       | IntegrationForegoing-1.12.2-1.11.jar          | 4ffa87db52cf086d00ecc4853a929367b1c39b5c |
+	| LCHIJA | ironchest                                   | 1.12.2-7.0.67.844 | ironchest-1.12.2-7.0.72.847.jar               | None                                     |
+	| LCHIJA | journeymap                                  | 1.12.2-5.7.1      | journeymap-1.12.2-5.7.1.jar                   | None                                     |
+	| LCHIJA | mekanismgenerators                          | 1.12.2-9.8.3.390  | MekanismGenerators-1.12.2-9.8.3.390.jar       | None                                     |
+	| LCHIJA | mekanismtools                               | 1.12.2-9.8.3.390  | MekanismTools-1.12.2-9.8.3.390.jar            | None                                     |
+	| LCHIJA | openmods                                    | 0.12.2            | OpenModsLib-1.12.2-0.12.2.jar                 | d2a9a8e8440196e26a268d1f3ddc01b2e9c572a5 |
+	| LCHIJA | openblocks                                  | 1.8.1             | OpenBlocks-1.12.2-1.8.1.jar                   | d2a9a8e8440196e26a268d1f3ddc01b2e9c572a5 |
+	| LCHIJA | flammpfeil.slashblade                       | mc1.12-r33        | SlashBlade-mc1.12-r33.jar                     | None                                     |
+	| LCHIJA | swordcraftonline                            | 1.0.1             | SwordCraftOnline+1.12.2+-+V1.1.0.jar          | None                                     |
+	| LCHIJA | twilightforest                              | 3.11.1021         | twilightforest-1.12.2-3.11.1021-universal.jar | None                                     |
+	| LCHIJA | uteamcore                                   | 2.2.5.147         | u_team_core-1.12.2-2.2.5.147.jar              | None                                     |
+	| LCHIJA | usefulbackpacks                             | 1.5.4.85          | useful_backpacks-1.12.2-1.5.4.85.jar          | None                                     |
+	| LCHIJA | teslacorelib_registries                     | 1.0.18            | tesla-core-lib-1.12.2-1.0.18.jar              | None                                     |
+
+	Loaded coremods (and transformers): 
+ForgelinPlugin (Forgelin-1.8.3.jar)
+  
+MekanismCoremod (Mekanism-1.12.2-9.8.3.390.jar)
+  mekanism.coremod.KeybindingMigrationHelper
+OpenModsCorePlugin (OpenModsLib-1.12.2-0.12.2.jar)
+  openmods.core.OpenModsClassTransformer
+LoadingPlugin (Bloodmoon-MC1.12.2-1.5.3.jar)
+  lumien.bloodmoon.asm.ClassTransformer
+	OpenModsLib class transformers: [llama_null_fix:FINISHED],[horse_base_null_fix:FINISHED],[pre_world_render_hook:ENABLED],[player_render_hook:ENABLED],[horse_null_fix:FINISHED]
+	Profiler Position: N/A (disabled)
+	Is Modded: Definitely; Server brand changed to 'fml,forge'
+	Type: Dedicated Server (map_server.txt)
