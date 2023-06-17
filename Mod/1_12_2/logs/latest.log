@@ -1,29 +1,37 @@
-[16:02:22] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[16:02:22] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[16:02:22] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[16:02:22] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2860 for Minecraft 1.12.2 loading
-[16:02:22] [main/INFO] [FML]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_321, running on Windows 10:amd64:10.0, installed at D:\Minecraft\1_20_1\Mod\1_12_2\Java\jre1.8.0_321
-[16:02:22] [main/INFO] [FML]: Searching D:\Minecraft\1_20_1\Mod\1_12_2\.\mods for mods
-[16:02:22] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in Bloodmoon-MC1.12.2-1.5.3.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
-[16:02:22] [main/WARN] [FML]: The coremod lumien.bloodmoon.asm.LoadingPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
-[16:02:22] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in OpenModsLib-1.12.2-0.12.2.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
-[16:02:22] [main/WARN] [FML]: The coremod openmods.core.OpenModsCorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
-[16:02:22] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[16:02:22] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
-[16:02:22] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[16:02:22] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[16:02:22] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[16:02:23] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
-[16:02:23] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[16:02:23] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[16:02:23] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
-[16:02:23] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[16:02:23] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
-[16:02:23] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
-[16:02:23] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
-[16:02:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting minecraft server version 1.12.2
-[16:02:26] [Server thread/INFO] [FML]: MinecraftForge v14.23.5.2860 Initialized
-[16:02:26] [Server console handler/ERROR] [net.minecraft.server.dedicated.DedicatedServer]: Exception handling console input
+[16:55:38] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[16:55:38] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[16:55:38] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[16:55:38] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2860 for Minecraft 1.12.2 loading
+[16:55:38] [main/INFO] [FML]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_321, running on Windows 10:amd64:10.0, installed at D:\Game\Minecraft\Server\Github\Mod\1_12_2\Java\jre1.8.0_321
+[16:55:38] [main/INFO] [FML]: Searching D:\Game\Minecraft\Server\Github\Mod\1_12_2\.\mods for mods
+[16:55:38] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in Bloodmoon-MC1.12.2-1.5.3.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[16:55:38] [main/WARN] [FML]: The coremod lumien.bloodmoon.asm.LoadingPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[16:55:38] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in Forgelin-1.8.3.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[16:55:38] [main/WARN] [FML]: The coremod net.shadowfacts.forgelin.preloader.ForgelinPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[16:55:38] [main/WARN] [FML]: The coremod ForgelinPlugin (net.shadowfacts.forgelin.preloader.ForgelinPlugin) is not signed!
+[16:55:38] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in Mekanism-1.12.2-9.8.3.390.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[16:55:38] [main/WARN] [FML]: The coremod mekanism.coremod.MekanismCoremod does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[16:55:38] [main/WARN] [FML]: The coremod MekanismCoremod (mekanism.coremod.MekanismCoremod) is not signed!
+[16:55:38] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in OpenModsLib-1.12.2-0.12.2.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[16:55:38] [main/WARN] [FML]: The coremod openmods.core.OpenModsCorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[16:55:38] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[16:55:38] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[16:55:38] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[16:55:38] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[16:55:38] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[16:55:39] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
+[16:55:39] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[16:55:39] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[16:55:39] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[16:55:39] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[16:55:39] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[16:55:39] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[16:55:39] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[16:55:39] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[16:55:40] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
+[16:55:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting minecraft server version 1.12.2
+[16:55:42] [Server thread/INFO] [FML]: MinecraftForge v14.23.5.2860 Initialized
+[16:55:42] [Server console handler/ERROR] [net.minecraft.server.dedicated.DedicatedServer]: Exception handling console input
 java.io.IOException: ハンドルが無効です。
 	at java.io.FileInputStream.readBytes(Native Method) ~[?:1.8.0_321]
 	at java.io.FileInputStream.read(Unknown Source) ~[?:1.8.0_321]
@@ -37,92 +45,143 @@ java.io.IOException: ハンドルが無効です。
 	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_321]
 	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_321]
 	at net.minecraft.server.dedicated.DedicatedServer$2.run(DedicatedServer.java:105) [nz$2.class:?]
-[16:02:26] [Server thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
-[16:02:26] [Server thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
-[16:02:26] [Server thread/INFO] [FML]: Replaced 1227 ore ingredients
-[16:02:26] [Server thread/INFO] [FML]: Searching D:\Minecraft\1_20_1\Mod\1_12_2\.\mods for mods
-[16:02:26] [Server thread/WARN] [FML]: Mod ironchest is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.12.2-7.0.67.844
-[16:02:27] [Server thread/INFO] [FML]: Forge Mod Loader has identified 24 mods to load
-[16:02:27] [Server thread/WARN] [FML]: Missing English translation for FML: assets/fml/lang/en_us.lang
-[16:02:27] [Server thread/WARN] [FML]: Missing English translation for net.minecraft.scalar.cutall.mod_cutallsmp: assets/net.minecraft.scalar.cutall.mod_cutallsmp/lang/en_us.lang
-[16:02:27] [Server thread/WARN] [FML]: Missing English translation for net.minecraft.scalar.digall.mod_digallsmp: assets/net.minecraft.scalar.digall.mod_digallsmp/lang/en_us.lang
-[16:02:27] [Server thread/WARN] [FML]: Missing English translation for net.minecraft.scalar.mineall.mod_mineallsmp: assets/net.minecraft.scalar.mineall.mod_mineallsmp/lang/en_us.lang
-[16:02:27] [Server thread/WARN] [FML]: Missing English translation for bettercombatmod: assets/bettercombatmod/lang/en_us.lang
-[16:02:27] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, openmodscore, net.minecraft.scalar.cutall.mod_cutallsmp, net.minecraft.scalar.digall.mod_digallsmp, net.minecraft.scalar.mineall.mod_mineallsmp, storagebox, bettercombatmod, bloodmoon, carryon, grimoireofgaia, infernalmobs, ironchest, jei, journeymap, openblocks, openmods, flammpfeil.slashblade, swordcraftonline, twilightforest, uteamcore, usefulbackpacks] at CLIENT
-[16:02:27] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, openmodscore, net.minecraft.scalar.cutall.mod_cutallsmp, net.minecraft.scalar.digall.mod_digallsmp, net.minecraft.scalar.mineall.mod_mineallsmp, storagebox, bettercombatmod, bloodmoon, carryon, grimoireofgaia, infernalmobs, ironchest, jei, journeymap, openblocks, openmods, flammpfeil.slashblade, swordcraftonline, twilightforest, uteamcore, usefulbackpacks] at SERVER
-[16:02:28] [Server thread/INFO] [FML]: Processing ObjectHolder annotations
-[16:02:28] [Server thread/INFO] [FML]: Found 1928 ObjectHolder annotations
-[16:02:28] [Server thread/INFO] [FML]: Identifying ItemStackHolder annotations
-[16:02:28] [Server thread/INFO] [FML]: Found 0 ItemStackHolder annotations
-[16:02:28] [Server thread/INFO] [FML]: Configured a dormant chunk cache size of 0
-[16:02:28] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
-[16:02:31] [Server thread/INFO] [twilightforest]: Skipped compatibility for mod Baubles.
-[16:02:31] [Server thread/INFO] [twilightforest]: Skipped compatibility for mod Chisel.
-[16:02:31] [Server thread/INFO] [twilightforest]: Skipped compatibility for mod Forestry.
-[16:02:31] [Server thread/INFO] [twilightforest]: Skipped compatibility for mod Immersive Engineering.
-[16:02:31] [Server thread/INFO] [twilightforest]: Loaded compatibility for mod Just Enough Items.
-[16:02:31] [Server thread/INFO] [twilightforest]: Skipped compatibility for mod Tinkers' Construct.
-[16:02:31] [Server thread/INFO] [twilightforest]: Skipped compatibility for mod Thaumcraft.
-[16:02:31] [Server thread/INFO] [grimoireofgaia]: Registering blocks...
-[16:02:31] [Server thread/INFO] [grimoireofgaia]: Block registration complete.
-[16:02:31] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.iron`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
-[16:02:31] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.gold`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
-[16:02:31] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.diamond`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
-[16:02:31] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.copper`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
-[16:02:31] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.silver`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
-[16:02:31] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.crystal`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
-[16:02:31] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.obsidian`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
-[16:02:31] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.dirtchest9000`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
-[16:02:31] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.iron`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
-[16:02:31] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.gold`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
-[16:02:31] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.diamond`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
-[16:02:31] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.copper`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
-[16:02:31] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.silver`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
-[16:02:31] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.crystal`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
-[16:02:31] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.obsidian`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
-[16:02:32] [Server thread/INFO] [FML]: Applying holder lookups
-[16:02:32] [Server thread/INFO] [FML]: Holder lookups applied
-[16:02:32] [Server thread/INFO] [grimoireofgaia]: Registering items...
-[16:02:32] [Server thread/INFO] [grimoireofgaia]: Item registration complete.
-[16:02:32] [Server thread/INFO] [grimoireofgaia]: Registering item blocks...
-[16:02:32] [Server thread/INFO] [grimoireofgaia]: Item block registration complete.
-[16:02:32] [Server thread/INFO] [FML]: Applying holder lookups
-[16:02:32] [Server thread/INFO] [FML]: Holder lookups applied
-[16:02:32] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: AHEAD Target: null
-[16:02:32] [Forge Version Check/INFO] [forge.VersionCheck]: [openmods] Starting version check at http://openmods.info/versions/openmodslib.json
-[16:02:32] [Server thread/INFO] [grimoireofgaia]: Registering entities...
-[16:02:32] [Server thread/INFO] [grimoireofgaia]: Entity registration complete.
-[16:02:33] [Forge Version Check/INFO] [forge.VersionCheck]: [openmods] Found status: AHEAD Target: null
-[16:02:33] [Forge Version Check/INFO] [forge.VersionCheck]: [openblocks] Starting version check at http://openmods.info/versions/openblocks.json
-[16:02:33] [Server thread/INFO] [grimoireofgaia]: Registering Sounds
-[16:02:33] [Server thread/INFO] [grimoireofgaia]: Sounds Finished
-[16:02:33] [Server thread/INFO] [FML]: Applying holder lookups
-[16:02:33] [Server thread/INFO] [FML]: Holder lookups applied
-[16:02:33] [Server thread/INFO] [FML]: Applying holder lookups
-[16:02:33] [Server thread/INFO] [FML]: Holder lookups applied
-[16:02:33] [Server thread/INFO] [FML]: Injecting itemstacks
-[16:02:33] [Server thread/INFO] [FML]: Itemstack injection complete
-[16:02:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Loading properties
-[16:02:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Default game type: SURVIVAL
-[16:02:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Generating keypair
-[16:02:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting Minecraft server on *:25565
-[16:02:33] [Server thread/INFO] [net.minecraft.network.NetworkSystem]: Using default channel type
-[16:02:33] [Forge Version Check/INFO] [forge.VersionCheck]: [openblocks] Found status: AHEAD Target: null
-[16:02:33] [Forge Version Check/INFO] [forge.VersionCheck]: [twilightforest] Starting version check at https://raw.githubusercontent.com/TeamTwilight/twilightforest/1.12.x/update.json
-[16:02:33] [Forge Version Check/INFO] [forge.VersionCheck]: [twilightforest] Found status: AHEAD Target: null
-[16:02:33] [Forge Version Check/INFO] [forge.VersionCheck]: [uteamcore] Starting version check at https://api.u-team.info/update/uteamcore.json
-[16:02:34] [Forge Version Check/INFO] [forge.VersionCheck]: [uteamcore] Found status: OUTDATED Target: 2.2.5.255
-[16:02:34] [Forge Version Check/INFO] [forge.VersionCheck]: [usefulbackpacks] Starting version check at https://api.u-team.info/update/usefulbackpacks.json
-[16:02:34] [Forge Version Check/INFO] [forge.VersionCheck]: [usefulbackpacks] Found status: UP_TO_DATE Target: null
-[16:02:34] [Forge Version Check/INFO] [forge.VersionCheck]: [carryon] Starting version check at https://gist.githubusercontent.com/Tschipp/dccadee7c90d7a34e6e76a35d9d6fa2e/raw/
-[16:02:34] [Server thread/INFO] [grimoireofgaia]: Registering recipes...
-[16:02:34] [Server thread/INFO] [grimoireofgaia]: Recipe registration complete.
-[16:02:34] [Server thread/INFO] [FML]: Applying holder lookups
-[16:02:34] [Server thread/INFO] [FML]: Holder lookups applied
-[16:02:34] [Server thread/INFO] [infernalmobs]: InfernalMobsCore load() completed! Modifiers ready: 27, config file at: D:\Minecraft\1_20_1\Mod\1_12_2\config\infernalmobs.cfg
-[16:02:34] [Server thread/INFO] [FML]: Injecting itemstacks
-[16:02:34] [Server thread/INFO] [FML]: Itemstack injection complete
-[16:02:34] [Server thread/INFO] [FML]: [all meta blocks]
+[16:55:42] [Server thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
+[16:55:42] [Server thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
+[16:55:42] [Server thread/INFO] [FML]: Replaced 1227 ore ingredients
+[16:55:42] [Server thread/INFO] [FML]: Searching D:\Game\Minecraft\Server\Github\Mod\1_12_2\.\mods for mods
+[16:55:43] [Server thread/WARN] [FML]: Mod ironchest is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.12.2-7.0.67.844
+[16:55:43] [Server thread/WARN] [FML]: Mod mekanismgenerators is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.12.2-9.8.3.390
+[16:55:43] [Server thread/WARN] [FML]: Mod mekanismtools is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.12.2-9.8.3.390
+[16:55:44] [Server thread/INFO] [FML]: Disabling mod torohealthmod it is client side only.
+[16:55:44] [Server thread/INFO] [FML]: Forge Mod Loader has identified 34 mods to load
+[16:55:44] [Server thread/WARN] [FML]: Missing English translation for FML: assets/fml/lang/en_us.lang
+[16:55:44] [Server thread/WARN] [FML]: Missing English translation for net.minecraft.scalar.cutall.mod_cutallsmp: assets/net.minecraft.scalar.cutall.mod_cutallsmp/lang/en_us.lang
+[16:55:44] [Server thread/WARN] [FML]: Missing English translation for net.minecraft.scalar.digall.mod_digallsmp: assets/net.minecraft.scalar.digall.mod_digallsmp/lang/en_us.lang
+[16:55:44] [Server thread/WARN] [FML]: Missing English translation for net.minecraft.scalar.mineall.mod_mineallsmp: assets/net.minecraft.scalar.mineall.mod_mineallsmp/lang/en_us.lang
+[16:55:44] [Server thread/WARN] [FML]: Missing English translation for bettercombatmod: assets/bettercombatmod/lang/en_us.lang
+[16:55:44] [Server thread/WARN] [FML]: Missing English translation for forgelin: assets/forgelin/lang/en_us.lang
+[16:55:44] [Server thread/WARN] [FML]: Missing English translation for gunpowderlib: assets/gunpowderlib/lang/en_us.lang
+[16:55:44] [Server thread/WARN] [FML]: Missing English translation for mekanismgenerators: assets/mekanismgenerators/lang/en_us.lang
+[16:55:44] [Server thread/WARN] [FML]: Missing English translation for mekanismtools: assets/mekanismtools/lang/en_us.lang
+[16:55:44] [Server thread/WARN] [FML]: Missing English translation for teslacorelib_registries: assets/teslacorelib_registries/lang/en_us.lang
+[16:55:44] [Server thread/INFO] [FML]: FML has found a non-mod file torohealth-1.12.2-11.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[16:55:44] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, openmodscore, net.minecraft.scalar.cutall.mod_cutallsmp, net.minecraft.scalar.digall.mod_digallsmp, net.minecraft.scalar.mineall.mod_mineallsmp, storagebox, bettercombatmod, bloodmoon, carryon, flansmod, forgelin, grimoireofgaia, gunpowderlib, industrialforegoing, industrialmeat, integrationforegoing, ironchest, jei, journeymap, mekanism, mekanismgenerators, mekanismtools, openblocks, openmods, flammpfeil.slashblade, swordcraftonline, teslacorelib, teslacorelib_registries, twilightforest, uteamcore, usefulbackpacks] at CLIENT
+[16:55:44] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, openmodscore, net.minecraft.scalar.cutall.mod_cutallsmp, net.minecraft.scalar.digall.mod_digallsmp, net.minecraft.scalar.mineall.mod_mineallsmp, storagebox, bettercombatmod, bloodmoon, carryon, flansmod, forgelin, grimoireofgaia, gunpowderlib, industrialforegoing, industrialmeat, integrationforegoing, ironchest, jei, journeymap, mekanism, mekanismgenerators, mekanismtools, openblocks, openmods, flammpfeil.slashblade, swordcraftonline, teslacorelib, teslacorelib_registries, twilightforest, uteamcore, usefulbackpacks] at SERVER
+[16:55:46] [Server thread/WARN] [teslacorelib]: Annotated class 'net.ndrei.teslacorelib.blocks.multipart.MultiPartBlockEvents' not found!
+[16:55:47] [Server thread/INFO] [FML]: Processing ObjectHolder annotations
+[16:55:47] [Server thread/INFO] [FML]: Found 1986 ObjectHolder annotations
+[16:55:47] [Server thread/INFO] [FML]: Identifying ItemStackHolder annotations
+[16:55:47] [Server thread/INFO] [FML]: Found 0 ItemStackHolder annotations
+[16:55:47] [Server thread/INFO] [FML]: Configured a dormant chunk cache size of 0
+[16:55:47] [Forge Version Check/INFO] [forge.VersionCheck]: [openmods] Starting version check at http://openmods.info/versions/openmodslib.json
+[16:55:47] [Server thread/INFO] [flansmod]: Loaded content pack from Flan folder : Simple+Parts-Content+Pack-1.12.2-5.7.2.jar
+[16:55:47] [Server thread/INFO] [flansmod]: Loaded content pack from Flan folder : WW2-ContentPack-1.12.2-5.7.2.jar
+[16:55:47] [Server thread/INFO] [flansmod]: Loaded content pack list from Flan folder
+[16:55:47] [Server thread/INFO] [flansmod]: Registered Flan folder model redirect from simple to com.flansmod.simple.client.model
+[16:55:47] [Server thread/INFO] [flansmod]: Registered Flan folder model redirect from ww2 to com.flansmod.ww2.client.model
+[16:55:47] [Server thread/INFO] [flansmod]: Loaded part.
+[16:55:47] [Server thread/INFO] [flansmod]: Loaded bullet.
+[16:55:48] [Server thread/INFO] [flansmod]: Loaded attachment.
+[16:55:48] [Server thread/INFO] [flansmod]: Loaded grenade.
+[16:55:48] [Server thread/INFO] [flansmod]: Loaded gun.
+[16:55:48] [Server thread/INFO] [flansmod]: Loaded aa.
+[16:55:48] [Server thread/INFO] [flansmod]: Loaded vehicle.
+[16:55:48] [Server thread/INFO] [flansmod]: Loaded plane.
+[16:55:48] [Server thread/INFO] [flansmod]: Loaded mechaItem.
+[16:55:48] [Server thread/INFO] [flansmod]: Loaded mecha.
+[16:55:48] [Server thread/INFO] [flansmod]: Loaded tool.
+[16:55:48] [Server thread/INFO] [flansmod]: Loaded armour.
+[16:55:48] [Server thread/INFO] [flansmod]: Loaded armourBox.
+[16:55:48] [Server thread/INFO] [flansmod]: Loaded box.
+[16:55:48] [Server thread/INFO] [flansmod]: Loaded playerClass.
+[16:55:48] [Server thread/INFO] [flansmod]: Loaded team.
+[16:55:48] [Server thread/INFO] [flansmod]: Loaded itemHolder.
+[16:55:48] [Server thread/INFO] [flansmod]: Loaded rewardBox.
+[16:55:48] [Server thread/INFO] [flansmod]: Loaded loadout.
+[16:55:48] [Server thread/INFO] [flansmod]: Loaded glove.
+[16:55:48] [Forge Version Check/INFO] [forge.VersionCheck]: [openmods] Found status: AHEAD Target: null
+[16:55:48] [Forge Version Check/INFO] [forge.VersionCheck]: [usefulbackpacks] Starting version check at https://api.u-team.info/update/usefulbackpacks.json
+[16:55:48] [Server thread/INFO] [Mekanism]: Didn't detect MCMP, ignoring compatibility package
+[16:55:49] [Forge Version Check/INFO] [forge.VersionCheck]: [usefulbackpacks] Found status: UP_TO_DATE Target: null
+[16:55:49] [Forge Version Check/INFO] [forge.VersionCheck]: [twilightforest] Starting version check at https://raw.githubusercontent.com/TeamTwilight/twilightforest/1.12.x/update.json
+[16:55:49] [Forge Version Check/INFO] [forge.VersionCheck]: [twilightforest] Found status: AHEAD Target: null
+[16:55:49] [Forge Version Check/INFO] [forge.VersionCheck]: [openblocks] Starting version check at http://openmods.info/versions/openblocks.json
+[16:55:49] [Forge Version Check/INFO] [forge.VersionCheck]: [openblocks] Found status: AHEAD Target: null
+[16:55:49] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[16:55:52] [Server thread/INFO] [twilightforest]: Skipped compatibility for mod Baubles.
+[16:55:52] [Server thread/INFO] [twilightforest]: Skipped compatibility for mod Chisel.
+[16:55:52] [Server thread/INFO] [twilightforest]: Skipped compatibility for mod Forestry.
+[16:55:52] [Server thread/INFO] [twilightforest]: Skipped compatibility for mod Immersive Engineering.
+[16:55:52] [Server thread/INFO] [twilightforest]: Loaded compatibility for mod Just Enough Items.
+[16:55:52] [Server thread/INFO] [twilightforest]: Skipped compatibility for mod Tinkers' Construct.
+[16:55:52] [Server thread/INFO] [twilightforest]: Skipped compatibility for mod Thaumcraft.
+[16:55:52] [Server thread/INFO] [grimoireofgaia]: Registering blocks...
+[16:55:52] [Server thread/INFO] [grimoireofgaia]: Block registration complete.
+[16:55:52] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: AHEAD Target: null
+[16:55:52] [Forge Version Check/INFO] [forge.VersionCheck]: [carryon] Starting version check at https://gist.githubusercontent.com/Tschipp/dccadee7c90d7a34e6e76a35d9d6fa2e/raw/
+[16:55:52] [Forge Version Check/INFO] [forge.VersionCheck]: [uteamcore] Starting version check at https://api.u-team.info/update/uteamcore.json
+[16:55:52] [Forge Version Check/INFO] [forge.VersionCheck]: [uteamcore] Found status: OUTDATED Target: 2.2.5.255
+[16:55:52] [Forge Version Check/INFO] [forge.VersionCheck]: [industrialforegoing] Starting version check at https://raw.githubusercontent.com/Buuz135/Industrial-Foregoing/master/update.json
+[16:55:53] [Forge Version Check/INFO] [forge.VersionCheck]: [industrialforegoing] Found status: BETA Target: null
+[16:55:55] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `portal`, expected `mekanism`. This could be a intended override, but in most cases indicates a broken mod.
+[16:55:55] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.iron`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[16:55:55] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.gold`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[16:55:55] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.diamond`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[16:55:55] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.copper`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[16:55:55] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.silver`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[16:55:55] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.crystal`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[16:55:55] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.obsidian`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[16:55:55] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.dirtchest9000`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[16:55:55] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.iron`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[16:55:55] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.gold`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[16:55:55] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.diamond`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[16:55:55] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.copper`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[16:55:55] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.silver`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[16:55:55] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.crystal`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[16:55:55] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.obsidian`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[16:55:56] [Server thread/INFO] [flansmod]: Registering Blocks
+[16:55:56] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `conveyor_tile`, expected `industrialforegoing`. This could be a intended override, but in most cases indicates a broken mod.
+[16:55:56] [Server thread/INFO] [FML]: Applying holder lookups
+[16:55:56] [Server thread/INFO] [FML]: Holder lookups applied
+[16:55:56] [Server thread/INFO] [grimoireofgaia]: Registering items...
+[16:55:56] [Server thread/INFO] [grimoireofgaia]: Item registration complete.
+[16:55:56] [Server thread/INFO] [grimoireofgaia]: Registering item blocks...
+[16:55:56] [Server thread/INFO] [grimoireofgaia]: Item block registration complete.
+[16:55:56] [Server thread/INFO] [flansmod]: Registering Items
+[16:55:56] [Server thread/INFO] [FML]: Applying holder lookups
+[16:55:56] [Server thread/INFO] [FML]: Holder lookups applied
+[16:55:56] [Server thread/INFO] [grimoireofgaia]: Registering entities...
+[16:55:56] [Server thread/INFO] [grimoireofgaia]: Entity registration complete.
+[16:55:56] [Server thread/INFO] [flansmod]: Registering Entities
+[16:55:56] [Server thread/INFO] [grimoireofgaia]: Registering Sounds
+[16:55:56] [Server thread/INFO] [grimoireofgaia]: Sounds Finished
+[16:55:57] [Server thread/INFO] [FML]: Applying holder lookups
+[16:55:57] [Server thread/INFO] [FML]: Holder lookups applied
+[16:55:57] [Server thread/INFO] [FML]: Applying holder lookups
+[16:55:57] [Server thread/INFO] [FML]: Holder lookups applied
+[16:55:57] [Server thread/INFO] [FML]: Injecting itemstacks
+[16:55:57] [Server thread/INFO] [FML]: Itemstack injection complete
+[16:55:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Loading properties
+[16:55:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Default game type: SURVIVAL
+[16:55:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Generating keypair
+[16:55:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting Minecraft server on *:25565
+[16:55:57] [Server thread/INFO] [net.minecraft.network.NetworkSystem]: Using default channel type
+[16:55:58] [Server thread/INFO] [grimoireofgaia]: Registering recipes...
+[16:55:58] [Server thread/INFO] [grimoireofgaia]: Recipe registration complete.
+[16:55:58] [Server thread/INFO] [flansmod]: Registering Recipes.
+[16:55:58] [Server thread/INFO] [FML]: Applying holder lookups
+[16:55:58] [Server thread/INFO] [FML]: Holder lookups applied
+[16:55:58] [Server thread/INFO] [flansmod]: Initialising Flan's Mod.
+[16:55:58] [Server thread/INFO] [flansmod]: Loading complete.
+[16:55:58] [Server thread/INFO] [Mekanism]: Version 9.8.3 initializing...
+[16:55:58] [Server thread/INFO] [Mekanism]: Loading complete.
+[16:55:58] [Server thread/INFO] [Mekanism]: Mod loaded.
+[16:55:59] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tile_meatpacker`, expected `industrialmeat`. This could be a intended override, but in most cases indicates a broken mod.
+[16:55:59] [Server thread/INFO] [Mekanism]: Loaded MekanismGenerators module.
+[16:55:59] [Server thread/INFO] [Mekanism]: Loaded 'Mekanism: Tools' module.
+[16:55:59] [Server thread/INFO] [FML]: Injecting itemstacks
+[16:55:59] [Server thread/INFO] [FML]: Itemstack injection complete
+[16:55:59] [Server thread/INFO] [FML]: [all meta blocks]
 minecraft:stone:variant=stone (metadata=0)
 minecraft:stone:variant=granite (metadata=1)
 minecraft:stone:variant=smooth_granite (metadata=2)
@@ -2054,6 +2113,183 @@ grimoireofgaia:spawn_guard:type=VERTICAL_SOUTH (metadata=8)
 grimoireofgaia:spawn_guard:type=VERTICAL_WEST (metadata=9)
 grimoireofgaia:spawn_guard:type=VERTICAL_NORTH (metadata=10)
 grimoireofgaia:spawn_guard:type=VERTICAL_EAST (metadata=11)
+mekanism:basicblock:active=true,facing=down,tier=BASIC,type=OSMIUM_BLOCK (metadata=0)
+mekanism:basicblock:active=true,facing=down,tier=BASIC,type=BRONZE_BLOCK (metadata=1)
+mekanism:basicblock:active=true,facing=down,tier=BASIC,type=REFINED_OBSIDIAN (metadata=2)
+mekanism:basicblock:active=true,facing=down,tier=BASIC,type=COAL_BLOCK (metadata=3)
+mekanism:basicblock:active=true,facing=down,tier=BASIC,type=REFINED_GLOWSTONE (metadata=4)
+mekanism:basicblock:active=true,facing=down,tier=BASIC,type=STEEL_BLOCK (metadata=5)
+mekanism:basicblock:active=true,facing=down,tier=BASIC,type=BIN (metadata=6)
+mekanism:basicblock:active=true,facing=down,tier=BASIC,type=TELEPORTER_FRAME (metadata=7)
+mekanism:basicblock:active=true,facing=down,tier=BASIC,type=STEEL_CASING (metadata=8)
+mekanism:basicblock:active=true,facing=down,tier=BASIC,type=DYNAMIC_TANK (metadata=9)
+mekanism:basicblock:active=true,facing=down,tier=BASIC,type=STRUCTURAL_GLASS (metadata=10)
+mekanism:basicblock:active=true,facing=down,tier=BASIC,type=DYNAMIC_VALVE (metadata=11)
+mekanism:basicblock:active=true,facing=down,tier=BASIC,type=COPPER_BLOCK (metadata=12)
+mekanism:basicblock:active=true,facing=down,tier=BASIC,type=TIN_BLOCK (metadata=13)
+mekanism:basicblock:active=true,facing=down,tier=BASIC,type=THERMAL_EVAPORATION_CONTROLLER (metadata=14)
+mekanism:basicblock:active=true,facing=down,tier=BASIC,type=THERMAL_EVAPORATION_VALVE (metadata=15)
+mekanism:basicblock2:active=true,facing=down,tier=BASIC,type=THERMAL_EVAPORATION_BLOCK (metadata=0)
+mekanism:basicblock2:active=true,facing=down,tier=BASIC,type=INDUCTION_CASING (metadata=1)
+mekanism:basicblock2:active=true,facing=down,tier=BASIC,type=INDUCTION_PORT (metadata=2)
+mekanism:basicblock2:active=true,facing=down,tier=BASIC,type=INDUCTION_CELL (metadata=3)
+mekanism:basicblock2:active=true,facing=down,tier=BASIC,type=INDUCTION_PROVIDER (metadata=4)
+mekanism:basicblock2:active=true,facing=down,tier=BASIC,type=SUPERHEATING_ELEMENT (metadata=5)
+mekanism:basicblock2:active=true,facing=down,tier=BASIC,type=PRESSURE_DISPERSER (metadata=6)
+mekanism:basicblock2:active=true,facing=down,tier=BASIC,type=BOILER_CASING (metadata=7)
+mekanism:basicblock2:active=true,facing=down,tier=BASIC,type=BOILER_VALVE (metadata=8)
+mekanism:basicblock2:active=true,facing=down,tier=BASIC,type=SECURITY_DESK (metadata=9)
+mekanism:machineblock:active=true,facing=down,recipe=SMELTING,tier=BASIC,type=enrichment_chamber (metadata=0)
+mekanism:machineblock:active=true,facing=down,recipe=SMELTING,tier=BASIC,type=osmium_compressor (metadata=1)
+mekanism:machineblock:active=true,facing=down,recipe=SMELTING,tier=BASIC,type=combiner (metadata=2)
+mekanism:machineblock:active=true,facing=down,recipe=SMELTING,tier=BASIC,type=crusher (metadata=3)
+mekanism:machineblock:active=true,facing=down,recipe=SMELTING,tier=BASIC,type=digital_miner (metadata=4)
+mekanism:machineblock:active=true,facing=down,recipe=SMELTING,tier=BASIC,type=basic_factory (metadata=5)
+mekanism:machineblock:active=true,facing=down,recipe=SMELTING,tier=BASIC,type=advanced_factory (metadata=6)
+mekanism:machineblock:active=true,facing=down,recipe=SMELTING,tier=BASIC,type=elite_factory (metadata=7)
+mekanism:machineblock:active=true,facing=down,recipe=SMELTING,tier=BASIC,type=metallurgic_infuser (metadata=8)
+mekanism:machineblock:active=true,facing=down,recipe=SMELTING,tier=BASIC,type=purification_chamber (metadata=9)
+mekanism:machineblock:active=true,facing=down,recipe=SMELTING,tier=BASIC,type=energized_smelter (metadata=10)
+mekanism:machineblock:active=true,facing=down,recipe=SMELTING,tier=BASIC,type=teleporter (metadata=11)
+mekanism:machineblock:active=true,facing=down,recipe=SMELTING,tier=BASIC,type=electric_pump (metadata=12)
+mekanism:machineblock:active=true,facing=down,recipe=SMELTING,tier=BASIC,type=personal_chest (metadata=13)
+mekanism:machineblock:active=true,facing=down,recipe=SMELTING,tier=BASIC,type=chargepad (metadata=14)
+mekanism:machineblock:active=true,facing=down,recipe=SMELTING,tier=BASIC,type=logistical_sorter (metadata=15)
+mekanism:machineblock2:active=true,facing=down,recipe=SMELTING,tier=BASIC,type=rotary_condensentrator (metadata=0)
+mekanism:machineblock2:active=true,facing=down,recipe=SMELTING,tier=BASIC,type=chemical_oxidizer (metadata=1)
+mekanism:machineblock2:active=true,facing=down,recipe=SMELTING,tier=BASIC,type=chemical_infuser (metadata=2)
+mekanism:machineblock2:active=true,facing=down,recipe=SMELTING,tier=BASIC,type=chemical_injection_chamber (metadata=3)
+mekanism:machineblock2:active=true,facing=down,recipe=SMELTING,tier=BASIC,type=electrolytic_separator (metadata=4)
+mekanism:machineblock2:active=true,facing=down,recipe=SMELTING,tier=BASIC,type=precision_sawmill (metadata=5)
+mekanism:machineblock2:active=true,facing=down,recipe=SMELTING,tier=BASIC,type=chemical_dissolution_chamber (metadata=6)
+mekanism:machineblock2:active=true,facing=down,recipe=SMELTING,tier=BASIC,type=chemical_washer (metadata=7)
+mekanism:machineblock2:active=true,facing=down,recipe=SMELTING,tier=BASIC,type=chemical_crystallizer (metadata=8)
+mekanism:machineblock2:active=true,facing=down,recipe=SMELTING,tier=BASIC,type=seismic_vibrator (metadata=9)
+mekanism:machineblock2:active=true,facing=down,recipe=SMELTING,tier=BASIC,type=pressurized_reaction_chamber (metadata=10)
+mekanism:machineblock2:active=true,facing=down,recipe=SMELTING,tier=BASIC,type=fluid_tank (metadata=11)
+mekanism:machineblock2:active=true,facing=down,recipe=SMELTING,tier=BASIC,type=fluidic_plenisher (metadata=12)
+mekanism:machineblock2:active=true,facing=down,recipe=SMELTING,tier=BASIC,type=laser (metadata=13)
+mekanism:machineblock2:active=true,facing=down,recipe=SMELTING,tier=BASIC,type=laser_amplifier (metadata=14)
+mekanism:machineblock2:active=true,facing=down,recipe=SMELTING,tier=BASIC,type=laser_tractor_beam (metadata=15)
+mekanism:machineblock3:active=true,facing=down,recipe=SMELTING,tier=BASIC,type=quantum_entangloporter (metadata=0)
+mekanism:machineblock3:active=true,facing=down,recipe=SMELTING,tier=BASIC,type=solar_neutron_activator (metadata=1)
+mekanism:machineblock3:active=true,facing=down,recipe=SMELTING,tier=BASIC,type=oredictionificator (metadata=3)
+mekanism:machineblock3:active=true,facing=down,recipe=SMELTING,tier=BASIC,type=resistive_heater (metadata=4)
+mekanism:machineblock3:active=true,facing=down,recipe=SMELTING,tier=BASIC,type=formulaic_assemblicator (metadata=5)
+mekanism:machineblock3:active=true,facing=down,recipe=SMELTING,tier=BASIC,type=fuelwood_heater (metadata=6)
+mekanism:oreblock:type=OSMIUM (metadata=0)
+mekanism:oreblock:type=COPPER (metadata=1)
+mekanism:oreblock:type=TIN (metadata=2)
+mekanism:energycube:facing=down,tier=BASIC (metadata=0)
+mekanism:transmitter:tier=BASIC,type=UNIVERSAL_CABLE (metadata=0)
+mekanism:transmitter:tier=BASIC,type=MECHANICAL_PIPE (metadata=1)
+mekanism:transmitter:tier=BASIC,type=PRESSURIZED_TUBE (metadata=2)
+mekanism:transmitter:tier=BASIC,type=LOGISTICAL_TRANSPORTER (metadata=3)
+mekanism:transmitter:tier=BASIC,type=RESTRICTIVE_TRANSPORTER (metadata=4)
+mekanism:transmitter:tier=BASIC,type=DIVERSION_TRANSPORTER (metadata=5)
+mekanism:transmitter:tier=BASIC,type=THERMODYNAMIC_CONDUCTOR (metadata=6)
+mekanism:boundingblock:advanced=false (metadata=0)
+mekanism:boundingblock:advanced=true (metadata=1)
+mekanism:gastank:facing=down,tier=BASIC (metadata=0)
+mekanism:cardboardbox:storage=false (metadata=0)
+mekanism:cardboardbox:storage=true (metadata=1)
+mekanism:glowpanel:facing=down (metadata=0)
+mekanism:plasticblock:color=black (metadata=0)
+mekanism:plasticblock:color=red (metadata=1)
+mekanism:plasticblock:color=green (metadata=2)
+mekanism:plasticblock:color=brown (metadata=3)
+mekanism:plasticblock:color=blue (metadata=4)
+mekanism:plasticblock:color=purple (metadata=5)
+mekanism:plasticblock:color=cyan (metadata=6)
+mekanism:plasticblock:color=silver (metadata=7)
+mekanism:plasticblock:color=gray (metadata=8)
+mekanism:plasticblock:color=pink (metadata=9)
+mekanism:plasticblock:color=lime (metadata=10)
+mekanism:plasticblock:color=yellow (metadata=11)
+mekanism:plasticblock:color=lightBlue (metadata=12)
+mekanism:plasticblock:color=magenta (metadata=13)
+mekanism:plasticblock:color=orange (metadata=14)
+mekanism:plasticblock:color=white (metadata=15)
+mekanism:slickplasticblock:color=black (metadata=0)
+mekanism:slickplasticblock:color=red (metadata=1)
+mekanism:slickplasticblock:color=green (metadata=2)
+mekanism:slickplasticblock:color=brown (metadata=3)
+mekanism:slickplasticblock:color=blue (metadata=4)
+mekanism:slickplasticblock:color=purple (metadata=5)
+mekanism:slickplasticblock:color=cyan (metadata=6)
+mekanism:slickplasticblock:color=silver (metadata=7)
+mekanism:slickplasticblock:color=gray (metadata=8)
+mekanism:slickplasticblock:color=pink (metadata=9)
+mekanism:slickplasticblock:color=lime (metadata=10)
+mekanism:slickplasticblock:color=yellow (metadata=11)
+mekanism:slickplasticblock:color=lightBlue (metadata=12)
+mekanism:slickplasticblock:color=magenta (metadata=13)
+mekanism:slickplasticblock:color=orange (metadata=14)
+mekanism:slickplasticblock:color=white (metadata=15)
+mekanism:glowplasticblock:color=black (metadata=0)
+mekanism:glowplasticblock:color=red (metadata=1)
+mekanism:glowplasticblock:color=green (metadata=2)
+mekanism:glowplasticblock:color=brown (metadata=3)
+mekanism:glowplasticblock:color=blue (metadata=4)
+mekanism:glowplasticblock:color=purple (metadata=5)
+mekanism:glowplasticblock:color=cyan (metadata=6)
+mekanism:glowplasticblock:color=silver (metadata=7)
+mekanism:glowplasticblock:color=gray (metadata=8)
+mekanism:glowplasticblock:color=pink (metadata=9)
+mekanism:glowplasticblock:color=lime (metadata=10)
+mekanism:glowplasticblock:color=yellow (metadata=11)
+mekanism:glowplasticblock:color=lightBlue (metadata=12)
+mekanism:glowplasticblock:color=magenta (metadata=13)
+mekanism:glowplasticblock:color=orange (metadata=14)
+mekanism:glowplasticblock:color=white (metadata=15)
+mekanism:reinforcedplasticblock:color=black (metadata=0)
+mekanism:reinforcedplasticblock:color=red (metadata=1)
+mekanism:reinforcedplasticblock:color=green (metadata=2)
+mekanism:reinforcedplasticblock:color=brown (metadata=3)
+mekanism:reinforcedplasticblock:color=blue (metadata=4)
+mekanism:reinforcedplasticblock:color=purple (metadata=5)
+mekanism:reinforcedplasticblock:color=cyan (metadata=6)
+mekanism:reinforcedplasticblock:color=silver (metadata=7)
+mekanism:reinforcedplasticblock:color=gray (metadata=8)
+mekanism:reinforcedplasticblock:color=pink (metadata=9)
+mekanism:reinforcedplasticblock:color=lime (metadata=10)
+mekanism:reinforcedplasticblock:color=yellow (metadata=11)
+mekanism:reinforcedplasticblock:color=lightBlue (metadata=12)
+mekanism:reinforcedplasticblock:color=magenta (metadata=13)
+mekanism:reinforcedplasticblock:color=orange (metadata=14)
+mekanism:reinforcedplasticblock:color=white (metadata=15)
+mekanism:roadplasticblock:color=black (metadata=0)
+mekanism:roadplasticblock:color=red (metadata=1)
+mekanism:roadplasticblock:color=green (metadata=2)
+mekanism:roadplasticblock:color=brown (metadata=3)
+mekanism:roadplasticblock:color=blue (metadata=4)
+mekanism:roadplasticblock:color=purple (metadata=5)
+mekanism:roadplasticblock:color=cyan (metadata=6)
+mekanism:roadplasticblock:color=silver (metadata=7)
+mekanism:roadplasticblock:color=gray (metadata=8)
+mekanism:roadplasticblock:color=pink (metadata=9)
+mekanism:roadplasticblock:color=lime (metadata=10)
+mekanism:roadplasticblock:color=yellow (metadata=11)
+mekanism:roadplasticblock:color=lightBlue (metadata=12)
+mekanism:roadplasticblock:color=magenta (metadata=13)
+mekanism:roadplasticblock:color=orange (metadata=14)
+mekanism:roadplasticblock:color=white (metadata=15)
+mekanism:plasticfence:color=black,east=true,north=true,south=true,west=true (metadata=0)
+mekanism:plasticfence:color=red,east=true,north=true,south=true,west=true (metadata=1)
+mekanism:plasticfence:color=green,east=true,north=true,south=true,west=true (metadata=2)
+mekanism:plasticfence:color=brown,east=true,north=true,south=true,west=true (metadata=3)
+mekanism:plasticfence:color=blue,east=true,north=true,south=true,west=true (metadata=4)
+mekanism:plasticfence:color=purple,east=true,north=true,south=true,west=true (metadata=5)
+mekanism:plasticfence:color=cyan,east=true,north=true,south=true,west=true (metadata=6)
+mekanism:plasticfence:color=silver,east=true,north=true,south=true,west=true (metadata=7)
+mekanism:plasticfence:color=gray,east=true,north=true,south=true,west=true (metadata=8)
+mekanism:plasticfence:color=pink,east=true,north=true,south=true,west=true (metadata=9)
+mekanism:plasticfence:color=lime,east=true,north=true,south=true,west=true (metadata=10)
+mekanism:plasticfence:color=yellow,east=true,north=true,south=true,west=true (metadata=11)
+mekanism:plasticfence:color=lightBlue,east=true,north=true,south=true,west=true (metadata=12)
+mekanism:plasticfence:color=magenta,east=true,north=true,south=true,west=true (metadata=13)
+mekanism:plasticfence:color=orange,east=true,north=true,south=true,west=true (metadata=14)
+mekanism:plasticfence:color=white,east=true,north=true,south=true,west=true (metadata=15)
 ironchest:iron_chest:variant=IRON (metadata=0)
 ironchest:iron_chest:variant=GOLD (metadata=1)
 ironchest:iron_chest:variant=DIAMOND (metadata=2)
@@ -2191,6 +2427,25 @@ ironchest:iron_shulker_box_black:variant=SILVER (metadata=4)
 ironchest:iron_shulker_box_black:variant=CRYSTAL (metadata=5)
 ironchest:iron_shulker_box_black:variant=OBSIDIAN (metadata=6)
 ironchest:iron_shulker_box_black:variant=VANILLA (metadata=7)
+mekanismgenerators:generator:active=true,facing=down,type=HEAT_GENERATOR (metadata=0)
+mekanismgenerators:generator:active=true,facing=down,type=SOLAR_GENERATOR (metadata=1)
+mekanismgenerators:generator:active=true,facing=down,type=GAS_GENERATOR (metadata=3)
+mekanismgenerators:generator:active=true,facing=down,type=BIO_GENERATOR (metadata=4)
+mekanismgenerators:generator:active=true,facing=down,type=ADVANCED_SOLAR_GENERATOR (metadata=5)
+mekanismgenerators:generator:active=true,facing=down,type=WIND_GENERATOR (metadata=6)
+mekanismgenerators:generator:active=true,facing=down,type=TURBINE_ROTOR (metadata=7)
+mekanismgenerators:generator:active=true,facing=down,type=ROTATIONAL_COMPLEX (metadata=8)
+mekanismgenerators:generator:active=true,facing=down,type=ELECTROMAGNETIC_COIL (metadata=9)
+mekanismgenerators:generator:active=true,facing=down,type=TURBINE_CASING (metadata=10)
+mekanismgenerators:generator:active=true,facing=down,type=TURBINE_VALVE (metadata=11)
+mekanismgenerators:generator:active=true,facing=down,type=TURBINE_VENT (metadata=12)
+mekanismgenerators:generator:active=true,facing=down,type=SATURATING_CONDENSER (metadata=13)
+mekanismgenerators:reactor:active=true,type=REACTOR_CONTROLLER (metadata=0)
+mekanismgenerators:reactor:active=true,type=REACTOR_FRAME (metadata=1)
+mekanismgenerators:reactor:active=true,type=REACTOR_PORT (metadata=2)
+mekanismgenerators:reactor:active=true,type=REACTOR_LOGIC_ADAPTER (metadata=3)
+mekanismgenerators:reactorglass:active=true,type=REACTOR_GLASS (metadata=0)
+mekanismgenerators:reactorglass:active=true,type=LASER_FOCUS_MATRIX (metadata=1)
 twilightforest:twilight_log:axis=y,variant=OAK (metadata=0)
 twilightforest:twilight_log:axis=y,variant=CANOPY (metadata=1)
 twilightforest:twilight_log:axis=y,variant=MANGROVE (metadata=2)
@@ -3365,224 +3620,446 @@ twilightforest:fiery_essence:level=12 (metadata=12)
 twilightforest:fiery_essence:level=13 (metadata=13)
 twilightforest:fiery_essence:level=14 (metadata=14)
 twilightforest:fiery_essence:level=15 (metadata=15)
+flansmod:flansworkbench:type=0 (metadata=0)
+flansmod:flansworkbench:type=1 (metadata=1)
+flansmod:flansworkbench:type=2 (metadata=2)
+flansmod:teamsspawner:type=0 (metadata=0)
+flansmod:teamsspawner:type=1 (metadata=1)
+flansmod:teamsspawner:type=2 (metadata=2)
+industrialforegoing:petrified_fuel_generator:facing=north (metadata=2)
+industrialforegoing:petrified_fuel_generator:facing=south (metadata=3)
+industrialforegoing:petrified_fuel_generator:facing=west (metadata=4)
+industrialforegoing:petrified_fuel_generator:facing=east (metadata=5)
+industrialforegoing:enchantment_refiner:facing=north (metadata=2)
+industrialforegoing:enchantment_refiner:facing=south (metadata=3)
+industrialforegoing:enchantment_refiner:facing=west (metadata=4)
+industrialforegoing:enchantment_refiner:facing=east (metadata=5)
+industrialforegoing:enchantment_extractor:facing=north (metadata=2)
+industrialforegoing:enchantment_extractor:facing=south (metadata=3)
+industrialforegoing:enchantment_extractor:facing=west (metadata=4)
+industrialforegoing:enchantment_extractor:facing=east (metadata=5)
+industrialforegoing:enchantment_aplicator:facing=north (metadata=2)
+industrialforegoing:enchantment_aplicator:facing=south (metadata=3)
+industrialforegoing:enchantment_aplicator:facing=west (metadata=4)
+industrialforegoing:enchantment_aplicator:facing=east (metadata=5)
+industrialforegoing:mob_relocator:facing=north (metadata=2)
+industrialforegoing:mob_relocator:facing=south (metadata=3)
+industrialforegoing:mob_relocator:facing=west (metadata=4)
+industrialforegoing:mob_relocator:facing=east (metadata=5)
+industrialforegoing:potion_enervator:facing=north (metadata=2)
+industrialforegoing:potion_enervator:facing=south (metadata=3)
+industrialforegoing:potion_enervator:facing=west (metadata=4)
+industrialforegoing:potion_enervator:facing=east (metadata=5)
+industrialforegoing:animal_independence_selector:facing=north (metadata=2)
+industrialforegoing:animal_independence_selector:facing=south (metadata=3)
+industrialforegoing:animal_independence_selector:facing=west (metadata=4)
+industrialforegoing:animal_independence_selector:facing=east (metadata=5)
+industrialforegoing:animal_stock_increaser:facing=north (metadata=2)
+industrialforegoing:animal_stock_increaser:facing=south (metadata=3)
+industrialforegoing:animal_stock_increaser:facing=west (metadata=4)
+industrialforegoing:animal_stock_increaser:facing=east (metadata=5)
+industrialforegoing:crop_sower:facing=north (metadata=2)
+industrialforegoing:crop_sower:facing=south (metadata=3)
+industrialforegoing:crop_sower:facing=west (metadata=4)
+industrialforegoing:crop_sower:facing=east (metadata=5)
+industrialforegoing:crop_enrich_material_injector:facing=north (metadata=2)
+industrialforegoing:crop_enrich_material_injector:facing=south (metadata=3)
+industrialforegoing:crop_enrich_material_injector:facing=west (metadata=4)
+industrialforegoing:crop_enrich_material_injector:facing=east (metadata=5)
+industrialforegoing:crop_recolector:facing=north (metadata=2)
+industrialforegoing:crop_recolector:facing=south (metadata=3)
+industrialforegoing:crop_recolector:facing=west (metadata=4)
+industrialforegoing:crop_recolector:facing=east (metadata=5)
+industrialforegoing:black_hole_unit:facing=north (metadata=2)
+industrialforegoing:black_hole_unit:facing=south (metadata=3)
+industrialforegoing:black_hole_unit:facing=west (metadata=4)
+industrialforegoing:black_hole_unit:facing=east (metadata=5)
+industrialforegoing:water_condensator:facing=north (metadata=2)
+industrialforegoing:water_condensator:facing=south (metadata=3)
+industrialforegoing:water_condensator:facing=west (metadata=4)
+industrialforegoing:water_condensator:facing=east (metadata=5)
+industrialforegoing:water_resources_collector:facing=north (metadata=2)
+industrialforegoing:water_resources_collector:facing=south (metadata=3)
+industrialforegoing:water_resources_collector:facing=west (metadata=4)
+industrialforegoing:water_resources_collector:facing=east (metadata=5)
+industrialforegoing:animal_resource_harvester:facing=north (metadata=2)
+industrialforegoing:animal_resource_harvester:facing=south (metadata=3)
+industrialforegoing:animal_resource_harvester:facing=west (metadata=4)
+industrialforegoing:animal_resource_harvester:facing=east (metadata=5)
+industrialforegoing:mob_slaughter_factory:facing=north (metadata=2)
+industrialforegoing:mob_slaughter_factory:facing=south (metadata=3)
+industrialforegoing:mob_slaughter_factory:facing=west (metadata=4)
+industrialforegoing:mob_slaughter_factory:facing=east (metadata=5)
+industrialforegoing:mob_duplicator:facing=north (metadata=2)
+industrialforegoing:mob_duplicator:facing=south (metadata=3)
+industrialforegoing:mob_duplicator:facing=west (metadata=4)
+industrialforegoing:mob_duplicator:facing=east (metadata=5)
+industrialforegoing:block_destroyer:facing=north (metadata=2)
+industrialforegoing:block_destroyer:facing=south (metadata=3)
+industrialforegoing:block_destroyer:facing=west (metadata=4)
+industrialforegoing:block_destroyer:facing=east (metadata=5)
+industrialforegoing:block_placer:facing=north (metadata=2)
+industrialforegoing:block_placer:facing=south (metadata=3)
+industrialforegoing:block_placer:facing=west (metadata=4)
+industrialforegoing:block_placer:facing=east (metadata=5)
+industrialforegoing:tree_fluid_extractor:facing=north (metadata=2)
+industrialforegoing:tree_fluid_extractor:facing=south (metadata=3)
+industrialforegoing:tree_fluid_extractor:facing=west (metadata=4)
+industrialforegoing:tree_fluid_extractor:facing=east (metadata=5)
+industrialforegoing:latex_processing_unit:facing=north (metadata=2)
+industrialforegoing:latex_processing_unit:facing=south (metadata=3)
+industrialforegoing:latex_processing_unit:facing=west (metadata=4)
+industrialforegoing:latex_processing_unit:facing=east (metadata=5)
+industrialforegoing:sewage_composter_solidifier:facing=north (metadata=2)
+industrialforegoing:sewage_composter_solidifier:facing=south (metadata=3)
+industrialforegoing:sewage_composter_solidifier:facing=west (metadata=4)
+industrialforegoing:sewage_composter_solidifier:facing=east (metadata=5)
+industrialforegoing:animal_byproduct_recolector:facing=north (metadata=2)
+industrialforegoing:animal_byproduct_recolector:facing=south (metadata=3)
+industrialforegoing:animal_byproduct_recolector:facing=west (metadata=4)
+industrialforegoing:animal_byproduct_recolector:facing=east (metadata=5)
+industrialforegoing:sludge_refiner:facing=north (metadata=2)
+industrialforegoing:sludge_refiner:facing=south (metadata=3)
+industrialforegoing:sludge_refiner:facing=west (metadata=4)
+industrialforegoing:sludge_refiner:facing=east (metadata=5)
+industrialforegoing:mob_detector:facing=north (metadata=2)
+industrialforegoing:mob_detector:facing=south (metadata=3)
+industrialforegoing:mob_detector:facing=west (metadata=4)
+industrialforegoing:mob_detector:facing=east (metadata=5)
+industrialforegoing:lava_fabricator:facing=north (metadata=2)
+industrialforegoing:lava_fabricator:facing=south (metadata=3)
+industrialforegoing:lava_fabricator:facing=west (metadata=4)
+industrialforegoing:lava_fabricator:facing=east (metadata=5)
+industrialforegoing:bioreactor:facing=north (metadata=2)
+industrialforegoing:bioreactor:facing=south (metadata=3)
+industrialforegoing:bioreactor:facing=west (metadata=4)
+industrialforegoing:bioreactor:facing=east (metadata=5)
+industrialforegoing:biofuel_generator:facing=north (metadata=2)
+industrialforegoing:biofuel_generator:facing=south (metadata=3)
+industrialforegoing:biofuel_generator:facing=west (metadata=4)
+industrialforegoing:biofuel_generator:facing=east (metadata=5)
+industrialforegoing:laser_base:facing=north (metadata=2)
+industrialforegoing:laser_base:facing=south (metadata=3)
+industrialforegoing:laser_base:facing=west (metadata=4)
+industrialforegoing:laser_base:facing=east (metadata=5)
+industrialforegoing:laser_drill:facing=north (metadata=2)
+industrialforegoing:laser_drill:facing=south (metadata=3)
+industrialforegoing:laser_drill:facing=west (metadata=4)
+industrialforegoing:laser_drill:facing=east (metadata=5)
+industrialforegoing:ore_processor:facing=north (metadata=2)
+industrialforegoing:ore_processor:facing=south (metadata=3)
+industrialforegoing:ore_processor:facing=west (metadata=4)
+industrialforegoing:ore_processor:facing=east (metadata=5)
+industrialforegoing:black_hole_controller:facing=north (metadata=2)
+industrialforegoing:black_hole_controller:facing=south (metadata=3)
+industrialforegoing:black_hole_controller:facing=west (metadata=4)
+industrialforegoing:black_hole_controller:facing=east (metadata=5)
+industrialforegoing:black_hole_controller_reworked:facing=north (metadata=2)
+industrialforegoing:black_hole_controller_reworked:facing=south (metadata=3)
+industrialforegoing:black_hole_controller_reworked:facing=west (metadata=4)
+industrialforegoing:black_hole_controller_reworked:facing=east (metadata=5)
+industrialforegoing:dye_mixer:facing=north (metadata=2)
+industrialforegoing:dye_mixer:facing=south (metadata=3)
+industrialforegoing:dye_mixer:facing=west (metadata=4)
+industrialforegoing:dye_mixer:facing=east (metadata=5)
+industrialforegoing:enchantment_invoker:facing=north (metadata=2)
+industrialforegoing:enchantment_invoker:facing=south (metadata=3)
+industrialforegoing:enchantment_invoker:facing=west (metadata=4)
+industrialforegoing:enchantment_invoker:facing=east (metadata=5)
+industrialforegoing:spores_recreator:facing=north (metadata=2)
+industrialforegoing:spores_recreator:facing=south (metadata=3)
+industrialforegoing:spores_recreator:facing=west (metadata=4)
+industrialforegoing:spores_recreator:facing=east (metadata=5)
+industrialforegoing:animal_growth_increaser:facing=north (metadata=2)
+industrialforegoing:animal_growth_increaser:facing=south (metadata=3)
+industrialforegoing:animal_growth_increaser:facing=west (metadata=4)
+industrialforegoing:animal_growth_increaser:facing=east (metadata=5)
+industrialforegoing:material_stonework_factory:facing=north (metadata=2)
+industrialforegoing:material_stonework_factory:facing=south (metadata=3)
+industrialforegoing:material_stonework_factory:facing=west (metadata=4)
+industrialforegoing:material_stonework_factory:facing=east (metadata=5)
+industrialforegoing:black_hole_tank:facing=north (metadata=2)
+industrialforegoing:black_hole_tank:facing=south (metadata=3)
+industrialforegoing:black_hole_tank:facing=west (metadata=4)
+industrialforegoing:black_hole_tank:facing=east (metadata=5)
+industrialforegoing:resourceful_furnace:facing=north (metadata=2)
+industrialforegoing:resourceful_furnace:facing=south (metadata=3)
+industrialforegoing:resourceful_furnace:facing=west (metadata=4)
+industrialforegoing:resourceful_furnace:facing=east (metadata=5)
+industrialforegoing:villager_trade_exchanger:facing=north (metadata=2)
+industrialforegoing:villager_trade_exchanger:facing=south (metadata=3)
+industrialforegoing:villager_trade_exchanger:facing=west (metadata=4)
+industrialforegoing:villager_trade_exchanger:facing=east (metadata=5)
+industrialforegoing:energy_field_provider:facing=north (metadata=2)
+industrialforegoing:energy_field_provider:facing=south (metadata=3)
+industrialforegoing:energy_field_provider:facing=west (metadata=4)
+industrialforegoing:energy_field_provider:facing=east (metadata=5)
+industrialforegoing:oredictionary_converter:facing=north (metadata=2)
+industrialforegoing:oredictionary_converter:facing=south (metadata=3)
+industrialforegoing:oredictionary_converter:facing=west (metadata=4)
+industrialforegoing:oredictionary_converter:facing=east (metadata=5)
+industrialforegoing:protein_reactor:facing=north (metadata=2)
+industrialforegoing:protein_reactor:facing=south (metadata=3)
+industrialforegoing:protein_reactor:facing=west (metadata=4)
+industrialforegoing:protein_reactor:facing=east (metadata=5)
+industrialforegoing:protein_generator:facing=north (metadata=2)
+industrialforegoing:protein_generator:facing=south (metadata=3)
+industrialforegoing:protein_generator:facing=west (metadata=4)
+industrialforegoing:protein_generator:facing=east (metadata=5)
+industrialforegoing:hydrator:facing=north (metadata=2)
+industrialforegoing:hydrator:facing=south (metadata=3)
+industrialforegoing:hydrator:facing=west (metadata=4)
+industrialforegoing:hydrator:facing=east (metadata=5)
+industrialforegoing:wither_builder:facing=north (metadata=2)
+industrialforegoing:wither_builder:facing=south (metadata=3)
+industrialforegoing:wither_builder:facing=west (metadata=4)
+industrialforegoing:wither_builder:facing=east (metadata=5)
+industrialforegoing:fluid_pump:facing=north (metadata=2)
+industrialforegoing:fluid_pump:facing=south (metadata=3)
+industrialforegoing:fluid_pump:facing=west (metadata=4)
+industrialforegoing:fluid_pump:facing=east (metadata=5)
+industrialforegoing:fluid_crafter:facing=north (metadata=2)
+industrialforegoing:fluid_crafter:facing=south (metadata=3)
+industrialforegoing:fluid_crafter:facing=west (metadata=4)
+industrialforegoing:fluid_crafter:facing=east (metadata=5)
+industrialforegoing:plant_interactor:facing=north (metadata=2)
+industrialforegoing:plant_interactor:facing=south (metadata=3)
+industrialforegoing:plant_interactor:facing=west (metadata=4)
+industrialforegoing:plant_interactor:facing=east (metadata=5)
+industrialforegoing:item_splitter:facing=north (metadata=2)
+industrialforegoing:item_splitter:facing=south (metadata=3)
+industrialforegoing:item_splitter:facing=west (metadata=4)
+industrialforegoing:item_splitter:facing=east (metadata=5)
+industrialforegoing:fluiddictionary_converter:facing=north (metadata=2)
+industrialforegoing:fluiddictionary_converter:facing=south (metadata=3)
+industrialforegoing:fluiddictionary_converter:facing=west (metadata=4)
+industrialforegoing:fluiddictionary_converter:facing=east (metadata=5)
+industrialforegoing:froster:facing=north (metadata=2)
+industrialforegoing:froster:facing=south (metadata=3)
+industrialforegoing:froster:facing=west (metadata=4)
+industrialforegoing:froster:facing=east (metadata=5)
+industrialforegoing:ore_washer:facing=north (metadata=2)
+industrialforegoing:ore_washer:facing=south (metadata=3)
+industrialforegoing:ore_washer:facing=west (metadata=4)
+industrialforegoing:ore_washer:facing=east (metadata=5)
+industrialforegoing:ore_fermenter:facing=north (metadata=2)
+industrialforegoing:ore_fermenter:facing=south (metadata=3)
+industrialforegoing:ore_fermenter:facing=west (metadata=4)
+industrialforegoing:ore_fermenter:facing=east (metadata=5)
+industrialforegoing:ore_sieve:facing=north (metadata=2)
+industrialforegoing:ore_sieve:facing=south (metadata=3)
+industrialforegoing:ore_sieve:facing=west (metadata=4)
+industrialforegoing:ore_sieve:facing=east (metadata=5)
+industrialforegoing:pitiful_fuel_generator:facing=north (metadata=2)
+industrialforegoing:pitiful_fuel_generator:facing=south (metadata=3)
+industrialforegoing:pitiful_fuel_generator:facing=west (metadata=4)
+industrialforegoing:pitiful_fuel_generator:facing=east (metadata=5)
+industrialforegoing:essence:level=0 (metadata=0)
+industrialforegoing:essence:level=1 (metadata=1)
+industrialforegoing:essence:level=2 (metadata=2)
+industrialforegoing:essence:level=3 (metadata=3)
+industrialforegoing:essence:level=4 (metadata=4)
+industrialforegoing:essence:level=5 (metadata=5)
+industrialforegoing:essence:level=6 (metadata=6)
+industrialforegoing:essence:level=7 (metadata=7)
+industrialforegoing:essence:level=8 (metadata=8)
+industrialforegoing:essence:level=9 (metadata=9)
+industrialforegoing:essence:level=10 (metadata=10)
+industrialforegoing:essence:level=11 (metadata=11)
+industrialforegoing:essence:level=12 (metadata=12)
+industrialforegoing:essence:level=13 (metadata=13)
+industrialforegoing:essence:level=14 (metadata=14)
+industrialforegoing:essence:level=15 (metadata=15)
+industrialforegoing:milk:level=0 (metadata=0)
+industrialforegoing:milk:level=1 (metadata=1)
+industrialforegoing:milk:level=2 (metadata=2)
+industrialforegoing:milk:level=3 (metadata=3)
+industrialforegoing:milk:level=4 (metadata=4)
+industrialforegoing:milk:level=5 (metadata=5)
+industrialforegoing:milk:level=6 (metadata=6)
+industrialforegoing:milk:level=7 (metadata=7)
+industrialforegoing:milk:level=8 (metadata=8)
+industrialforegoing:milk:level=9 (metadata=9)
+industrialforegoing:milk:level=10 (metadata=10)
+industrialforegoing:milk:level=11 (metadata=11)
+industrialforegoing:milk:level=12 (metadata=12)
+industrialforegoing:milk:level=13 (metadata=13)
+industrialforegoing:milk:level=14 (metadata=14)
+industrialforegoing:milk:level=15 (metadata=15)
+industrialforegoing:meat:level=0 (metadata=0)
+industrialforegoing:meat:level=1 (metadata=1)
+industrialforegoing:meat:level=2 (metadata=2)
+industrialforegoing:meat:level=3 (metadata=3)
+industrialforegoing:meat:level=4 (metadata=4)
+industrialforegoing:meat:level=5 (metadata=5)
+industrialforegoing:meat:level=6 (metadata=6)
+industrialforegoing:meat:level=7 (metadata=7)
+industrialforegoing:meat:level=8 (metadata=8)
+industrialforegoing:meat:level=9 (metadata=9)
+industrialforegoing:meat:level=10 (metadata=10)
+industrialforegoing:meat:level=11 (metadata=11)
+industrialforegoing:meat:level=12 (metadata=12)
+industrialforegoing:meat:level=13 (metadata=13)
+industrialforegoing:meat:level=14 (metadata=14)
+industrialforegoing:meat:level=15 (metadata=15)
+industrialforegoing:latex:level=0 (metadata=0)
+industrialforegoing:latex:level=1 (metadata=1)
+industrialforegoing:latex:level=2 (metadata=2)
+industrialforegoing:latex:level=3 (metadata=3)
+industrialforegoing:latex:level=4 (metadata=4)
+industrialforegoing:latex:level=5 (metadata=5)
+industrialforegoing:latex:level=6 (metadata=6)
+industrialforegoing:latex:level=7 (metadata=7)
+industrialforegoing:latex:level=8 (metadata=8)
+industrialforegoing:latex:level=9 (metadata=9)
+industrialforegoing:latex:level=10 (metadata=10)
+industrialforegoing:latex:level=11 (metadata=11)
+industrialforegoing:latex:level=12 (metadata=12)
+industrialforegoing:latex:level=13 (metadata=13)
+industrialforegoing:latex:level=14 (metadata=14)
+industrialforegoing:latex:level=15 (metadata=15)
+industrialforegoing:sewage:level=0 (metadata=0)
+industrialforegoing:sewage:level=1 (metadata=1)
+industrialforegoing:sewage:level=2 (metadata=2)
+industrialforegoing:sewage:level=3 (metadata=3)
+industrialforegoing:sewage:level=4 (metadata=4)
+industrialforegoing:sewage:level=5 (metadata=5)
+industrialforegoing:sewage:level=6 (metadata=6)
+industrialforegoing:sewage:level=7 (metadata=7)
+industrialforegoing:sewage:level=8 (metadata=8)
+industrialforegoing:sewage:level=9 (metadata=9)
+industrialforegoing:sewage:level=10 (metadata=10)
+industrialforegoing:sewage:level=11 (metadata=11)
+industrialforegoing:sewage:level=12 (metadata=12)
+industrialforegoing:sewage:level=13 (metadata=13)
+industrialforegoing:sewage:level=14 (metadata=14)
+industrialforegoing:sewage:level=15 (metadata=15)
+industrialforegoing:sludge:level=0 (metadata=0)
+industrialforegoing:sludge:level=1 (metadata=1)
+industrialforegoing:sludge:level=2 (metadata=2)
+industrialforegoing:sludge:level=3 (metadata=3)
+industrialforegoing:sludge:level=4 (metadata=4)
+industrialforegoing:sludge:level=5 (metadata=5)
+industrialforegoing:sludge:level=6 (metadata=6)
+industrialforegoing:sludge:level=7 (metadata=7)
+industrialforegoing:sludge:level=8 (metadata=8)
+industrialforegoing:sludge:level=9 (metadata=9)
+industrialforegoing:sludge:level=10 (metadata=10)
+industrialforegoing:sludge:level=11 (metadata=11)
+industrialforegoing:sludge:level=12 (metadata=12)
+industrialforegoing:sludge:level=13 (metadata=13)
+industrialforegoing:sludge:level=14 (metadata=14)
+industrialforegoing:sludge:level=15 (metadata=15)
+industrialforegoing:biofuel:level=0 (metadata=0)
+industrialforegoing:biofuel:level=1 (metadata=1)
+industrialforegoing:biofuel:level=2 (metadata=2)
+industrialforegoing:biofuel:level=3 (metadata=3)
+industrialforegoing:biofuel:level=4 (metadata=4)
+industrialforegoing:biofuel:level=5 (metadata=5)
+industrialforegoing:biofuel:level=6 (metadata=6)
+industrialforegoing:biofuel:level=7 (metadata=7)
+industrialforegoing:biofuel:level=8 (metadata=8)
+industrialforegoing:biofuel:level=9 (metadata=9)
+industrialforegoing:biofuel:level=10 (metadata=10)
+industrialforegoing:biofuel:level=11 (metadata=11)
+industrialforegoing:biofuel:level=12 (metadata=12)
+industrialforegoing:biofuel:level=13 (metadata=13)
+industrialforegoing:biofuel:level=14 (metadata=14)
+industrialforegoing:biofuel:level=15 (metadata=15)
+industrialforegoing:if.pink_slime:level=0 (metadata=0)
+industrialforegoing:if.pink_slime:level=1 (metadata=1)
+industrialforegoing:if.pink_slime:level=2 (metadata=2)
+industrialforegoing:if.pink_slime:level=3 (metadata=3)
+industrialforegoing:if.pink_slime:level=4 (metadata=4)
+industrialforegoing:if.pink_slime:level=5 (metadata=5)
+industrialforegoing:if.pink_slime:level=6 (metadata=6)
+industrialforegoing:if.pink_slime:level=7 (metadata=7)
+industrialforegoing:if.pink_slime:level=8 (metadata=8)
+industrialforegoing:if.pink_slime:level=9 (metadata=9)
+industrialforegoing:if.pink_slime:level=10 (metadata=10)
+industrialforegoing:if.pink_slime:level=11 (metadata=11)
+industrialforegoing:if.pink_slime:level=12 (metadata=12)
+industrialforegoing:if.pink_slime:level=13 (metadata=13)
+industrialforegoing:if.pink_slime:level=14 (metadata=14)
+industrialforegoing:if.pink_slime:level=15 (metadata=15)
+industrialforegoing:if.protein:level=0 (metadata=0)
+industrialforegoing:if.protein:level=1 (metadata=1)
+industrialforegoing:if.protein:level=2 (metadata=2)
+industrialforegoing:if.protein:level=3 (metadata=3)
+industrialforegoing:if.protein:level=4 (metadata=4)
+industrialforegoing:if.protein:level=5 (metadata=5)
+industrialforegoing:if.protein:level=6 (metadata=6)
+industrialforegoing:if.protein:level=7 (metadata=7)
+industrialforegoing:if.protein:level=8 (metadata=8)
+industrialforegoing:if.protein:level=9 (metadata=9)
+industrialforegoing:if.protein:level=10 (metadata=10)
+industrialforegoing:if.protein:level=11 (metadata=11)
+industrialforegoing:if.protein:level=12 (metadata=12)
+industrialforegoing:if.protein:level=13 (metadata=13)
+industrialforegoing:if.protein:level=14 (metadata=14)
+industrialforegoing:if.protein:level=15 (metadata=15)
+industrialforegoing:conveyor:facing=north,sides=NONE,type=FLAT (metadata=2)
+industrialforegoing:conveyor:facing=south,sides=NONE,type=FLAT (metadata=3)
+industrialforegoing:conveyor:facing=west,sides=NONE,type=FLAT (metadata=4)
+industrialforegoing:conveyor:facing=east,sides=NONE,type=FLAT (metadata=5)
+industrialforegoing:black_hole_label:facing=north (metadata=2)
+industrialforegoing:black_hole_label:facing=south (metadata=3)
+industrialforegoing:black_hole_label:facing=west (metadata=4)
+industrialforegoing:black_hole_label:facing=east (metadata=5)
 swordcraftonline:gigascedarleaves:check_decay=false,decayable=true (metadata=0)
 swordcraftonline:gigascedarleaves:check_decay=false,decayable=false (metadata=1)
 swordcraftonline:gigascedarleaves:check_decay=true,decayable=true (metadata=2)
 swordcraftonline:gigascedarleaves:check_decay=true,decayable=false (metadata=3)
 
-[16:02:35] [Server thread/INFO] [FML]: Forge Mod Loader has successfully loaded 24 mods
-[16:02:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Preparing level "world"
-[16:02:35] [Server thread/INFO] [FML]: Injecting existing registry data into this server instance
-[16:02:35] [Server thread/INFO] [FML]: Applying holder lookups
-[16:02:35] [Server thread/INFO] [FML]: Holder lookups applied
-[16:02:35] [Server thread/INFO] [FML]: Loading dimension 0 (world) (net.minecraft.server.dedicated.DedicatedServer@404986d)
-[16:02:36] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 700 advancements
-[16:02:36] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@404986d)
-[16:02:37] [Server thread/INFO] [FML]: Loading dimension 1 (world) (net.minecraft.server.dedicated.DedicatedServer@404986d)
-[16:02:37] [Server thread/INFO] [FML]: Loading dimension 7 (world) (net.minecraft.server.dedicated.DedicatedServer@404986d)
-[16:02:37] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for level 0
-[16:02:37] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[16:02:37] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[16:02:37] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[16:02:38] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[16:02:38] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[16:02:38] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 27%
-[16:02:38] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[16:02:38] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[16:02:38] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[16:02:38] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[16:02:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Done (3.469s)! For help, type "help" or "?"
-[16:02:39] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class gaia.entity.monster.EntityGaiaMinotaurus from class gaia.entity.monster.EntityGaiaOrc
-[16:02:39] [Server thread/INFO] [FML]: Unloading dimension -1
-[16:02:39] [Server thread/INFO] [FML]: Unloading dimension 1
-[16:02:39] [Server thread/INFO] [FML]: Unloading dimension 7
-[16:02:42] [User Authenticator #1/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player sil_min is 738ba517-8ec4-45ef-af36-6815af8e986e
-[16:02:43] [Netty Server IO #1/INFO] [FML]: Client protocol version 2
-[16:02:43] [Netty Server IO #1/INFO] [FML]: Client attempting to join with 24 mods : minecraft@1.12.2,usefulbackpacks@1.5.4.85,swordcraftonline@1.0.1,FML@8.0.99.99,uteamcore@2.2.5.147,bettercombatmod@1.5.6,openmodscore@0.12.2,grimoireofgaia@1.7.2,openmods@0.12.2,jei@4.15.0.291,net.minecraft.scalar.cutall.mod_cutallsmp@2.5.2,carryon@1.12.3,forge@14.23.5.2860,net.minecraft.scalar.digall.mod_digallsmp@2.3.2,net.minecraft.scalar.mineall.mod_mineallsmp@2.6.6,bloodmoon@1.5.3,storagebox@3.2.0,twilightforest@3.11.1021,flammpfeil.slashblade@mc1.12-r33,mcp@9.42,infernalmobs@1.7.6,ironchest@1.12.2-7.0.67.844,journeymap@1.12.2-5.7.1,openblocks@1.8.1
-[16:02:43] [Netty Server IO #1/INFO] [journeymap]: CLIENT
-[16:02:43] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[16:02:43] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: sil_min[/127.0.0.1:50863] logged in with entity id 765 at (73.31560774267727, 61.0, 202.57139117457717)
-[16:02:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: sil_min joined the game
-[16:03:42] [User Authenticator #2/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player shirasu219 is da24293b-daa7-4d87-825f-773108250484
-[16:03:43] [Netty Server IO #3/INFO] [FML]: Client protocol version 2
-[16:03:43] [Netty Server IO #3/INFO] [FML]: Client attempting to join with 29 mods : minecraft@1.12.2,flansmod@5.10.0,usefulbackpacks@1.5.4.85,openmodscore@0.12.2,openmods@0.12.2,jei@4.15.0.291,mekanism@1.12.2-9.8.3.390,bloodmoon@1.5.3,mcp@9.42,journeymap@1.12.2-5.7.1,swordcraftonline@1.0.1,FML@8.0.99.99,uteamcore@2.2.5.147,mekanismtools@1.12.2-9.8.3.390,bettercombatmod@1.5.6,grimoireofgaia@1.7.2,mekanismgenerators@1.12.2-9.8.3.390,net.minecraft.scalar.cutall.mod_cutallsmp@2.5.2,carryon@1.12.3,forge@14.23.5.2859,net.minecraft.scalar.digall.mod_digallsmp@2.3.2,net.minecraft.scalar.mineall.mod_mineallsmp@2.6.6,storagebox@3.2.0,twilightforest@3.11.1021,flammpfeil.slashblade@mc1.12-r33,torohealthmod@1.12.2-11,infernalmobs@1.7.6,ironchest@1.12.2-7.0.67.844,openblocks@1.8.1
-[16:03:43] [Netty Server IO #3/INFO] [journeymap]: CLIENT
-[16:03:43] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[16:03:43] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: shirasu219[/60.145.57.122:61189] logged in with entity id 8293 at (34.841550390997426, 64.0, 226.1372460655218)
-[16:03:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: shirasu219 joined the game
-[16:05:35] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[16:05:35] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[16:05:36] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: shirasu219 lost connection: Disconnected
-[16:05:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: shirasu219 left the game
-[16:05:38] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[16:06:29] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[16:06:41] [Server thread/INFO] [OpenMods]: openblocks.common.PlayerInventoryStore.onPlayerDeath(PlayerInventoryStore.java:304): Storing post-mortem inventory into D:\Minecraft\1_20_1\Mod\1_12_2\.\world\data\inventory-sil_min-2023-06-17_16.06.41-death-0.dat. It can be restored with command '/ob_inventory restore sil_min sil_min-2023-06-17_16.06.41-death-0'
-[16:06:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: sil_min was killed by magic
-[16:06:42] [Server thread/INFO] [OpenMods]: openblocks.common.PlayerDeathHandler$GraveCallable.tryPlaceGrave(PlayerDeathHandler.java:200): Grave for (738ba517-8ec4-45ef-af36-6815af8e986e,sil_min) was spawned at (BlockPos{x=81, y=63, z=190}) (player died at (BlockPos{x=81, y=63, z=190}))
-[16:06:43] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[16:06:43] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[16:06:55] [Server thread/INFO] [OpenMods]: openblocks.common.PlayerInventoryStore.onPlayerDeath(PlayerInventoryStore.java:304): Storing post-mortem inventory into D:\Minecraft\1_20_1\Mod\1_12_2\.\world\data\inventory-sil_min-2023-06-17_16.06.55-death-0.dat. It can be restored with command '/ob_inventory restore sil_min sil_min-2023-06-17_16.06.55-death-0'
-[16:06:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: sil_min was killed by magic
-[16:07:07] [Server thread/INFO] [OpenMods]: openblocks.common.PlayerInventoryStore.onPlayerDeath(PlayerInventoryStore.java:304): Storing post-mortem inventory into D:\Minecraft\1_20_1\Mod\1_12_2\.\world\data\inventory-sil_min-2023-06-17_16.07.07-death-0.dat. It can be restored with command '/ob_inventory restore sil_min sil_min-2023-06-17_16.07.07-death-0'
-[16:07:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: sil_min was shot by Skeleton
-[16:07:08] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[16:07:23] [Server thread/INFO] [OpenMods]: openblocks.common.PlayerInventoryStore.onPlayerDeath(PlayerInventoryStore.java:304): Storing post-mortem inventory into D:\Minecraft\1_20_1\Mod\1_12_2\.\world\data\inventory-sil_min-2023-06-17_16.07.23-death-0.dat. It can be restored with command '/ob_inventory restore sil_min sil_min-2023-06-17_16.07.23-death-0'
-[16:07:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: sil_min was blown up by Creeper
-[16:07:37] [Server thread/INFO] [OpenMods]: openblocks.common.PlayerInventoryStore.onPlayerDeath(PlayerInventoryStore.java:304): Storing post-mortem inventory into D:\Minecraft\1_20_1\Mod\1_12_2\.\world\data\inventory-sil_min-2023-06-17_16.07.37-death-0.dat. It can be restored with command '/ob_inventory restore sil_min sil_min-2023-06-17_16.07.37-death-0'
-[16:07:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: sil_min was killed by magic
-[16:07:57] [Server thread/INFO] [OpenMods]: openblocks.common.PlayerInventoryStore.onPlayerDeath(PlayerInventoryStore.java:304): Storing post-mortem inventory into D:\Minecraft\1_20_1\Mod\1_12_2\.\world\data\inventory-sil_min-2023-06-17_16.07.57-death-0.dat. It can be restored with command '/ob_inventory restore sil_min sil_min-2023-06-17_16.07.57-death-0'
-[16:07:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: sil_min was shot by Skeleton
-[16:08:37] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[16:08:37] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[16:08:37] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[16:08:42] [Server thread/INFO] [OpenMods]: openblocks.common.PlayerInventoryStore.onPlayerDeath(PlayerInventoryStore.java:304): Storing post-mortem inventory into D:\Minecraft\1_20_1\Mod\1_12_2\.\world\data\inventory-sil_min-2023-06-17_16.08.42-death-0.dat. It can be restored with command '/ob_inventory restore sil_min sil_min-2023-06-17_16.08.42-death-0'
-[16:08:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: sil_min fell from a high place
-[16:08:42] [Server thread/INFO] [OpenMods]: openblocks.common.PlayerDeathHandler$GraveCallable.tryPlaceGrave(PlayerDeathHandler.java:200): Grave for (738ba517-8ec4-45ef-af36-6815af8e986e,sil_min) was spawned at (BlockPos{x=77, y=39, z=200}) (player died at (BlockPos{x=77, y=39, z=200}))
-[16:08:46] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[16:08:46] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[16:08:46] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[16:09:04] [Server thread/INFO] [OpenMods]: openblocks.common.PlayerInventoryStore.onPlayerDeath(PlayerInventoryStore.java:304): Storing post-mortem inventory into D:\Minecraft\1_20_1\Mod\1_12_2\.\world\data\inventory-sil_min-2023-06-17_16.09.04-death-0.dat. It can be restored with command '/ob_inventory restore sil_min sil_min-2023-06-17_16.09.04-death-0'
-[16:09:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: sil_min fell from a high place
-[16:09:04] [Server thread/INFO] [OpenMods]: openblocks.common.PlayerDeathHandler$GraveCallable.tryPlaceGrave(PlayerDeathHandler.java:200): Grave for (738ba517-8ec4-45ef-af36-6815af8e986e,sil_min) was spawned at (BlockPos{x=77, y=24, z=197}) (player died at (BlockPos{x=77, y=24, z=197}))
-[16:09:09] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[16:09:09] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[16:09:09] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[16:09:15] [Server thread/INFO] [OpenMods]: openblocks.common.PlayerInventoryStore.onPlayerDeath(PlayerInventoryStore.java:304): Storing post-mortem inventory into D:\Minecraft\1_20_1\Mod\1_12_2\.\world\data\inventory-sil_min-2023-06-17_16.09.15-death-0.dat. It can be restored with command '/ob_inventory restore sil_min sil_min-2023-06-17_16.09.15-death-0'
-[16:09:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: sil_min fell from a high place
-[16:09:15] [Server thread/INFO] [OpenMods]: openblocks.common.PlayerDeathHandler$GraveCallable.tryPlaceGrave(PlayerDeathHandler.java:200): Grave for (738ba517-8ec4-45ef-af36-6815af8e986e,sil_min) was spawned at (BlockPos{x=78, y=40, z=203}) (player died at (BlockPos{x=78, y=40, z=203}))
-[16:09:47] [Server thread/INFO] [OpenMods]: openblocks.common.PlayerInventoryStore.onPlayerDeath(PlayerInventoryStore.java:304): Storing post-mortem inventory into D:\Minecraft\1_20_1\Mod\1_12_2\.\world\data\inventory-sil_min-2023-06-17_16.09.47-death-0.dat. It can be restored with command '/ob_inventory restore sil_min sil_min-2023-06-17_16.09.47-death-0'
-[16:09:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: sil_min drowned
-[16:09:54] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[16:09:54] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[16:09:54] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[16:10:10] [User Authenticator #3/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player shirasu219 is da24293b-daa7-4d87-825f-773108250484
-[16:10:10] [Netty Server IO #4/INFO] [FML]: Client protocol version 2
-[16:10:10] [Netty Server IO #4/INFO] [FML]: Client attempting to join with 29 mods : minecraft@1.12.2,flansmod@5.10.0,usefulbackpacks@1.5.4.85,openmodscore@0.12.2,openmods@0.12.2,jei@4.15.0.291,mekanism@1.12.2-9.8.3.390,bloodmoon@1.5.3,mcp@9.42,journeymap@1.12.2-5.7.1,swordcraftonline@1.0.1,FML@8.0.99.99,uteamcore@2.2.5.147,mekanismtools@1.12.2-9.8.3.390,bettercombatmod@1.5.6,grimoireofgaia@1.7.2,mekanismgenerators@1.12.2-9.8.3.390,net.minecraft.scalar.cutall.mod_cutallsmp@2.5.2,carryon@1.12.3,forge@14.23.5.2859,net.minecraft.scalar.digall.mod_digallsmp@2.3.2,net.minecraft.scalar.mineall.mod_mineallsmp@2.6.6,storagebox@3.2.0,twilightforest@3.11.1021,flammpfeil.slashblade@mc1.12-r33,torohealthmod@1.12.2-11,infernalmobs@1.7.6,ironchest@1.12.2-7.0.67.844,openblocks@1.8.1
-[16:10:10] [Netty Server IO #4/INFO] [journeymap]: CLIENT
-[16:10:10] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[16:10:10] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: shirasu219[/60.145.57.122:61771] logged in with entity id 71097 at (33.37842584595946, 64.0, 232.00187654748854)
-[16:10:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: shirasu219 joined the game
-[16:10:13] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[16:10:15] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[16:10:15] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[16:10:18] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[16:10:18] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[16:10:18] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: shirasu219 lost connection: Disconnected
-[16:10:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: shirasu219 left the game
-[16:10:56] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[16:10:56] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[16:11:24] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[16:11:24] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[16:11:24] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[16:11:47] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[16:11:47] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[16:11:59] [User Authenticator #4/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player shirasu219 is da24293b-daa7-4d87-825f-773108250484
-[16:11:59] [Netty Server IO #6/INFO] [FML]: Client protocol version 2
-[16:11:59] [Netty Server IO #6/INFO] [FML]: Client attempting to join with 29 mods : minecraft@1.12.2,flansmod@5.10.0,usefulbackpacks@1.5.4.85,openmodscore@0.12.2,openmods@0.12.2,jei@4.15.0.291,mekanism@1.12.2-9.8.3.390,bloodmoon@1.5.3,mcp@9.42,journeymap@1.12.2-5.7.1,swordcraftonline@1.0.1,FML@8.0.99.99,uteamcore@2.2.5.147,mekanismtools@1.12.2-9.8.3.390,bettercombatmod@1.5.6,grimoireofgaia@1.7.2,mekanismgenerators@1.12.2-9.8.3.390,net.minecraft.scalar.cutall.mod_cutallsmp@2.5.2,carryon@1.12.3,forge@14.23.5.2859,net.minecraft.scalar.digall.mod_digallsmp@2.3.2,net.minecraft.scalar.mineall.mod_mineallsmp@2.6.6,storagebox@3.2.0,twilightforest@3.11.1021,flammpfeil.slashblade@mc1.12-r33,torohealthmod@1.12.2-11,infernalmobs@1.7.6,ironchest@1.12.2-7.0.67.844,openblocks@1.8.1
-[16:11:59] [Netty Server IO #6/INFO] [journeymap]: CLIENT
-[16:12:00] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[16:12:00] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: shirasu219[/60.145.57.122:62150] logged in with entity id 75942 at (30.869672346311216, 64.0, 225.83892192646306)
-[16:12:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: shirasu219 joined the game
-[16:12:00] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[16:12:00] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[16:12:03] [Server thread/INFO] [OpenMods]: openblocks.common.PlayerInventoryStore.onPlayerDeath(PlayerInventoryStore.java:304): Storing post-mortem inventory into D:\Minecraft\1_20_1\Mod\1_12_2\.\world\data\inventory-shirasu219-2023-06-17_16.12.03-death-0.dat. It can be restored with command '/ob_inventory restore shirasu219 shirasu219-2023-06-17_16.12.03-death-0'
-[16:12:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: shirasu219 was slain by Werecat
-[16:12:03] [Server thread/INFO] [OpenMods]: openblocks.common.PlayerDeathHandler$GraveCallable.tryPlaceGrave(PlayerDeathHandler.java:200): Grave for (da24293b-daa7-4d87-825f-773108250484,shirasu219) was spawned at (BlockPos{x=30, y=64, z=227}) (player died at (BlockPos{x=30, y=64, z=227}))
-[16:12:10] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[16:12:28] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[16:12:28] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[16:12:33] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[16:12:51] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[16:12:51] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[16:13:13] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[16:13:13] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[16:13:13] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[16:13:55] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[16:13:56] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[16:13:56] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[16:14:04] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[16:14:04] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[16:14:04] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[16:14:07] [Server thread/INFO] [OpenMods]: openblocks.common.PlayerInventoryStore.onPlayerDeath(PlayerInventoryStore.java:304): Storing post-mortem inventory into D:\Minecraft\1_20_1\Mod\1_12_2\.\world\data\inventory-sil_min-2023-06-17_16.14.07-death-0.dat. It can be restored with command '/ob_inventory restore sil_min sil_min-2023-06-17_16.14.07-death-0'
-[16:14:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: sil_min was slain by Banshee
-[16:14:13] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[16:14:23] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[16:14:23] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[16:14:26] [Server thread/INFO] [OpenMods]: openblocks.common.PlayerInventoryStore.onPlayerDeath(PlayerInventoryStore.java:304): Storing post-mortem inventory into D:\Minecraft\1_20_1\Mod\1_12_2\.\world\data\inventory-sil_min-2023-06-17_16.14.26-death-0.dat. It can be restored with command '/ob_inventory restore sil_min sil_min-2023-06-17_16.14.26-death-0'
-[16:14:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: sil_min was slain by Spriggan
-[16:14:33] [Server thread/INFO] [OpenMods]: openblocks.common.PlayerInventoryStore.onPlayerDeath(PlayerInventoryStore.java:304): Storing post-mortem inventory into D:\Minecraft\1_20_1\Mod\1_12_2\.\world\data\inventory-sil_min-2023-06-17_16.14.33-death-0.dat. It can be restored with command '/ob_inventory restore sil_min sil_min-2023-06-17_16.14.33-death-0'
-[16:14:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: sil_min was killed by magic
-[16:16:34] [Server thread/INFO] [OpenMods]: openblocks.common.PlayerInventoryStore.onPlayerDeath(PlayerInventoryStore.java:304): Storing post-mortem inventory into D:\Minecraft\1_20_1\Mod\1_12_2\.\world\data\inventory-sil_min-2023-06-17_16.16.34-death-0.dat. It can be restored with command '/ob_inventory restore sil_min sil_min-2023-06-17_16.16.34-death-0'
-[16:16:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: sil_min was slain by Werecat
-[16:16:34] [Server thread/INFO] [OpenMods]: openblocks.common.PlayerDeathHandler$GraveCallable.tryPlaceGrave(PlayerDeathHandler.java:200): Grave for (738ba517-8ec4-45ef-af36-6815af8e986e,sil_min) was spawned at (BlockPos{x=60, y=63, z=237}) (player died at (BlockPos{x=60, y=63, z=235}))
-[16:16:34] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[16:16:34] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[16:16:34] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[16:16:38] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[16:16:38] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[16:16:38] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[16:16:47] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[16:16:47] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[16:17:01] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[16:17:01] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[16:17:13] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[16:17:13] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[16:17:13] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[16:17:17] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[16:17:45] [Server thread/INFO] [OpenMods]: openblocks.common.PlayerInventoryStore.onPlayerDeath(PlayerInventoryStore.java:304): Storing post-mortem inventory into D:\Minecraft\1_20_1\Mod\1_12_2\.\world\data\inventory-sil_min-2023-06-17_16.17.45-death-0.dat. It can be restored with command '/ob_inventory restore sil_min sil_min-2023-06-17_16.17.45-death-0'
-[16:17:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: sil_min fell from a high place
-[16:18:09] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[16:18:09] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[16:20:43] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[16:20:43] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[16:20:43] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[16:21:18] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[16:21:18] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[16:21:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Given [Bread] * 1 to shirasu219]
-[16:22:13] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[16:22:13] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[16:22:36] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[16:22:36] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[16:22:46] [Server thread/INFO] [OpenMods]: openblocks.common.PlayerInventoryStore.onPlayerDeath(PlayerInventoryStore.java:304): Storing post-mortem inventory into D:\Minecraft\1_20_1\Mod\1_12_2\.\world\data\inventory-shirasu219-2023-06-17_16.22.46-death-0.dat. It can be restored with command '/ob_inventory restore shirasu219 shirasu219-2023-06-17_16.22.46-death-0'
-[16:22:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: shirasu219 was fireballed by Nine Tails
-[16:23:19] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[16:23:19] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[16:24:03] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[16:24:13] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[16:24:13] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[16:24:13] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[16:24:24] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[16:24:30] [Netty Server IO #6/ERROR] [FML]: NetworkDispatcher exception
-java.io.IOException: 確立された接続がホスト コンピューターのソウトウェアによって中止されました。
-	at sun.nio.ch.SocketDispatcher.read0(Native Method) ~[?:1.8.0_321]
-	at sun.nio.ch.SocketDispatcher.read(Unknown Source) ~[?:1.8.0_321]
-	at sun.nio.ch.IOUtil.readIntoNativeBuffer(Unknown Source) ~[?:1.8.0_321]
-	at sun.nio.ch.IOUtil.read(Unknown Source) ~[?:1.8.0_321]
-	at sun.nio.ch.SocketChannelImpl.read(Unknown Source) ~[?:1.8.0_321]
-	at io.netty.buffer.PooledUnsafeDirectByteBuf.setBytes(PooledUnsafeDirectByteBuf.java:288) ~[PooledUnsafeDirectByteBuf.class:?]
-	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1100) ~[AbstractByteBuf.class:?]
-	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:372) ~[NioSocketChannel.class:?]
-	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:123) [AbstractNioByteChannel$NioByteUnsafe.class:?]
-	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:624) [NioEventLoop.class:?]
-	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:559) [NioEventLoop.class:?]
-	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:476) [NioEventLoop.class:?]
-	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:438) [NioEventLoop.class:?]
-	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:858) [SingleThreadEventExecutor$5.class:?]
-	at java.lang.Thread.run(Unknown Source) [?:1.8.0_321]
-[16:24:30] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: shirasu219 lost connection: Internal Exception: java.io.IOException: 確立された接続がホスト コンピューターのソウトウェアによって中止されました。
-[16:24:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: shirasu219 left the game
-[16:24:30] [Server thread/WARN] [twilightforest]: Dropping inventory items previously held in reserve for player shirasu219
-[16:24:35] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[16:24:35] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[16:24:35] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[16:24:45] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: sil_min lost connection: Disconnected
-[16:24:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: sil_min left the game
-[16:25:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Stopping the server
-[16:25:03] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
-[16:25:03] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
-[16:25:03] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
-[16:25:03] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/overworld
-[16:25:03] [Server thread/INFO] [FML]: Unloading dimension 0
-[16:25:03] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
-[16:25:03] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
-[16:25:03] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[16:55:59] [Server thread/INFO] [Mekanism]: Fake player readout: UUID = 46e82cd0-d480-3d48-800a-77431ede078e, name = [Mekanism]
+[16:55:59] [Server thread/INFO] [Mekanism]: Finished loading Cardboard Box blacklist (loaded 0 entries)
+[16:55:59] [Server thread/INFO] [Mekanism]: Hooking complete.
+[16:56:00] [Server thread/INFO] [FML]: Forge Mod Loader has successfully loaded 34 mods
+[16:56:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Preparing level "world"
+[16:56:00] [Server thread/INFO] [FML]: Injecting existing registry data into this server instance
+[16:56:00] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: industrialmeat:meat_packer Expected: 337 Got: 611
+[16:56:00] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: industrialmeat:cooked_meat_block Expected: 335 Got: 612
+[16:56:00] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: industrialmeat:raw_meat_block Expected: 336 Got: 613
+[16:56:00] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: industrialmeat:raw_meat_ingot Expected: 4374 Got: 5190
+[16:56:00] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: industrialmeat:cooked_meat_ingot Expected: 4375 Got: 5191
+[16:56:00] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: industrialmeat:meat_packer Expected: 4379 Got: 5192
+[16:56:00] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: industrialmeat:raw_meat_nugget Expected: 4376 Got: 5193
+[16:56:00] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: industrialmeat:cooked_meat_block Expected: 4377 Got: 5194
+[16:56:00] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: industrialmeat:raw_meat_block Expected: 4378 Got: 5195
+[16:56:00] [Server thread/INFO] [FML]: Applying holder lookups
+[16:56:00] [Server thread/INFO] [FML]: Holder lookups applied
+[16:56:00] [Server thread/INFO] [FML]: Loading dimension 0 (world) (net.minecraft.server.dedicated.DedicatedServer@4846742a)
+[16:56:02] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 700 advancements
+[16:56:02] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@4846742a)
+[16:56:02] [Server thread/INFO] [FML]: Loading dimension 1 (world) (net.minecraft.server.dedicated.DedicatedServer@4846742a)
+[16:56:02] [Server thread/INFO] [FML]: Loading dimension 7 (world) (net.minecraft.server.dedicated.DedicatedServer@4846742a)
+[16:56:02] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for level 0
+[16:56:03] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 5%
+[16:56:03] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
+[16:56:03] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
+[16:56:03] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
+[16:56:03] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
+[16:56:03] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
+[16:56:04] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 37%
+[16:56:04] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
+[16:56:04] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
+[16:56:04] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
+[16:56:04] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
+[16:56:04] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
+[16:56:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Done (4.164s)! For help, type "help" or "?"
+[16:56:04] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class gaia.entity.monster.EntityGaiaMinotaurus from class gaia.entity.monster.EntityGaiaOrc
+[16:56:04] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class com.flansmod.client.debug.EntityDebugVector from class com.flansmod.client.debug.EntityDebugColor
+[16:56:04] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class com.flansmod.client.debug.EntityDebugVector from class com.flansmod.client.debug.EntityDebugColor
+[16:56:04] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class com.flansmod.client.debug.EntityDebugVector from class com.flansmod.client.debug.EntityDebugColor
+[16:56:05] [Server thread/INFO] [FML]: Unloading dimension -1
+[16:56:05] [Server thread/INFO] [FML]: Unloading dimension 1
+[16:56:05] [Server thread/INFO] [FML]: Unloading dimension 7
+[16:56:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Stopping the server
+[16:56:05] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[16:56:05] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[16:56:05] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[16:56:05] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/overworld
+[16:56:05] [Server thread/INFO] [FML]: Unloading dimension 0
+[16:56:05] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[16:56:05] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[16:56:05] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds

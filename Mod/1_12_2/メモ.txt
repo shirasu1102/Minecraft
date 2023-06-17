@@ -1,0 +1,9 @@
+industrialforegoing-1.12.2-1.12.13-237
+industrialmeat-1.12-1.0.2
+IntegrationForegoing-1.12.2-1.11
+
+↓前提
+
+Forgelin-1.8.3
+tesla-core-lib-1.12.2-1.0.18
+GunpowderLib-1.12.2-1.1
