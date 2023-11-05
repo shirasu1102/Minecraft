@@ -1,38 +1,37 @@
-[21:34:00] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[21:34:00] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[21:34:00] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[21:34:00] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2860 for Minecraft 1.12.2 loading
-[21:34:00] [main/INFO] [FML]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_321, running on Windows 10:amd64:10.0, installed at D:\Minecraft\1_20_1\Mod\1_12_2\Java\jre1.8.0_321
-[21:34:01] [main/INFO] [FML]: Searching D:\Minecraft\1_20_1\Mod\1_12_2\.\mods for mods
-[21:34:01] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in Bloodmoon-MC1.12.2-1.5.3.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
-[21:34:01] [main/WARN] [FML]: The coremod lumien.bloodmoon.asm.LoadingPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
-[21:34:01] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in Forgelin-1.8.3.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
-[21:34:01] [main/WARN] [FML]: The coremod net.shadowfacts.forgelin.preloader.ForgelinPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
-[21:34:01] [main/WARN] [FML]: The coremod ForgelinPlugin (net.shadowfacts.forgelin.preloader.ForgelinPlugin) is not signed!
-[21:34:01] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in Mekanism-1.12.2-9.8.3.390.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
-[21:34:01] [main/WARN] [FML]: The coremod mekanism.coremod.MekanismCoremod does not have a MCVersion annotation, it may cause issues with this version of Minecraft
-[21:34:01] [main/WARN] [FML]: The coremod MekanismCoremod (mekanism.coremod.MekanismCoremod) is not signed!
-[21:34:01] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in OpenModsLib-1.12.2-0.12.2.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
-[21:34:01] [main/WARN] [FML]: The coremod openmods.core.OpenModsCorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
-[21:34:01] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[21:34:01] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
-[21:34:01] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[21:34:01] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[21:34:01] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[21:34:02] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
-[21:34:02] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[21:34:02] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[21:34:02] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[21:34:03] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
-[21:34:03] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[21:34:03] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[21:34:03] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
-[21:34:03] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
-[21:34:03] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
-[21:34:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting minecraft server version 1.12.2
-[21:34:06] [Server thread/INFO] [FML]: MinecraftForge v14.23.5.2860 Initialized
-[21:34:06] [Server thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
-[21:34:06] [Server console handler/ERROR] [net.minecraft.server.dedicated.DedicatedServer]: Exception handling console input
+[21:48:52] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[21:48:52] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[21:48:52] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[21:48:52] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2860 for Minecraft 1.12.2 loading
+[21:48:52] [main/INFO] [FML]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_321, running on Windows 10:amd64:10.0, installed at D:\Game\Minecraft\Server\Github\Mod\1_12_2\Java\jre1.8.0_321
+[21:48:53] [main/INFO] [FML]: Searching D:\Game\Minecraft\Server\Github\Mod\1_12_2\.\mods for mods
+[21:48:53] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in Bloodmoon-MC1.12.2-1.5.3.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[21:48:53] [main/WARN] [FML]: The coremod lumien.bloodmoon.asm.LoadingPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[21:48:53] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in Forgelin-1.8.3.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[21:48:53] [main/WARN] [FML]: The coremod net.shadowfacts.forgelin.preloader.ForgelinPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[21:48:53] [main/WARN] [FML]: The coremod ForgelinPlugin (net.shadowfacts.forgelin.preloader.ForgelinPlugin) is not signed!
+[21:48:53] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in Mekanism-1.12.2-9.8.3.390.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[21:48:53] [main/WARN] [FML]: The coremod mekanism.coremod.MekanismCoremod does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[21:48:53] [main/WARN] [FML]: The coremod MekanismCoremod (mekanism.coremod.MekanismCoremod) is not signed!
+[21:48:53] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in OpenModsLib-1.12.2-0.12.2.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[21:48:53] [main/WARN] [FML]: The coremod openmods.core.OpenModsCorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[21:48:53] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[21:48:53] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[21:48:53] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[21:48:53] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[21:48:53] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[21:48:54] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
+[21:48:54] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[21:48:54] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[21:48:54] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[21:48:55] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[21:48:55] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[21:48:55] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[21:48:55] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[21:48:55] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[21:48:55] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
+[21:48:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting minecraft server version 1.12.2
+[21:48:59] [Server thread/INFO] [FML]: MinecraftForge v14.23.5.2860 Initialized
+[21:48:59] [Server console handler/ERROR] [net.minecraft.server.dedicated.DedicatedServer]: Exception handling console input
 java.io.IOException: ハンドルが無効です。
 	at java.io.FileInputStream.readBytes(Native Method) ~[?:1.8.0_321]
 	at java.io.FileInputStream.read(Unknown Source) ~[?:1.8.0_321]
@@ -46,142 +45,143 @@ java.io.IOException: ハンドルが無効です。
 	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_321]
 	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_321]
 	at net.minecraft.server.dedicated.DedicatedServer$2.run(DedicatedServer.java:105) [nz$2.class:?]
-[21:34:06] [Server thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
-[21:34:06] [Server thread/INFO] [FML]: Replaced 1227 ore ingredients
-[21:34:07] [Server thread/INFO] [FML]: Searching D:\Minecraft\1_20_1\Mod\1_12_2\.\mods for mods
-[21:34:08] [Server thread/WARN] [FML]: Mod ironchest is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.12.2-7.0.67.844
-[21:34:08] [Server thread/WARN] [FML]: Mod mekanismgenerators is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.12.2-9.8.3.390
-[21:34:08] [Server thread/WARN] [FML]: Mod mekanismtools is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.12.2-9.8.3.390
-[21:34:09] [Server thread/INFO] [FML]: Disabling mod torohealthmod it is client side only.
-[21:34:09] [Server thread/INFO] [FML]: Forge Mod Loader has identified 34 mods to load
-[21:34:09] [Server thread/WARN] [FML]: Missing English translation for FML: assets/fml/lang/en_us.lang
-[21:34:09] [Server thread/WARN] [FML]: Missing English translation for net.minecraft.scalar.cutall.mod_cutallsmp: assets/net.minecraft.scalar.cutall.mod_cutallsmp/lang/en_us.lang
-[21:34:09] [Server thread/WARN] [FML]: Missing English translation for net.minecraft.scalar.digall.mod_digallsmp: assets/net.minecraft.scalar.digall.mod_digallsmp/lang/en_us.lang
-[21:34:09] [Server thread/WARN] [FML]: Missing English translation for net.minecraft.scalar.mineall.mod_mineallsmp: assets/net.minecraft.scalar.mineall.mod_mineallsmp/lang/en_us.lang
-[21:34:09] [Server thread/WARN] [FML]: Missing English translation for bettercombatmod: assets/bettercombatmod/lang/en_us.lang
-[21:34:09] [Server thread/WARN] [FML]: Missing English translation for forgelin: assets/forgelin/lang/en_us.lang
-[21:34:09] [Server thread/WARN] [FML]: Missing English translation for gunpowderlib: assets/gunpowderlib/lang/en_us.lang
-[21:34:09] [Server thread/WARN] [FML]: Missing English translation for mekanismgenerators: assets/mekanismgenerators/lang/en_us.lang
-[21:34:09] [Server thread/WARN] [FML]: Missing English translation for mekanismtools: assets/mekanismtools/lang/en_us.lang
-[21:34:09] [Server thread/WARN] [FML]: Missing English translation for teslacorelib_registries: assets/teslacorelib_registries/lang/en_us.lang
-[21:34:09] [Server thread/INFO] [FML]: FML has found a non-mod file torohealth-1.12.2-11.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
-[21:34:09] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, openmodscore, net.minecraft.scalar.cutall.mod_cutallsmp, net.minecraft.scalar.digall.mod_digallsmp, net.minecraft.scalar.mineall.mod_mineallsmp, storagebox, bettercombatmod, bloodmoon, carryon, flansmod, forgelin, grimoireofgaia, gunpowderlib, industrialforegoing, industrialmeat, integrationforegoing, ironchest, jei, journeymap, mekanism, mekanismgenerators, mekanismtools, openblocks, openmods, flammpfeil.slashblade, swordcraftonline, teslacorelib, teslacorelib_registries, twilightforest, uteamcore, usefulbackpacks] at CLIENT
-[21:34:09] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, openmodscore, net.minecraft.scalar.cutall.mod_cutallsmp, net.minecraft.scalar.digall.mod_digallsmp, net.minecraft.scalar.mineall.mod_mineallsmp, storagebox, bettercombatmod, bloodmoon, carryon, flansmod, forgelin, grimoireofgaia, gunpowderlib, industrialforegoing, industrialmeat, integrationforegoing, ironchest, jei, journeymap, mekanism, mekanismgenerators, mekanismtools, openblocks, openmods, flammpfeil.slashblade, swordcraftonline, teslacorelib, teslacorelib_registries, twilightforest, uteamcore, usefulbackpacks] at SERVER
-[21:34:12] [Server thread/WARN] [teslacorelib]: Annotated class 'net.ndrei.teslacorelib.blocks.multipart.MultiPartBlockEvents' not found!
-[21:34:13] [Server thread/INFO] [FML]: Processing ObjectHolder annotations
-[21:34:13] [Server thread/INFO] [FML]: Found 1986 ObjectHolder annotations
-[21:34:13] [Server thread/INFO] [FML]: Identifying ItemStackHolder annotations
-[21:34:13] [Server thread/INFO] [FML]: Found 0 ItemStackHolder annotations
-[21:34:13] [Server thread/INFO] [FML]: Configured a dormant chunk cache size of 0
-[21:34:13] [Forge Version Check/INFO] [forge.VersionCheck]: [usefulbackpacks] Starting version check at https://api.u-team.info/update/usefulbackpacks.json
-[21:34:14] [Server thread/INFO] [flansmod]: Loaded content pack from Flan folder : Simple+Parts-Content+Pack-1.12.2-5.7.2.jar
-[21:34:14] [Server thread/INFO] [flansmod]: Loaded content pack from Flan folder : WW2-ContentPack-1.12.2-5.7.2.jar
-[21:34:14] [Server thread/INFO] [flansmod]: Loaded content pack list from Flan folder
-[21:34:14] [Server thread/INFO] [flansmod]: Registered Flan folder model redirect from simple to com.flansmod.simple.client.model
-[21:34:14] [Server thread/INFO] [flansmod]: Registered Flan folder model redirect from ww2 to com.flansmod.ww2.client.model
-[21:34:14] [Server thread/INFO] [flansmod]: Loaded part.
-[21:34:14] [Server thread/INFO] [flansmod]: Loaded bullet.
-[21:34:14] [Server thread/INFO] [flansmod]: Loaded attachment.
-[21:34:14] [Server thread/INFO] [flansmod]: Loaded grenade.
-[21:34:14] [Server thread/INFO] [flansmod]: Loaded gun.
-[21:34:14] [Server thread/INFO] [flansmod]: Loaded aa.
-[21:34:14] [Server thread/INFO] [flansmod]: Loaded vehicle.
-[21:34:14] [Server thread/INFO] [flansmod]: Loaded plane.
-[21:34:14] [Server thread/INFO] [flansmod]: Loaded mechaItem.
-[21:34:14] [Server thread/INFO] [flansmod]: Loaded mecha.
-[21:34:14] [Server thread/INFO] [flansmod]: Loaded tool.
-[21:34:14] [Server thread/INFO] [flansmod]: Loaded armour.
-[21:34:14] [Server thread/INFO] [flansmod]: Loaded armourBox.
-[21:34:14] [Server thread/INFO] [flansmod]: Loaded box.
-[21:34:14] [Server thread/INFO] [flansmod]: Loaded playerClass.
-[21:34:14] [Server thread/INFO] [flansmod]: Loaded team.
-[21:34:14] [Server thread/INFO] [flansmod]: Loaded itemHolder.
-[21:34:14] [Server thread/INFO] [flansmod]: Loaded rewardBox.
-[21:34:14] [Server thread/INFO] [flansmod]: Loaded loadout.
-[21:34:14] [Server thread/INFO] [flansmod]: Loaded glove.
-[21:34:15] [Server thread/INFO] [Mekanism]: Didn't detect MCMP, ignoring compatibility package
-[21:34:15] [Forge Version Check/INFO] [forge.VersionCheck]: [usefulbackpacks] Found status: UP_TO_DATE Target: null
-[21:34:15] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
-[21:34:18] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: AHEAD Target: null
-[21:34:18] [Forge Version Check/INFO] [forge.VersionCheck]: [uteamcore] Starting version check at https://api.u-team.info/update/uteamcore.json
-[21:34:18] [Forge Version Check/INFO] [forge.VersionCheck]: [uteamcore] Found status: OUTDATED Target: 2.2.5.255
-[21:34:18] [Forge Version Check/INFO] [forge.VersionCheck]: [openblocks] Starting version check at http://openmods.info/versions/openblocks.json
-[21:34:19] [Forge Version Check/INFO] [forge.VersionCheck]: [openblocks] Found status: AHEAD Target: null
-[21:34:19] [Forge Version Check/INFO] [forge.VersionCheck]: [industrialforegoing] Starting version check at https://raw.githubusercontent.com/Buuz135/Industrial-Foregoing/master/update.json
-[21:34:19] [Forge Version Check/INFO] [forge.VersionCheck]: [industrialforegoing] Found status: BETA Target: null
-[21:34:19] [Forge Version Check/INFO] [forge.VersionCheck]: [twilightforest] Starting version check at https://raw.githubusercontent.com/TeamTwilight/twilightforest/1.12.x/update.json
-[21:34:19] [Forge Version Check/INFO] [forge.VersionCheck]: [twilightforest] Found status: AHEAD Target: null
-[21:34:19] [Forge Version Check/INFO] [forge.VersionCheck]: [carryon] Starting version check at https://gist.githubusercontent.com/Tschipp/dccadee7c90d7a34e6e76a35d9d6fa2e/raw/
-[21:34:19] [Server thread/INFO] [twilightforest]: Skipped compatibility for mod Baubles.
-[21:34:19] [Server thread/INFO] [twilightforest]: Skipped compatibility for mod Chisel.
-[21:34:19] [Server thread/INFO] [twilightforest]: Skipped compatibility for mod Forestry.
-[21:34:19] [Server thread/INFO] [twilightforest]: Skipped compatibility for mod Immersive Engineering.
-[21:34:19] [Server thread/INFO] [twilightforest]: Loaded compatibility for mod Just Enough Items.
-[21:34:19] [Server thread/INFO] [twilightforest]: Skipped compatibility for mod Tinkers' Construct.
-[21:34:19] [Server thread/INFO] [twilightforest]: Skipped compatibility for mod Thaumcraft.
-[21:34:20] [Server thread/INFO] [grimoireofgaia]: Registering blocks...
-[21:34:20] [Server thread/INFO] [grimoireofgaia]: Block registration complete.
-[21:34:20] [Forge Version Check/INFO] [forge.VersionCheck]: [openmods] Starting version check at http://openmods.info/versions/openmodslib.json
-[21:34:20] [Forge Version Check/INFO] [forge.VersionCheck]: [openmods] Found status: AHEAD Target: null
-[21:34:22] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `portal`, expected `mekanism`. This could be a intended override, but in most cases indicates a broken mod.
-[21:34:22] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.iron`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
-[21:34:22] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.gold`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
-[21:34:22] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.diamond`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
-[21:34:22] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.copper`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
-[21:34:22] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.silver`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
-[21:34:22] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.crystal`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
-[21:34:22] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.obsidian`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
-[21:34:22] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.dirtchest9000`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
-[21:34:22] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.iron`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
-[21:34:22] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.gold`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
-[21:34:22] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.diamond`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
-[21:34:22] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.copper`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
-[21:34:22] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.silver`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
-[21:34:22] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.crystal`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
-[21:34:22] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.obsidian`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
-[21:34:23] [Server thread/INFO] [flansmod]: Registering Blocks
-[21:34:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `conveyor_tile`, expected `industrialforegoing`. This could be a intended override, but in most cases indicates a broken mod.
-[21:34:23] [Server thread/INFO] [FML]: Applying holder lookups
-[21:34:23] [Server thread/INFO] [FML]: Holder lookups applied
-[21:34:23] [Server thread/INFO] [grimoireofgaia]: Registering items...
-[21:34:23] [Server thread/INFO] [grimoireofgaia]: Item registration complete.
-[21:34:23] [Server thread/INFO] [grimoireofgaia]: Registering item blocks...
-[21:34:23] [Server thread/INFO] [grimoireofgaia]: Item block registration complete.
-[21:34:23] [Server thread/INFO] [flansmod]: Registering Items
-[21:34:23] [Server thread/INFO] [FML]: Applying holder lookups
-[21:34:23] [Server thread/INFO] [FML]: Holder lookups applied
-[21:34:23] [Server thread/INFO] [grimoireofgaia]: Registering entities...
-[21:34:24] [Server thread/INFO] [grimoireofgaia]: Entity registration complete.
-[21:34:24] [Server thread/INFO] [flansmod]: Registering Entities
-[21:34:24] [Server thread/INFO] [grimoireofgaia]: Registering Sounds
-[21:34:24] [Server thread/INFO] [grimoireofgaia]: Sounds Finished
-[21:34:25] [Server thread/INFO] [FML]: Applying holder lookups
-[21:34:25] [Server thread/INFO] [FML]: Holder lookups applied
-[21:34:25] [Server thread/INFO] [FML]: Applying holder lookups
-[21:34:25] [Server thread/INFO] [FML]: Holder lookups applied
-[21:34:25] [Server thread/INFO] [FML]: Injecting itemstacks
-[21:34:25] [Server thread/INFO] [FML]: Itemstack injection complete
-[21:34:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Loading properties
-[21:34:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Default game type: SURVIVAL
-[21:34:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Generating keypair
-[21:34:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting Minecraft server on *:25565
-[21:34:25] [Server thread/INFO] [net.minecraft.network.NetworkSystem]: Using default channel type
-[21:34:26] [Server thread/INFO] [grimoireofgaia]: Registering recipes...
-[21:34:26] [Server thread/INFO] [grimoireofgaia]: Recipe registration complete.
-[21:34:26] [Server thread/INFO] [flansmod]: Registering Recipes.
-[21:34:27] [Server thread/INFO] [FML]: Applying holder lookups
-[21:34:27] [Server thread/INFO] [FML]: Holder lookups applied
-[21:34:27] [Server thread/INFO] [flansmod]: Initialising Flan's Mod.
-[21:34:27] [Server thread/INFO] [flansmod]: Loading complete.
-[21:34:27] [Server thread/INFO] [Mekanism]: Version 9.8.3 initializing...
-[21:34:27] [Server thread/INFO] [Mekanism]: Loading complete.
-[21:34:27] [Server thread/INFO] [Mekanism]: Mod loaded.
-[21:34:27] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tile_meatpacker`, expected `industrialmeat`. This could be a intended override, but in most cases indicates a broken mod.
-[21:34:27] [Server thread/INFO] [Mekanism]: Loaded MekanismGenerators module.
-[21:34:27] [Server thread/INFO] [Mekanism]: Loaded 'Mekanism: Tools' module.
-[21:34:27] [Server thread/INFO] [FML]: Injecting itemstacks
-[21:34:27] [Server thread/INFO] [FML]: Itemstack injection complete
-[21:34:27] [Server thread/INFO] [FML]: [all meta blocks]
+[21:49:00] [Server thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
+[21:49:00] [Server thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
+[21:49:00] [Server thread/INFO] [FML]: Replaced 1227 ore ingredients
+[21:49:00] [Server thread/INFO] [FML]: Searching D:\Game\Minecraft\Server\Github\Mod\1_12_2\.\mods for mods
+[21:49:01] [Server thread/WARN] [FML]: Mod ironchest is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.12.2-7.0.67.844
+[21:49:02] [Server thread/WARN] [FML]: Mod mekanismgenerators is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.12.2-9.8.3.390
+[21:49:02] [Server thread/WARN] [FML]: Mod mekanismtools is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.12.2-9.8.3.390
+[21:49:02] [Server thread/INFO] [FML]: Disabling mod torohealthmod it is client side only.
+[21:49:03] [Server thread/INFO] [FML]: Forge Mod Loader has identified 34 mods to load
+[21:49:03] [Server thread/WARN] [FML]: Missing English translation for FML: assets/fml/lang/en_us.lang
+[21:49:03] [Server thread/WARN] [FML]: Missing English translation for net.minecraft.scalar.cutall.mod_cutallsmp: assets/net.minecraft.scalar.cutall.mod_cutallsmp/lang/en_us.lang
+[21:49:03] [Server thread/WARN] [FML]: Missing English translation for net.minecraft.scalar.digall.mod_digallsmp: assets/net.minecraft.scalar.digall.mod_digallsmp/lang/en_us.lang
+[21:49:03] [Server thread/WARN] [FML]: Missing English translation for net.minecraft.scalar.mineall.mod_mineallsmp: assets/net.minecraft.scalar.mineall.mod_mineallsmp/lang/en_us.lang
+[21:49:03] [Server thread/WARN] [FML]: Missing English translation for bettercombatmod: assets/bettercombatmod/lang/en_us.lang
+[21:49:03] [Server thread/WARN] [FML]: Missing English translation for forgelin: assets/forgelin/lang/en_us.lang
+[21:49:03] [Server thread/WARN] [FML]: Missing English translation for gunpowderlib: assets/gunpowderlib/lang/en_us.lang
+[21:49:03] [Server thread/WARN] [FML]: Missing English translation for mekanismgenerators: assets/mekanismgenerators/lang/en_us.lang
+[21:49:03] [Server thread/WARN] [FML]: Missing English translation for mekanismtools: assets/mekanismtools/lang/en_us.lang
+[21:49:03] [Server thread/WARN] [FML]: Missing English translation for teslacorelib_registries: assets/teslacorelib_registries/lang/en_us.lang
+[21:49:03] [Server thread/INFO] [FML]: FML has found a non-mod file torohealth-1.12.2-11.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[21:49:04] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, openmodscore, net.minecraft.scalar.cutall.mod_cutallsmp, net.minecraft.scalar.digall.mod_digallsmp, net.minecraft.scalar.mineall.mod_mineallsmp, storagebox, bettercombatmod, bloodmoon, carryon, flansmod, forgelin, grimoireofgaia, gunpowderlib, industrialforegoing, industrialmeat, integrationforegoing, ironchest, jei, journeymap, mekanism, mekanismgenerators, mekanismtools, openblocks, openmods, flammpfeil.slashblade, swordcraftonline, teslacorelib, teslacorelib_registries, twilightforest, uteamcore, usefulbackpacks] at CLIENT
+[21:49:04] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, openmodscore, net.minecraft.scalar.cutall.mod_cutallsmp, net.minecraft.scalar.digall.mod_digallsmp, net.minecraft.scalar.mineall.mod_mineallsmp, storagebox, bettercombatmod, bloodmoon, carryon, flansmod, forgelin, grimoireofgaia, gunpowderlib, industrialforegoing, industrialmeat, integrationforegoing, ironchest, jei, journeymap, mekanism, mekanismgenerators, mekanismtools, openblocks, openmods, flammpfeil.slashblade, swordcraftonline, teslacorelib, teslacorelib_registries, twilightforest, uteamcore, usefulbackpacks] at SERVER
+[21:49:06] [Server thread/WARN] [teslacorelib]: Annotated class 'net.ndrei.teslacorelib.blocks.multipart.MultiPartBlockEvents' not found!
+[21:49:08] [Server thread/INFO] [FML]: Processing ObjectHolder annotations
+[21:49:08] [Server thread/INFO] [FML]: Found 1986 ObjectHolder annotations
+[21:49:08] [Server thread/INFO] [FML]: Identifying ItemStackHolder annotations
+[21:49:08] [Server thread/INFO] [FML]: Found 0 ItemStackHolder annotations
+[21:49:09] [Server thread/INFO] [FML]: Configured a dormant chunk cache size of 0
+[21:49:09] [Forge Version Check/INFO] [forge.VersionCheck]: [openmods] Starting version check at http://openmods.info/versions/openmodslib.json
+[21:49:09] [Server thread/INFO] [flansmod]: Loaded content pack from Flan folder : Simple+Parts-Content+Pack-1.12.2-5.7.2.jar
+[21:49:09] [Server thread/INFO] [flansmod]: Loaded content pack from Flan folder : WW2-ContentPack-1.12.2-5.7.2.jar
+[21:49:09] [Server thread/INFO] [flansmod]: Loaded content pack list from Flan folder
+[21:49:09] [Server thread/INFO] [flansmod]: Registered Flan folder model redirect from simple to com.flansmod.simple.client.model
+[21:49:09] [Server thread/INFO] [flansmod]: Registered Flan folder model redirect from ww2 to com.flansmod.ww2.client.model
+[21:49:09] [Server thread/INFO] [flansmod]: Loaded part.
+[21:49:09] [Server thread/INFO] [flansmod]: Loaded bullet.
+[21:49:09] [Server thread/INFO] [flansmod]: Loaded attachment.
+[21:49:09] [Forge Version Check/INFO] [forge.VersionCheck]: [openmods] Found status: AHEAD Target: null
+[21:49:09] [Server thread/INFO] [flansmod]: Loaded grenade.
+[21:49:09] [Forge Version Check/INFO] [forge.VersionCheck]: [usefulbackpacks] Starting version check at https://api.u-team.info/update/usefulbackpacks.json
+[21:49:09] [Server thread/INFO] [flansmod]: Loaded gun.
+[21:49:09] [Server thread/INFO] [flansmod]: Loaded aa.
+[21:49:10] [Server thread/INFO] [flansmod]: Loaded vehicle.
+[21:49:10] [Server thread/INFO] [flansmod]: Loaded plane.
+[21:49:10] [Server thread/INFO] [flansmod]: Loaded mechaItem.
+[21:49:10] [Server thread/INFO] [flansmod]: Loaded mecha.
+[21:49:10] [Server thread/INFO] [flansmod]: Loaded tool.
+[21:49:10] [Server thread/INFO] [flansmod]: Loaded armour.
+[21:49:10] [Server thread/INFO] [flansmod]: Loaded armourBox.
+[21:49:10] [Server thread/INFO] [flansmod]: Loaded box.
+[21:49:10] [Server thread/INFO] [flansmod]: Loaded playerClass.
+[21:49:10] [Server thread/INFO] [flansmod]: Loaded team.
+[21:49:10] [Server thread/INFO] [flansmod]: Loaded itemHolder.
+[21:49:10] [Server thread/INFO] [flansmod]: Loaded rewardBox.
+[21:49:10] [Server thread/INFO] [flansmod]: Loaded loadout.
+[21:49:10] [Server thread/INFO] [flansmod]: Loaded glove.
+[21:49:10] [Server thread/INFO] [Mekanism]: Didn't detect MCMP, ignoring compatibility package
+[21:49:11] [Forge Version Check/INFO] [forge.VersionCheck]: [usefulbackpacks] Found status: UP_TO_DATE Target: null
+[21:49:11] [Forge Version Check/INFO] [forge.VersionCheck]: [twilightforest] Starting version check at https://raw.githubusercontent.com/TeamTwilight/twilightforest/1.12.x/update.json
+[21:49:11] [Forge Version Check/INFO] [forge.VersionCheck]: [twilightforest] Found status: AHEAD Target: null
+[21:49:11] [Forge Version Check/INFO] [forge.VersionCheck]: [openblocks] Starting version check at http://openmods.info/versions/openblocks.json
+[21:49:12] [Forge Version Check/INFO] [forge.VersionCheck]: [openblocks] Found status: AHEAD Target: null
+[21:49:12] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[21:49:15] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: AHEAD Target: null
+[21:49:15] [Forge Version Check/INFO] [forge.VersionCheck]: [carryon] Starting version check at https://gist.githubusercontent.com/Tschipp/dccadee7c90d7a34e6e76a35d9d6fa2e/raw/
+[21:49:15] [Forge Version Check/INFO] [forge.VersionCheck]: [uteamcore] Starting version check at https://api.u-team.info/update/uteamcore.json
+[21:49:15] [Forge Version Check/INFO] [forge.VersionCheck]: [uteamcore] Found status: OUTDATED Target: 2.2.5.255
+[21:49:15] [Forge Version Check/INFO] [forge.VersionCheck]: [industrialforegoing] Starting version check at https://raw.githubusercontent.com/Buuz135/Industrial-Foregoing/master/update.json
+[21:49:15] [Forge Version Check/INFO] [forge.VersionCheck]: [industrialforegoing] Found status: BETA Target: null
+[21:49:17] [Server thread/INFO] [twilightforest]: Skipped compatibility for mod Baubles.
+[21:49:17] [Server thread/INFO] [twilightforest]: Skipped compatibility for mod Chisel.
+[21:49:17] [Server thread/INFO] [twilightforest]: Skipped compatibility for mod Forestry.
+[21:49:17] [Server thread/INFO] [twilightforest]: Skipped compatibility for mod Immersive Engineering.
+[21:49:17] [Server thread/INFO] [twilightforest]: Loaded compatibility for mod Just Enough Items.
+[21:49:17] [Server thread/INFO] [twilightforest]: Skipped compatibility for mod Tinkers' Construct.
+[21:49:17] [Server thread/INFO] [twilightforest]: Skipped compatibility for mod Thaumcraft.
+[21:49:17] [Server thread/INFO] [grimoireofgaia]: Registering blocks...
+[21:49:17] [Server thread/INFO] [grimoireofgaia]: Block registration complete.
+[21:49:19] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `portal`, expected `mekanism`. This could be a intended override, but in most cases indicates a broken mod.
+[21:49:19] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.iron`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[21:49:19] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.gold`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[21:49:19] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.diamond`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[21:49:19] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.copper`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[21:49:19] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.silver`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[21:49:19] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.crystal`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[21:49:19] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.obsidian`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[21:49:19] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.dirtchest9000`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[21:49:19] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.iron`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[21:49:19] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.gold`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[21:49:19] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.diamond`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[21:49:19] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.copper`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[21:49:19] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.silver`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[21:49:19] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.crystal`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[21:49:19] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.obsidian`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[21:49:20] [Server thread/INFO] [flansmod]: Registering Blocks
+[21:49:20] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `conveyor_tile`, expected `industrialforegoing`. This could be a intended override, but in most cases indicates a broken mod.
+[21:49:20] [Server thread/INFO] [FML]: Applying holder lookups
+[21:49:20] [Server thread/INFO] [FML]: Holder lookups applied
+[21:49:20] [Server thread/INFO] [grimoireofgaia]: Registering items...
+[21:49:20] [Server thread/INFO] [grimoireofgaia]: Item registration complete.
+[21:49:20] [Server thread/INFO] [grimoireofgaia]: Registering item blocks...
+[21:49:20] [Server thread/INFO] [grimoireofgaia]: Item block registration complete.
+[21:49:20] [Server thread/INFO] [flansmod]: Registering Items
+[21:49:20] [Server thread/INFO] [FML]: Applying holder lookups
+[21:49:20] [Server thread/INFO] [FML]: Holder lookups applied
+[21:49:20] [Server thread/INFO] [grimoireofgaia]: Registering entities...
+[21:49:21] [Server thread/INFO] [grimoireofgaia]: Entity registration complete.
+[21:49:21] [Server thread/INFO] [flansmod]: Registering Entities
+[21:49:21] [Server thread/INFO] [grimoireofgaia]: Registering Sounds
+[21:49:21] [Server thread/INFO] [grimoireofgaia]: Sounds Finished
+[21:49:21] [Server thread/INFO] [FML]: Applying holder lookups
+[21:49:21] [Server thread/INFO] [FML]: Holder lookups applied
+[21:49:21] [Server thread/INFO] [FML]: Applying holder lookups
+[21:49:21] [Server thread/INFO] [FML]: Holder lookups applied
+[21:49:21] [Server thread/INFO] [FML]: Injecting itemstacks
+[21:49:21] [Server thread/INFO] [FML]: Itemstack injection complete
+[21:49:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Loading properties
+[21:49:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Default game type: SURVIVAL
+[21:49:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Generating keypair
+[21:49:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting Minecraft server on *:25565
+[21:49:21] [Server thread/INFO] [net.minecraft.network.NetworkSystem]: Using default channel type
+[21:49:23] [Server thread/INFO] [grimoireofgaia]: Registering recipes...
+[21:49:23] [Server thread/INFO] [grimoireofgaia]: Recipe registration complete.
+[21:49:23] [Server thread/INFO] [flansmod]: Registering Recipes.
+[21:49:24] [Server thread/INFO] [FML]: Applying holder lookups
+[21:49:24] [Server thread/INFO] [FML]: Holder lookups applied
+[21:49:24] [Server thread/INFO] [flansmod]: Initialising Flan's Mod.
+[21:49:24] [Server thread/INFO] [flansmod]: Loading complete.
+[21:49:24] [Server thread/INFO] [Mekanism]: Version 9.8.3 initializing...
+[21:49:24] [Server thread/INFO] [Mekanism]: Loading complete.
+[21:49:24] [Server thread/INFO] [Mekanism]: Mod loaded.
+[21:49:24] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tile_meatpacker`, expected `industrialmeat`. This could be a intended override, but in most cases indicates a broken mod.
+[21:49:24] [Server thread/INFO] [Mekanism]: Loaded MekanismGenerators module.
+[21:49:24] [Server thread/INFO] [Mekanism]: Loaded 'Mekanism: Tools' module.
+[21:49:24] [Server thread/INFO] [FML]: Injecting itemstacks
+[21:49:24] [Server thread/INFO] [FML]: Itemstack injection complete
+[21:49:25] [Server thread/INFO] [FML]: [all meta blocks]
 minecraft:stone:variant=stone (metadata=0)
 minecraft:stone:variant=granite (metadata=1)
 minecraft:stone:variant=smooth_granite (metadata=2)
@@ -4011,447 +4011,665 @@ swordcraftonline:gigascedarleaves:check_decay=false,decayable=false (metadata=1)
 swordcraftonline:gigascedarleaves:check_decay=true,decayable=true (metadata=2)
 swordcraftonline:gigascedarleaves:check_decay=true,decayable=false (metadata=3)
 
-[21:34:27] [Server thread/INFO] [Mekanism]: Fake player readout: UUID = 46e82cd0-d480-3d48-800a-77431ede078e, name = [Mekanism]
-[21:34:27] [Server thread/INFO] [Mekanism]: Finished loading Cardboard Box blacklist (loaded 0 entries)
-[21:34:27] [Server thread/INFO] [Mekanism]: Hooking complete.
-[21:34:28] [Server thread/INFO] [FML]: Forge Mod Loader has successfully loaded 34 mods
-[21:34:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Preparing level "world"
-[21:34:28] [Server thread/INFO] [FML]: Injecting existing registry data into this server instance
-[21:34:28] [Server thread/INFO] [FML]: Applying holder lookups
-[21:34:28] [Server thread/INFO] [FML]: Holder lookups applied
-[21:34:29] [Server thread/INFO] [FML]: Loading dimension 0 (world) (net.minecraft.server.dedicated.DedicatedServer@7fec6211)
-[21:34:32] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 700 advancements
-[21:34:32] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@7fec6211)
-[21:34:32] [Server thread/INFO] [FML]: Loading dimension 1 (world) (net.minecraft.server.dedicated.DedicatedServer@7fec6211)
-[21:34:32] [Server thread/INFO] [FML]: Loading dimension 7 (world) (net.minecraft.server.dedicated.DedicatedServer@7fec6211)
-[21:34:32] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for level 0
-[21:34:33] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[21:34:33] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[21:34:33] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[21:34:33] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[21:34:33] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 13%
-[21:34:33] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class gaia.entity.monster.EntityGaiaMinotaurus from class gaia.entity.monster.EntityGaiaOrc
-[21:34:34] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[21:34:34] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[21:34:34] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[21:34:34] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[21:34:34] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[21:34:34] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[21:34:34] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[21:34:34] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[21:34:34] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[21:34:34] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[21:34:34] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[21:34:34] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[21:34:34] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[21:34:34] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[21:34:34] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 80%
-[21:34:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Done (5.855s)! For help, type "help" or "?"
-[21:34:35] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class com.flansmod.client.debug.EntityDebugVector from class com.flansmod.client.debug.EntityDebugColor
-[21:34:35] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class com.flansmod.client.debug.EntityDebugVector from class com.flansmod.client.debug.EntityDebugColor
-[21:34:35] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class com.flansmod.client.debug.EntityDebugVector from class com.flansmod.client.debug.EntityDebugColor
-[21:34:35] [Server thread/INFO] [FML]: Unloading dimension -1
-[21:34:35] [Server thread/INFO] [FML]: Unloading dimension 1
-[21:34:36] [Server thread/INFO] [FML]: Unloading dimension 7
-[21:34:46] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[21:34:46] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[21:34:46] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[21:34:46] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[21:34:48] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[21:34:48] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[21:35:32] [User Authenticator #1/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player shirasu219 is da24293b-daa7-4d87-825f-773108250484
-[21:35:32] [Netty Server IO #2/INFO] [FML]: Client protocol version 2
-[21:35:32] [Netty Server IO #2/INFO] [FML]: Client attempting to join with 35 mods : minecraft@1.12.2,flansmod@5.10.0,industrialforegoing@1.12.2-1.12.2,usefulbackpacks@1.5.4.85,industrialmeat@1.12-1.0.2,openmodscore@0.12.2,openmods@0.12.2,jei@4.15.0.291,integrationforegoing@1.12.2-1.11,mekanism@1.12.2-9.8.3.390,teslacorelib_registries@1.0.18,bloodmoon@1.5.3,mcp@9.42,journeymap@1.12.2-5.7.1,teslacorelib@1.0.18,gunpowderlib@1.12.2-1.1,swordcraftonline@1.0.1,FML@8.0.99.99,forgelin@1.8.3,uteamcore@2.2.5.147,mekanismtools@1.12.2-9.8.3.390,bettercombatmod@1.5.6,grimoireofgaia@1.7.2,mekanismgenerators@1.12.2-9.8.3.390,net.minecraft.scalar.cutall.mod_cutallsmp@2.5.2,carryon@1.12.3,forge@14.23.5.2859,net.minecraft.scalar.digall.mod_digallsmp@2.3.2,net.minecraft.scalar.mineall.mod_mineallsmp@2.6.6,storagebox@3.2.0,twilightforest@3.11.1021,flammpfeil.slashblade@mc1.12-r33,torohealthmod@1.12.2-11,ironchest@1.12.2-7.0.67.844,openblocks@1.8.1
-[21:35:32] [Netty Server IO #2/INFO] [journeymap]: CLIENT
-[21:35:33] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[21:35:33] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: shirasu219[/60.145.57.122:62923] logged in with entity id 2222 at (-103.0, 48.0, 248.0)
-[21:35:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: shirasu219 joined the game
-[21:35:33] [Server thread/INFO] [Mekanism]: Sent config to 'shirasu219.'
-[21:36:20] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: shirasu219 lost connection: Disconnected
-[21:36:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: shirasu219 left the game
-[21:36:30] [User Authenticator #2/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player shinshi0080 is 3c237344-a542-411d-97a8-02e88b0c27fb
-[21:36:30] [Netty Server IO #4/INFO] [FML]: Client protocol version 2
-[21:36:30] [Netty Server IO #4/INFO] [FML]: Client attempting to join with 35 mods : minecraft@1.12.2,flansmod@5.10.0,industrialforegoing@1.12.2-1.12.2,usefulbackpacks@1.5.4.85,industrialmeat@1.12-1.0.2,openmodscore@0.12.2,openmods@0.12.2,jei@4.15.0.291,integrationforegoing@1.12.2-1.11,mekanism@1.12.2-9.8.3.390,teslacorelib_registries@1.0.18,bloodmoon@1.5.3,mcp@9.42,journeymap@1.12.2-5.7.1,teslacorelib@1.0.18,gunpowderlib@1.12.2-1.1,swordcraftonline@1.0.1,FML@8.0.99.99,forgelin@1.8.3,uteamcore@2.2.5.147,mekanismtools@1.12.2-9.8.3.390,bettercombatmod@1.5.6,grimoireofgaia@1.7.2,mekanismgenerators@1.12.2-9.8.3.390,net.minecraft.scalar.cutall.mod_cutallsmp@2.5.2,carryon@1.12.3,forge@14.23.5.2860,net.minecraft.scalar.digall.mod_digallsmp@2.3.2,net.minecraft.scalar.mineall.mod_mineallsmp@2.6.6,storagebox@3.2.0,twilightforest@3.11.1021,flammpfeil.slashblade@mc1.12-r33,torohealthmod@1.12.2-11,ironchest@1.12.2-7.0.67.844,openblocks@1.8.1
-[21:36:30] [Netty Server IO #4/INFO] [journeymap]: CLIENT
-[21:36:31] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[21:36:31] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: shinshi0080[/119.24.163.158:55931] logged in with entity id 2531 at (-203.77461468799177, 7.0, 282.70490448396964)
-[21:36:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: shinshi0080 joined the game
-[21:36:31] [Server thread/INFO] [Mekanism]: Sent config to 'shinshi0080.'
-[21:37:59] [User Authenticator #3/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player shirasu219 is da24293b-daa7-4d87-825f-773108250484
-[21:37:59] [Netty Server IO #5/INFO] [FML]: Client protocol version 2
-[21:37:59] [Netty Server IO #5/INFO] [FML]: Client attempting to join with 35 mods : minecraft@1.12.2,flansmod@5.10.0,industrialforegoing@1.12.2-1.12.2,usefulbackpacks@1.5.4.85,industrialmeat@1.12-1.0.2,openmodscore@0.12.2,openmods@0.12.2,jei@4.15.0.291,integrationforegoing@1.12.2-1.11,mekanism@1.12.2-9.8.3.390,teslacorelib_registries@1.0.18,bloodmoon@1.5.3,mcp@9.42,journeymap@1.12.2-5.7.1,teslacorelib@1.0.18,gunpowderlib@1.12.2-1.1,swordcraftonline@1.0.1,FML@8.0.99.99,forgelin@1.8.3,uteamcore@2.2.5.147,mekanismtools@1.12.2-9.8.3.390,bettercombatmod@1.5.6,grimoireofgaia@1.7.2,mekanismgenerators@1.12.2-9.8.3.390,net.minecraft.scalar.cutall.mod_cutallsmp@2.5.2,carryon@1.12.3,forge@14.23.5.2859,net.minecraft.scalar.digall.mod_digallsmp@2.3.2,net.minecraft.scalar.mineall.mod_mineallsmp@2.6.6,storagebox@3.2.0,twilightforest@3.11.1021,flammpfeil.slashblade@mc1.12-r33,torohealthmod@1.12.2-11,ironchest@1.12.2-7.0.67.844,openblocks@1.8.1
-[21:37:59] [Netty Server IO #5/INFO] [journeymap]: CLIENT
-[21:38:00] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[21:38:00] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: shirasu219[/60.145.57.122:63010] logged in with entity id 3086 at (-98.85097578136885, 52.0, 251.86101083592374)
-[21:38:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: shirasu219 joined the game
-[21:38:00] [Server thread/INFO] [Mekanism]: Sent config to 'shirasu219.'
-[21:38:02] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[21:38:02] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed Minotaurus]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed item.item.bone]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed item.item.arrow]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed Assassin]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed Harpy]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed Creeper]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed Bat]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed Harpy]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed Harpy]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed Creeper]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed Chicken]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed Harpy]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed Chicken]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed Minotaurus]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed Harpy]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed Minotaurus]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed Minotaurus]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed Harpy]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed Minotaurus]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed Minotaurus]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed Chicken]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed Minotaurus]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed Harpy]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed Chicken]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed Harpy]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed Harpy]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed Chicken]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed Harpy]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed Harpy]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed Minotaurus]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed Minotaurus]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed Creeper]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed Murderess]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed Squid]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed Bat]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed Murderess]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed Harpy]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed Murderess]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed Minotaurus]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed Bat]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed Harpy]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed Bat]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed Harpy]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed item.item.rottenFlesh]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed Minotaurus]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed item.item.rottenFlesh]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed Bat]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed item.item.arrow]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed Squid]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed Squid]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed Minotaurus]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed item.item.bone]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed Squid]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed Squid]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed Minotaurus]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed Spider]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed Harpy]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed Squid]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed Minotaurus]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed Minotaurus]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed Harpy]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed Minotaurus]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed Squid]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed item.item.arrow]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed Minotaurus]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed item.item.feather]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed item.item.chickenRaw]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed Squid]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed Squid]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed Squid]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed Squid]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed Squid]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed Squid]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed Squid]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed Squid]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed item.item.bone]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed Squid]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed Minotaurus]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed Bat]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed Squid]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed Squid]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed item.item.rottenFlesh]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed Bat]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed Squid]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed item.item.rottenFlesh]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed Squid]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed Squid]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed Pig]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed Pig]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed Harpy]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed item.item.arrow]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed item.item.rottenFlesh]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed item.item.rottenFlesh]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed Bat]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed Bat]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed Sheep]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed Bat]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed Bat]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed Sheep]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed Bat]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed Bat]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed Zombie]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed Baby Skeleton]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed Skeleton]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed item.item.rottenFlesh]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed Bat]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed Cow]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed Creeper]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed Cow]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed Cow]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed Sheep]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed Orc]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed Bat]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed Bat]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed Bat]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed Bat]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed Murderess]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed Bat]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed Bat]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed Bat]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed Bat]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed Bat]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed Squid]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed item.item.dyePowder.black]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed Squid]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed item.item.dyePowder.black]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed item.item.dyePowder.black]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed Bat]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed Bat]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed Chicken]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed item.tile.OreBlock.CopperOre]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed Orc]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed item.tile.stone.andesite]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed item.item.rottenFlesh]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed item.tile.oreIron]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed Skeleton]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed Creeper]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed item.item.rottenFlesh]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed item.item.arrow]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed item.item.rottenFlesh]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed Orc]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed item.item.rottenFlesh]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed Orc]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed Enderman]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed Orc]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed Skeleton]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed Sheep]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed Sheep]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed Sheep]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed Creeper]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed item.item.bone]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed item.item.seeds]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed item.item.arrow]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed item.item.bone]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed item.item.rottenFlesh]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed Minotaurus]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed Anubis]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed Anubis]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed Minotaurus]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed Skeleton]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed Harpy]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed Husk]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed Minotaurus]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed Zombie]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed Mummy]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed Minotaurus]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed Skeleton]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed Harpy]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed Husk]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed Ant Hill]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed Zombie]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed Spider]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed Ant Hill]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed Anubis]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed Creeper]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed Husk]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed Anubis]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed Creeper]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed Anubis]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed Witch]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed Creeper]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed Skeleton]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed Skeleton]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed Anubis]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed Spider]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed Minotaurus]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed Anubis]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed Creeper]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed Creeper]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed entity.grimoireofgaia.spawner_sphinx.name]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed Minotaurus]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed Skeleton]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed Anubis]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed Creeper]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed Creeper]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed Creeper]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed Anubis]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed Skeleton]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed Harpy]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed Creeper]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed Creeper]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed Spider]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed Harpy]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed Creeper]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed Creeper]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed Husk]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed Husk]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed Spider]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed Zombie]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed Skeleton]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed Skeleton]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed Skeleton]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed Spider]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed Sphinx]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed Husk]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed Anubis]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed Minotaurus]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed Skeleton]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed Anubis]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed Spider]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed Creeper]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed Mummy]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed Zombie]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed Husk]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed Enderman]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed Creeper]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed Creeper]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed Rabbit]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed Witch]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed Creeper]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed Husk]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed Rabbit]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed Anubis]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed Zombie]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed Husk]
-[21:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Killed Rabbit]
-[21:38:08] [Server thread/INFO] [OpenMods]: openblocks.common.PlayerInventoryStore.onPlayerDeath(PlayerInventoryStore.java:304): Storing post-mortem inventory into D:\Minecraft\1_20_1\Mod\1_12_2\.\world\data\inventory-shirasu219-2023-06-21_21.38.08-death-0.dat. It can be restored with command '/ob_inventory restore shirasu219 shirasu219-2023-06-21_21.38.08-death-0'
-[21:38:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: shirasu219 was slain by Minotaurus
-[21:38:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Given [Obsidian Helmet] * 1 to shirasu219]
-[21:38:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Given [Obsidian Chestplate] * 1 to shirasu219]
-[21:38:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Given [Obsidian Leggings] * 1 to shirasu219]
-[21:38:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Given [Obsidian Boots] * 1 to shirasu219]
-[21:38:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Given [Obsidian Paxel] * 1 to shirasu219]
-[21:39:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <shinshi0080> 地上はうんち！
-[21:39:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Given [Bread] * 64 to shirasu219]
-[21:42:48] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[21:42:48] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[21:43:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Given [Storage Box] * 1 to shirasu219]
-[21:43:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Given [Storage Box] * 1 to shirasu219]
-[21:44:04] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: shirasu219 lost connection: Disconnected
-[21:44:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: shirasu219 left the game
-[21:47:23] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[21:47:23] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[21:48:31] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[21:48:31] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[21:48:57] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[21:48:57] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[21:49:16] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[21:49:16] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[21:49:47] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[21:49:47] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[21:50:22] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[21:50:22] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[21:51:03] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[21:51:03] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[21:58:27] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[21:58:27] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[22:00:18] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[22:00:18] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[22:00:18] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[22:00:18] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[22:00:57] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[22:00:57] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[22:00:57] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[22:00:57] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[22:02:58] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[22:02:58] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[22:05:38] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[22:05:38] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[22:06:25] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[22:06:25] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[22:06:25] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[22:06:25] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[22:06:58] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[22:06:58] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[22:07:09] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[22:07:13] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[22:07:13] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[22:07:13] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[22:07:13] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[22:09:32] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[22:09:32] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[22:12:46] [Server thread/INFO] [OpenMods]: openblocks.common.PlayerInventoryStore.onPlayerDeath(PlayerInventoryStore.java:304): Storing post-mortem inventory into D:\Minecraft\1_20_1\Mod\1_12_2\.\world\data\inventory-shinshi0080-2023-06-21_22.12.46-death-0.dat. It can be restored with command '/ob_inventory restore shinshi0080 shinshi0080-2023-06-21_22.12.46-death-0'
-[22:12:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: shinshi0080 burned to death
-[22:12:46] [Server thread/INFO] [OpenMods]: openblocks.common.PlayerDeathHandler$GraveCallable.tryPlaceGrave(PlayerDeathHandler.java:200): Grave for (3c237344-a542-411d-97a8-02e88b0c27fb,shinshi0080) was spawned at (BlockPos{x=-356, y=6, z=338}) (player died at (BlockPos{x=-356, y=3, z=338}))
-[22:13:03] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[22:13:03] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[22:13:31] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[22:13:31] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[22:13:36] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[22:13:36] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[22:15:51] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[22:15:51] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[22:16:01] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[22:16:01] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[22:16:01] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[22:16:01] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[22:17:56] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[22:17:56] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[22:17:56] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[22:17:56] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[22:18:52] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[22:18:52] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[22:18:52] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[22:18:52] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[22:21:07] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[22:21:07] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[22:21:07] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[22:21:07] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[22:22:07] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[22:22:07] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[22:24:54] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[22:24:54] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[22:28:23] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[22:28:23] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[22:28:35] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[22:28:35] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[22:30:08] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[22:30:08] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[22:31:03] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[22:31:03] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[22:32:25] [Server thread/INFO] [OpenMods]: openblocks.common.PlayerInventoryStore.onPlayerDeath(PlayerInventoryStore.java:304): Storing post-mortem inventory into D:\Minecraft\1_20_1\Mod\1_12_2\.\world\data\inventory-shinshi0080-2023-06-21_22.32.25-death-0.dat. It can be restored with command '/ob_inventory restore shinshi0080 shinshi0080-2023-06-21_22.32.25-death-0'
-[22:32:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: shinshi0080 was slain by Harpy
-[22:32:25] [Server thread/INFO] [OpenMods]: openblocks.common.PlayerDeathHandler$GraveCallable.tryPlaceGrave(PlayerDeathHandler.java:200): Grave for (3c237344-a542-411d-97a8-02e88b0c27fb,shinshi0080) was spawned at (BlockPos{x=-198, y=6, z=290}) (player died at (BlockPos{x=-197, y=2, z=290}))
-[22:32:43] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[22:32:43] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[22:32:56] [Server thread/INFO] [OpenMods]: openblocks.common.PlayerInventoryStore.onPlayerDeath(PlayerInventoryStore.java:304): Storing post-mortem inventory into D:\Minecraft\1_20_1\Mod\1_12_2\.\world\data\inventory-shinshi0080-2023-06-21_22.32.56-death-0.dat. It can be restored with command '/ob_inventory restore shinshi0080 shinshi0080-2023-06-21_22.32.56-death-0'
-[22:32:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: shinshi0080 was killed by magic
-[22:33:11] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[22:33:11] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[22:46:24] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[22:46:24] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[22:46:46] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[22:46:46] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[22:46:47] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[22:46:47] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[22:47:24] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[22:47:24] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[22:47:37] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[22:47:37] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[22:48:15] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[22:48:15] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[22:49:55] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[22:49:55] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[22:50:19] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[22:50:19] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
-[22:50:38] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: shinshi0080 lost connection: Disconnected
-[22:50:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: shinshi0080 left the game
-[22:56:40] [User Authenticator #4/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player shirasu219 is da24293b-daa7-4d87-825f-773108250484
-[22:56:40] [Netty Server IO #7/INFO] [FML]: Client protocol version 2
-[22:56:40] [Netty Server IO #7/INFO] [FML]: Client attempting to join with 35 mods : minecraft@1.12.2,flansmod@5.10.0,industrialforegoing@1.12.2-1.12.2,usefulbackpacks@1.5.4.85,industrialmeat@1.12-1.0.2,openmodscore@0.12.2,openmods@0.12.2,jei@4.15.0.291,integrationforegoing@1.12.2-1.11,mekanism@1.12.2-9.8.3.390,teslacorelib_registries@1.0.18,bloodmoon@1.5.3,mcp@9.42,journeymap@1.12.2-5.7.1,teslacorelib@1.0.18,gunpowderlib@1.12.2-1.1,swordcraftonline@1.0.1,FML@8.0.99.99,forgelin@1.8.3,uteamcore@2.2.5.147,mekanismtools@1.12.2-9.8.3.390,bettercombatmod@1.5.6,grimoireofgaia@1.7.2,mekanismgenerators@1.12.2-9.8.3.390,net.minecraft.scalar.cutall.mod_cutallsmp@2.5.2,carryon@1.12.3,forge@14.23.5.2859,net.minecraft.scalar.digall.mod_digallsmp@2.3.2,net.minecraft.scalar.mineall.mod_mineallsmp@2.6.6,storagebox@3.2.0,twilightforest@3.11.1021,flammpfeil.slashblade@mc1.12-r33,torohealthmod@1.12.2-11,ironchest@1.12.2-7.0.67.844,openblocks@1.8.1
-[22:56:40] [Netty Server IO #7/INFO] [journeymap]: CLIENT
-[22:56:40] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[22:56:40] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: shirasu219[/60.145.57.122:60774] logged in with entity id 941560 at (-102.62750973066755, 55.0, 249.30746858228198)
-[22:56:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: shirasu219 joined the game
-[22:56:41] [Server thread/INFO] [Mekanism]: Sent config to 'shirasu219.'
-[22:56:44] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: shirasu219 lost connection: Disconnected
-[22:56:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: shirasu219 left the game
+[21:49:25] [Server thread/INFO] [Mekanism]: Fake player readout: UUID = 46e82cd0-d480-3d48-800a-77431ede078e, name = [Mekanism]
+[21:49:25] [Server thread/INFO] [Mekanism]: Finished loading Cardboard Box blacklist (loaded 0 entries)
+[21:49:25] [Server thread/INFO] [Mekanism]: Hooking complete.
+[21:49:26] [Server thread/INFO] [FML]: Forge Mod Loader has successfully loaded 34 mods
+[21:49:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Preparing level "world"
+[21:49:26] [Server thread/INFO] [FML]: Injecting existing registry data into this server instance
+[21:49:27] [Server thread/INFO] [FML]: Applying holder lookups
+[21:49:27] [Server thread/INFO] [FML]: Holder lookups applied
+[21:49:27] [Server thread/INFO] [FML]: Loading dimension 0 (world) (net.minecraft.server.dedicated.DedicatedServer@4846742a)
+[21:49:28] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 700 advancements
+[21:49:28] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@4846742a)
+[21:49:28] [Server thread/INFO] [FML]: Loading dimension 1 (world) (net.minecraft.server.dedicated.DedicatedServer@4846742a)
+[21:49:28] [Server thread/INFO] [FML]: Loading dimension 7 (world) (net.minecraft.server.dedicated.DedicatedServer@4846742a)
+[21:49:28] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for level 0
+[21:49:29] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
+[21:49:29] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
+[21:49:30] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 7%
+[21:49:30] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
+[21:49:30] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
+[21:49:30] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class gaia.entity.monster.EntityGaiaMinotaurus from class gaia.entity.monster.EntityGaiaOrc
+[21:49:30] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
+[21:49:30] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
+[21:49:30] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
+[21:49:30] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
+[21:49:30] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
+[21:49:30] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
+[21:49:30] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
+[21:49:30] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
+[21:49:30] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
+[21:49:30] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
+[21:49:30] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
+[21:49:30] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
+[21:49:31] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 73%
+[21:49:31] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
+[21:49:31] [Server thread/INFO] [FML]: attachCapabilitiesEvent fired=class net.minecraft.tileentity.TileEntityChest
+[21:49:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Done (4.887s)! For help, type "help" or "?"
+[21:49:31] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class com.flansmod.client.debug.EntityDebugVector from class com.flansmod.client.debug.EntityDebugColor
+[21:49:31] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class com.flansmod.client.debug.EntityDebugVector from class com.flansmod.client.debug.EntityDebugColor
+[21:49:31] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class com.flansmod.client.debug.EntityDebugVector from class com.flansmod.client.debug.EntityDebugColor
+[21:49:32] [Server thread/INFO] [FML]: Unloading dimension -1
+[21:49:32] [Server thread/INFO] [FML]: Unloading dimension 1
+[21:49:32] [Server thread/INFO] [FML]: Unloading dimension 7
+[21:50:29] [User Authenticator #1/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player shirasu219 is da24293b-daa7-4d87-825f-773108250484
+[21:50:30] [Netty Server IO #2/INFO] [FML]: Client protocol version 2
+[21:50:30] [Netty Server IO #2/INFO] [FML]: Client attempting to join with 35 mods : minecraft@1.12.2,flansmod@5.10.0,industrialforegoing@1.12.2-1.12.2,usefulbackpacks@1.5.4.85,industrialmeat@1.12-1.0.2,openmodscore@0.12.2,openmods@0.12.2,jei@4.15.0.291,integrationforegoing@1.12.2-1.11,mekanism@1.12.2-9.8.3.390,teslacorelib_registries@1.0.18,bloodmoon@1.5.3,mcp@9.42,journeymap@1.12.2-5.7.1,teslacorelib@1.0.18,gunpowderlib@1.12.2-1.1,swordcraftonline@1.0.1,FML@8.0.99.99,forgelin@1.8.3,uteamcore@2.2.5.147,mekanismtools@1.12.2-9.8.3.390,bettercombatmod@1.5.6,grimoireofgaia@1.7.2,mekanismgenerators@1.12.2-9.8.3.390,net.minecraft.scalar.cutall.mod_cutallsmp@2.5.2,carryon@1.12.3,forge@14.23.5.2859,net.minecraft.scalar.digall.mod_digallsmp@2.3.2,net.minecraft.scalar.mineall.mod_mineallsmp@2.6.6,storagebox@3.2.0,twilightforest@3.11.1021,flammpfeil.slashblade@mc1.12-r33,torohealthmod@1.12.2-11,ironchest@1.12.2-7.0.67.844,openblocks@1.8.1
+[21:50:30] [Netty Server IO #2/INFO] [journeymap]: CLIENT
+[21:50:31] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[21:50:31] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: shirasu219[/127.0.0.1:50194] logged in with entity id 1937 at (-104.10256704776774, 53.0, 245.4189736216412)
+[21:50:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: shirasu219 joined the game
+[21:50:31] [Server thread/INFO] [Mekanism]: Sent config to 'shirasu219.'
+[21:51:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Set the time to 0]
+[21:51:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Given [Golden Apple] * 64 to shirasu219]
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Mermaid
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Zombie
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Creeper
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Bat
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Bat
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Cecaelia
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Skeleton
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Zombie
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Skeleton
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Bat
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Creeper
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Squid
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Skeleton
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Squid
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Zombie
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Squid
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.bone
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Creeper
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Baby Skeleton
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.rottenFlesh
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Creeper
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Goblin
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.rottenFlesh
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.rottenFlesh
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.rottenFlesh
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Skeleton
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Enderman
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Skeleton
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Sheep
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Sheep
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Sheep
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Sheep
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Bat
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.rottenFlesh
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Skeleton
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Sheep
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Bat
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.rottenFlesh
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Skeleton
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Skeleton
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.rottenFlesh
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Baby Skeleton
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Creeper
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.rottenFlesh
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Squid
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.rottenFlesh
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Harpy
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Minotaurus
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Creeper
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Witch
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Spider
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Creeper
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Skeleton
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Bat
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.rottenFlesh
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Creeper
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Creeper
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.rottenFlesh
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Harpy
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.rottenFlesh
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Creeper
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.bone
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.arrow
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.bone
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Enderman
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.arrow
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Zombie
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Bat
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.wood.oak
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.sulphur
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.wood.oak
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Skeleton
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.wood.oak
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Witch
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Bat
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Minotaurus
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.rottenFlesh
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.wood.oak
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.rottenFlesh
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Squid
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Minotaurus
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.stonebrick
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Baby Skeleton
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.rottenFlesh
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Minotaurus
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Harpy
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.wood.oak
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.dirt.default
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Creep
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Minotaurus
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Spider
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.arrow
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Squid
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.wood.oak
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Skeleton
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.rottenFlesh
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.stonebrick
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Spider
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.rottenFlesh
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.stonebrick
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.rottenFlesh
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Spider
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.sulphur
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Spider
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Spider
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Baby Skeleton
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Minotaurus
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Minotaurus
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.rottenFlesh
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Minotaurus
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Skeleton
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Spider
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Baby Skeleton
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Skeleton
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Zombie
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.sulphur
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.arrow
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Creeper
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.arrow
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.bone
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Creeper
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Squid
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Squid
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Minotaurus
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.bone
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.arrow
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.rottenFlesh
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.rottenFlesh
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Creeper
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.rottenFlesh
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Harpy
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Spider
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Minotaurus
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Skeleton
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Spider
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.rottenFlesh
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.bone
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.bone
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Minotaurus
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.rottenFlesh
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Creeper
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.rottenFlesh
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Zombie
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Skeleton
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Bat
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.arrow
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Skeleton
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Harpy
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.bone
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.arrow
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Creeper
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Skeleton
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.bone
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.arrow
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Skeleton
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Spider
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.rottenFlesh
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Skeleton
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.rottenFlesh
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.rottenFlesh
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Spider
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.rottenFlesh
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.arrow
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Creeper
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Sheep
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Spider
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.rottenFlesh
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.bone
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.bone
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.arrow
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.bone
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Skeleton
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.arrow
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.arrow
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.rottenFlesh
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.rottenFlesh
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Minotaurus
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Harpy
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Skeleton
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.arrow
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Pig
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Zombie
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Goblin
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Zombie
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Bat
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Zombie
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Baby Skeleton
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.arrow
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Minotaurus
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.arrow
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.bone
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Skeleton
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Spider
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Harpy
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.bone
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.bone
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.arrow
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Baby Skeleton
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Minotaurus
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Goblin
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Zombie
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.rottenFlesh
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.arrow
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.arrow
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.bone
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Skeleton
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.rottenFlesh
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Goblin
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Spider
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Minotaurus
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Goblin
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Baby Skeleton
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Creeper
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.arrow
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.rottenFlesh
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Witch
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.arrow
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.bone
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Goblin
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Creeper
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.rottenFlesh
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Orc
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.rottenFlesh
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Harpy
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Minotaurus
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Spider
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Chicken
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Creeper
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Zombie
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Baby Skeleton
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Pig
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Minotaurus
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.bone
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.arrow
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Squid
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Creeper
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Squid
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Creeper
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.gravel
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Skeleton
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Creeper
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Spider
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.rottenFlesh
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Chicken
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.bone
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.bone
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.rottenFlesh
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Skeleton
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.gravel
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.arrow
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.gravel
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.bone
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.rottenFlesh
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.gravel
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.gravel
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Orc
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.rottenFlesh
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.arrow
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.rottenFlesh
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Skeleton
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.gravel
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.flint
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.gravel
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.gravel
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Zombie
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Harpy
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Orc
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.bone
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Chicken
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.gravel
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.gravel
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.rottenFlesh
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.arrow
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Minotaurus
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.gravel
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.egg
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Orc
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Donkey
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.flint
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.gravel
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.gravel
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Skeleton
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Creeper
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.rottenFlesh
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.arrow
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Donkey
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.rottenFlesh
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.rottenFlesh
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.rottenFlesh
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.bone
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Skeleton
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.arrow
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.rottenFlesh
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.bone
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Zombie
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.arrow
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.bone
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.arrow
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Creeper
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Donkey
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.arrow
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.bone
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Goblin
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Pig
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Skeleton
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.bone
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.bone
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.arrow
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.rottenFlesh
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.arrow
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.bone
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.rottenFlesh
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.rottenFlesh
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.rottenFlesh
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Enderman
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.bone
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Cow
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.rottenFlesh
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Sheep
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Creeper
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Cow
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.rottenFlesh
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Creeper
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Squid
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Creeper
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Goblin
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Creeper
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Skeleton
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Goblin
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.rottenFlesh
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.arrow
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Minotaurus
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Spider
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.bone
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Bat
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Ender Eye
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.rottenFlesh
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.arrow
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Skeleton
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Baby Skeleton
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Skeleton
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Harpy
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Cow
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.rottenFlesh
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Baby Skeleton
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.rottenFlesh
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.bone
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.arrow
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Pig
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Harpy
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.rottenFlesh
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Creeper
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.rottenFlesh
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Minotaurus
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Goblin
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.bone
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Zombie
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.rottenFlesh
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.rottenFlesh
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.arrow
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Spider
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Goblin
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.bone
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Bat
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Squid
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.arrow
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.rottenFlesh
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Bat
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Squid
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Squid
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.flower2.houstonia
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Minotaurus
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.rottenFlesh
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Minotaurus
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.bone
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Squid
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Minotaurus
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Creeper
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Harpy
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.rottenFlesh
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.rottenFlesh
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Skeleton
+[21:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Cecaelia
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.arrow
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.arrow
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.bone
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Creeper
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Zombie
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.bone
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Spider
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.arrow
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.bone
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.rottenFlesh
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.bone
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.arrow
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.rottenFlesh
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.arrow
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Satyress
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Spider
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.rottenFlesh
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Satyress
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Sheep
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Harpy
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Satyress
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.bone
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Skeleton
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Satyress
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Minotaurus
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Creeper
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.arrow
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.rottenFlesh
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.bone
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.rottenFlesh
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Centaur
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Skeleton
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.arrow
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Satyress
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Harpy
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Minotaurus
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Harpy
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Harpy
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Zombie
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Baby Skeleton
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.arrow
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.bone
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Centaur
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Spider
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Satyress
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Harpy
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Skeleton
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Skeleton
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Satyress
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Skeleton
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Centaur
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Squid
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Squid
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Squid
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Minotaurus
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.rottenFlesh
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Harpy
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Centaur
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Skeleton
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Creeper
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Skeleton
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Zombie
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Harpy
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Satyress
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Zombie
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Enderman
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Creeper
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Skeleton
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Spider
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Spider
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Zombie
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Zombie
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Creeper
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Squid
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed entity.grimoireofgaia.spawner_minotaur.name
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Spider
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Squid
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Zombie
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Creeper
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Skeleton
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Harpy
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Creeper
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Harpy
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Creeper
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Zombie
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Spider
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Harpy
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Harpy
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Harpy
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Skeleton
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Harpy
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Zombie
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Squid
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Spider
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Minotaurus
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Squid
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Creeper
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Skeleton
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Ant Hill
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Mummy
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Creeper
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Creeper
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Creeper
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Magma Monster
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Squid
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Anubis
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Husk
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Ant Hill
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Creeper
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Creeper
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Creeper
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Skeleton
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Creeper
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Spider
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Cyan Flower
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Spriggan
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Anubis
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Spider
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Skeleton
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Spider
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Zombie
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Skeleton
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Skeleton
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Zombie
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Zombie
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Skeleton
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Creeper
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Witch
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Spriggan
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Creeper
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Magma Monster
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Skeleton
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Werecat
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Enderman
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Creeper
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Cyan Flower
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Spider
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Creeper
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Cyan Flower
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Creeper
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Skeleton
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Werecat
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Skeleton
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Skeleton
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Cyan Flower
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Zombie
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Husk
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Creeper
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Spider
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Baby Skeleton
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Mummy
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Cyan Flower
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Skeleton
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Bat
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Pig
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Spider
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Creeper
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Creeper
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Zombie
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Zombie
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Skeleton
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Husk
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Zombie
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Harpy
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Skeleton
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Zombie
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Creeper
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed entity.grimoireofgaia.spawner_sphinx.name
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Sheep
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Sheep
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Skeleton
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Skeleton
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Skeleton
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Mummy
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Mummy
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Anubis
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Skeleton
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Zombie
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Creeper
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Anubis
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Creeper
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Witch
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Husk
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Spider
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Mummy
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Skeleton
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Skeleton
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Husk
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Anubis
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Ant Hill
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Skeleton
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Skeleton
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Creeper
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Creeper
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Ant Hill
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Anubis
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Husk
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Mummy
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Husk
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Husk
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Anubis
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Anubis
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Ant Hill
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Husk
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Spider
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed entity.grimoireofgaia.spawner_sphinx.name
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Skeleton
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Zombie
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Mummy
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Ant Hill
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Husk
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Creeper
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Enderman
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Skeleton
+[21:51:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Skeleton
+[21:53:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Given [Golden Apple] * 1 to shirasu219]
+[21:53:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Given [Large Backpack] * 1 to shirasu219]
+[21:59:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [shirasu219: Given [Personal Chest] * 1 to shirasu219]
+[22:00:10] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: shirasu219 lost connection: Disconnected
+[22:00:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: shirasu219 left the game
+[22:00:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Stopping the server
+[22:00:18] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[22:00:18] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[22:00:18] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[22:00:18] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/overworld
+[22:00:18] [Server thread/INFO] [FML]: Unloading dimension 0
+[22:00:18] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
