@@ -1,57 +1,56 @@
-[20:54:23] [ServerMain/INFO]: Environment: Environment[accountsHost=https://api.mojang.com, sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[20:54:25] [ServerMain/INFO]: Loaded 7 recipes
-[20:54:25] [ServerMain/INFO]: Loaded 1271 advancements
-[20:54:26] [Server thread/INFO]: Starting minecraft server version 1.20.2
-[20:54:26] [Server thread/INFO]: Loading properties
-[20:54:26] [Server thread/INFO]: Default game type: SURVIVAL
-[20:54:26] [Server thread/INFO]: Generating keypair
-[20:54:26] [Server thread/INFO]: Starting Minecraft server on *:25565
-[20:54:26] [Server thread/INFO]: Using default channel type
-[20:54:26] [Server thread/INFO]: Preparing level "world"
-[20:54:27] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[20:54:28] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[20:54:28] [Worker-Main-9/INFO]: Preparing spawn area: 0%
-[20:54:28] [Worker-Main-9/INFO]: Preparing spawn area: 0%
-[20:54:29] [Worker-Main-5/INFO]: Preparing spawn area: 2%
-[20:54:29] [Worker-Main-7/INFO]: Preparing spawn area: 4%
-[20:54:30] [Worker-Main-9/INFO]: Preparing spawn area: 6%
-[20:54:30] [Worker-Main-14/INFO]: Preparing spawn area: 10%
-[20:54:31] [Worker-Main-8/INFO]: Preparing spawn area: 14%
-[20:54:32] [Worker-Main-11/INFO]: Preparing spawn area: 17%
-[20:54:32] [Worker-Main-2/INFO]: Preparing spawn area: 20%
-[20:54:32] [Worker-Main-10/INFO]: Preparing spawn area: 24%
-[20:54:33] [Worker-Main-5/INFO]: Preparing spawn area: 27%
-[20:54:33] [Worker-Main-10/INFO]: Preparing spawn area: 32%
-[20:54:34] [Worker-Main-9/INFO]: Preparing spawn area: 35%
-[20:54:34] [Worker-Main-4/INFO]: Preparing spawn area: 40%
-[20:54:35] [Worker-Main-2/INFO]: Preparing spawn area: 44%
-[20:54:35] [Worker-Main-15/INFO]: Preparing spawn area: 48%
-[20:54:36] [Worker-Main-2/INFO]: Preparing spawn area: 52%
-[20:54:36] [Worker-Main-4/INFO]: Preparing spawn area: 57%
-[20:54:37] [Worker-Main-7/INFO]: Preparing spawn area: 61%
-[20:54:37] [Worker-Main-8/INFO]: Preparing spawn area: 66%
-[20:54:38] [Worker-Main-11/INFO]: Preparing spawn area: 71%
-[20:54:38] [Worker-Main-5/INFO]: Preparing spawn area: 74%
-[20:54:39] [Worker-Main-3/INFO]: Preparing spawn area: 79%
-[20:54:39] [Worker-Main-8/INFO]: Preparing spawn area: 83%
-[20:54:40] [Worker-Main-14/INFO]: Preparing spawn area: 87%
-[20:54:40] [Worker-Main-3/INFO]: Preparing spawn area: 91%
-[20:54:41] [Worker-Main-2/INFO]: Preparing spawn area: 93%
-[20:54:41] [Server thread/INFO]: Time elapsed: 13934 ms
-[20:54:41] [Server thread/INFO]: Done (15.619s)! For help, type "help"
-[20:55:21] [User Authenticator #1/INFO]: UUID of player shirasu219 is da24293b-daa7-4d87-825f-773108250484
-[20:55:21] [Server thread/INFO]: shirasu219[/127.0.0.1:59120] logged in with entity id 220 at (-80.5, 96.0, -8.5)
-[20:55:21] [Server thread/INFO]: shirasu219 joined the game
-[20:58:13] [Server thread/INFO]: shirasu219 lost connection: Disconnected
-[20:58:13] [Server thread/INFO]: shirasu219 left the game
-[20:58:19] [Server thread/INFO]: Stopping the server
-[20:58:19] [Server thread/INFO]: Stopping server
-[20:58:19] [Server thread/INFO]: Saving players
-[20:58:19] [Server thread/INFO]: Saving worlds
-[20:58:19] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[20:58:40] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[20:58:40] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[20:58:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[20:58:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[20:58:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[20:58:40] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[00:42:30] [ServerMain/INFO]: Environment: Environment[accountsHost=https://api.mojang.com, sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[00:42:31] [ServerMain/INFO]: Loaded 7 recipes
+[00:42:31] [ServerMain/INFO]: Loaded 1271 advancements
+[00:42:32] [Server thread/INFO]: Starting minecraft server version 1.20.2
+[00:42:32] [Server thread/INFO]: Loading properties
+[00:42:32] [Server thread/INFO]: Default game type: SURVIVAL
+[00:42:32] [Server thread/INFO]: Generating keypair
+[00:42:32] [Server thread/INFO]: Starting Minecraft server on *:25565
+[00:42:32] [Server thread/INFO]: Using default channel type
+[00:42:32] [Server thread/INFO]: Preparing level "world"
+[00:42:33] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[00:42:34] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[00:42:34] [Worker-Main-11/INFO]: Preparing spawn area: 0%
+[00:42:34] [Worker-Main-11/INFO]: Preparing spawn area: 0%
+[00:42:34] [Worker-Main-11/INFO]: Preparing spawn area: 0%
+[00:42:35] [Worker-Main-6/INFO]: Preparing spawn area: 12%
+[00:42:35] [Server thread/INFO]: Time elapsed: 2386 ms
+[00:42:35] [Server thread/INFO]: Done (3.056s)! For help, type "help"
+[00:44:23] [User Authenticator #1/INFO]: UUID of player shirasu219 is da24293b-daa7-4d87-825f-773108250484
+[00:44:23] [Server thread/INFO]: shirasu219[/127.0.0.1:58912] logged in with entity id 186 at (-69.48956673552517, 97.0, -13.419931090152298)
+[00:44:23] [Server thread/INFO]: shirasu219 joined the game
+[00:46:14] [Server thread/INFO]: shirasu219 lost connection: Disconnected
+[00:46:14] [Server thread/INFO]: shirasu219 left the game
+[00:46:20] [User Authenticator #2/INFO]: UUID of player shirasu219 is da24293b-daa7-4d87-825f-773108250484
+[00:46:20] [Server thread/INFO]: shirasu219[/127.0.0.1:58985] logged in with entity id 364 at (-69.48956673552517, 97.0, -13.419931090152298)
+[00:46:20] [Server thread/INFO]: shirasu219 joined the game
+[00:46:36] [Server thread/INFO]: Made shirasu219 a server operator
+[00:46:46] [Server thread/INFO]: [shirasu219: Gave 1 [Netherite Shovel] to shirasu219]
+[00:46:58] [Server thread/INFO]: [shirasu219: Gave 1 [Netherite Pickaxe] to shirasu219]
+[00:47:09] [Server thread/INFO]: [shirasu219: Gave 1 [Netherite Sword] to shirasu219]
+[00:47:16] [Server thread/INFO]: [shirasu219: Gave 1 [Netherite Axe] to shirasu219]
+[00:47:33] [Server thread/INFO]: [shirasu219: Gave 64 [Bread] to shirasu219]
+[00:48:19] [Server thread/INFO]: [shirasu219: Gave 255 [Block of Diamond] to shirasu219]
+[00:48:43] [Server thread/INFO]: shirasu219 lost connection: Disconnected
+[00:48:43] [Server thread/INFO]: shirasu219 left the game
+[01:34:55] [User Authenticator #3/INFO]: UUID of player shirasu219 is da24293b-daa7-4d87-825f-773108250484
+[01:34:55] [Server thread/INFO]: shirasu219[/127.0.0.1:61865] logged in with entity id 642 at (-69.48956673552517, 97.0, -13.419931090152298)
+[01:34:55] [Server thread/INFO]: shirasu219 joined the game
+[01:35:07] [Server thread/INFO]: [shirasu219: Gave 1 [Netherite Boots] to shirasu219]
+[01:35:15] [Server thread/INFO]: [shirasu219: Gave 1 [Netherite Helmet] to shirasu219]
+[01:35:24] [Server thread/INFO]: [shirasu219: Gave 1 [Netherite Leggings] to shirasu219]
+[01:35:31] [Server thread/INFO]: shirasu219 has completed the challenge [Cover Me in Debris]
+[01:35:31] [Server thread/INFO]: [shirasu219: Gave 1 [Netherite Chestplate] to shirasu219]
+[01:36:31] [Server thread/INFO]: shirasu219 lost connection: Disconnected
+[01:36:31] [Server thread/INFO]: shirasu219 left the game
+[01:36:40] [Server thread/INFO]: Stopping the server
+[01:36:40] [Server thread/INFO]: Stopping server
+[01:36:40] [Server thread/INFO]: Saving players
+[01:36:40] [Server thread/INFO]: Saving worlds
+[01:36:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[01:36:42] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[01:36:42] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[01:36:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01:36:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:36:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01:36:42] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
